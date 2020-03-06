@@ -1,0 +1,40 @@
+{
+    "eventId": 3,
+    "data": [
+        {
+            "stageInfo": {
+                "stageNames": [
+                    "大港"
+                ],
+                "stageTims": [
+                    "12:00",
+                    "13:00",
+                    "14:00",
+                    "15:00",
+                    "16:00",
+                    "17:00",
+                    "18:00",
+                    "19:00",
+                    "20:00"
+                ]
+            },
+            "timetable": [
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 510,
+                        "start": "12:00",
+                        "end": "20:00",
+                        "pid": -1
+                    }
+                ]
+            ]
+        }
+    ]
+}
