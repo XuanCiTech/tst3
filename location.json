@@ -2,5 +2,13 @@
     "eventId": 3,
     "areaImage": "https://festio.app/storage/event/QNSBeGYEeQ0ZvyGQ.png",
     "areaImageX": "https://festio.app/storage/event/",
-    "locations": []
+    "locations": [
+        {
+            "pid": 10,
+            "lat": 22.619518,
+            "lon": 120.285532,
+            "des": "海龍王",
+            "type": 1
+        }
+    ]
 }
