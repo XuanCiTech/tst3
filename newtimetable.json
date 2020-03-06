@@ -8,7 +8,8 @@
                     "南霸天",
                     "女神龍",
                     "卡魔麥",
-                    "出頭天"
+                    "出頭天",
+                    "海波浪"
                 ],
                 "stageTims": [
                     "10:00",
@@ -28,6 +29,21 @@
                 ]
             },
             "timetable": [
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 810,
+                        "start": "10:00",
+                        "end": "23:00",
+                        "pid": -1
+                    }
+                ],
                 [
                     {
                         "isshow": false,
@@ -112,7 +128,8 @@
                     "南霸天",
                     "女神龍",
                     "卡魔麥",
-                    "出頭天"
+                    "出頭天",
+                    "海波浪"
                 ],
                 "stageTims": [
                     "10:00",
@@ -169,6 +186,21 @@
                         "image": "",
                         "duration": 130,
                         "start": "21:20",
+                        "end": "23:00",
+                        "pid": -1
+                    }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 810,
+                        "start": "10:00",
                         "end": "23:00",
                         "pid": -1
                     }
