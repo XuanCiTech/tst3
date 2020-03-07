@@ -733,8 +733,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 270,
+                        "duration": 40,
                         "start": "19:00",
+                        "end": "19:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "南瓜妮歌迷俱樂部",
+                        "date": 1553427600,
+                        "eventId": 3,
+                        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
+                        "duration": 40,
+                        "start": "19:40",
+                        "end": "20:20",
+                        "pid": 54
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 190,
+                        "start": "20:20",
                         "end": "23:00",
                         "pid": -1
                     }
