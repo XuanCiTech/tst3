@@ -119,8 +119,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 490,
+                        "duration": 40,
                         "start": "15:20",
+                        "end": "16:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "謝震廷",
+                        "date": 1553328000,
+                        "eventId": 3,
+                        "info": "謝震廷，臺灣華語流行音樂創作男歌手、吉他手，作詞作曲家，共發行兩張個人全創作專輯。2007年參加第一屆《超級星光大道》以年紀最小最具潛力創作型歌手出道。2015年12月31日推出個人首張創作專輯《查理 Progress Reports》，獲得第27屆金曲獎『最佳新人獎』。",
+                        "stage": "海龍王",
+                        "image": "https://festio.app/storage/artist/",
+                        "duration": 40,
+                        "start": "16:00",
+                        "end": "16:40",
+                        "pid": 86
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 410,
+                        "start": "16:40",
                         "end": "23:00",
                         "pid": -1
                     }
