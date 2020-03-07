@@ -1168,8 +1168,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 430,
+                        "duration": 40,
                         "start": "16:20",
+                        "end": "17:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "必順鄉村",
+                        "date": 1553418000,
+                        "eventId": 3,
+                        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+                        "duration": 40,
+                        "start": "17:00",
+                        "end": "17:40",
+                        "pid": 69
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 350,
+                        "start": "17:40",
                         "end": "23:00",
                         "pid": -1
                     }
