@@ -617,8 +617,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 190,
+                        "duration": 40,
                         "start": "20:20",
+                        "end": "21:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "老王樂隊",
+                        "date": 1553346000,
+                        "eventId": 3,
+                        "info": "老王樂隊，台灣新生代民謠搖滾樂團。2015年冬於台北市成立，曾在政大金旋獎、國立清華大學清韻獎、淡江大學金韶獎等校園民歌比賽都拿下創作組好成績；並於2016年末，以主唱立長、鼓手會元、吉他手偉碩為核心復出，並陸續加入貝斯手潔民與大提琴手佳瑩。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/KqH6yJUiBg4HcPgZ.jpg",
+                        "duration": 40,
+                        "start": "21:00",
+                        "end": "21:40",
+                        "pid": 104
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 110,
+                        "start": "21:40",
                         "end": "23:00",
                         "pid": -1
                     }
