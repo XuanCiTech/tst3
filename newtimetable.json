@@ -855,8 +855,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 450,
+                        "duration": 40,
                         "start": "16:00",
+                        "end": "16:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "泥灘地浪人",
+                        "date": 1553330400,
+                        "eventId": 3,
+                        "info": "泥灘地浪人是一個由一群熱愛台灣並定居於當地的美國與英國籍人士組成於2002年的街頭樂隊。泥灘地浪人的主要風格源自克難樂隊、藍調民謠、傳統爵士以及搖擺樂，其特色為作品經常脫胎於各種經典樂曲，並以數種自製樂器混合演奏。 「泥灘地」指的是其多數成員的生活地區－臺北盆地。",
+                        "stage": "出頭天",
+                        "image": "https://festio.app/storage/artist/6Sd12TJ1eLUguU7R.jpeg",
+                        "duration": 40,
+                        "start": "16:40",
+                        "end": "17:20",
+                        "pid": 112
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 370,
+                        "start": "17:20",
                         "end": "23:00",
                         "pid": -1
                     }
