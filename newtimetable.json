@@ -369,8 +369,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 590,
+                        "duration": 40,
                         "start": "13:40",
+                        "end": "14:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "Say sue Me",
+                        "date": 1553408400,
+                        "eventId": 3,
+                        "info": "譯自英文-Say Sue Me是一支來自韓國釜山的獨立搖滾樂隊，目前由崔素美，金炳圭，河載永和金昌元組成。該樂隊成立於2012年，發行了兩張全長專輯：《我們已經清醒了》和《我們在一起的地方》。和四個擴展播放：Big Summer Night，Semin，這只是一小段路程！和Christmas，這不是Biggie。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/Ge6nrx4ZblXgGCQC.jpg",
+                        "duration": 40,
+                        "start": "14:20",
+                        "end": "15:00",
+                        "pid": 39
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 510,
+                        "start": "15:00",
                         "end": "23:00",
                         "pid": -1
                     }
