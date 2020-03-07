@@ -328,8 +328,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 630,
+                        "duration": 120,
                         "start": "13:00",
+                        "end": "15:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "拍謝少年",
+                        "date": 1553410800,
+                        "eventId": 3,
+                        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+                        "duration": 40,
+                        "start": "15:00",
+                        "end": "15:40",
+                        "pid": 41
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 470,
+                        "start": "15:40",
                         "end": "23:00",
                         "pid": -1
                     }
