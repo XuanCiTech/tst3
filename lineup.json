@@ -299,6 +299,20 @@
     },
     {
         "isshow": true,
+        "name": "向井太一",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "向井太一，日本的R&B唱作歌手、模特。生於福岡縣。所屬公司為Toy's Factory。 2010年加入放克樂隊而出道, 2011年退出樂隊並開始個人音樂事業。2016年推出迷你專輯正式出道。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/sLF3LCo56EiUSoJk.jpg",
+        "duration": 40,
+        "start": "16:00",
+        "end": "16:40",
+        "play_list": [],
+        "pid": 47
+    },
+    {
+        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
