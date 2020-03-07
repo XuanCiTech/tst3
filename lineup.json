@@ -1,17 +1,17 @@
 [
     {
         "isshow": true,
-        "name": "暴君",
+        "name": "千喜計畫特映會",
         "date": 1553385600,
         "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
-        "duration": 40,
+        "info": "我們以為老的東西會讓人懷念，其實老的東西比較容易被忘記，直到消失了大家才開始惋惜，就像今年這場變了模樣的春天吶喊，如果大家平常就多點珍惜跟支持，現在大概也不會變成這樣吧~~就連感覺穩定成長的大港，現在也面臨了未知的命運，維持一場活動實在太難，與其懷念已經消失的，不如把握已經有的！",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/dfKfVUbq5YRr0W7E.png",
+        "duration": 80,
         "start": "11:40",
-        "end": "12:20",
+        "end": "13:00",
         "play_list": [],
-        "pid": 65
+        "pid": 75
     },
     {
         "isshow": true,
@@ -29,17 +29,17 @@
     },
     {
         "isshow": true,
-        "name": "千喜計畫特映會",
+        "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
-        "info": "我們以為老的東西會讓人懷念，其實老的東西比較容易被忘記，直到消失了大家才開始惋惜，就像今年這場變了模樣的春天吶喊，如果大家平常就多點珍惜跟支持，現在大概也不會變成這樣吧~~就連感覺穩定成長的大港，現在也面臨了未知的命運，維持一場活動實在太難，與其懷念已經消失的，不如把握已經有的！",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/dfKfVUbq5YRr0W7E.png",
-        "duration": 80,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
         "start": "11:40",
-        "end": "13:00",
+        "end": "12:20",
         "play_list": [],
-        "pid": 75
+        "pid": 65
     },
     {
         "isshow": true,
@@ -271,20 +271,6 @@
     },
     {
         "isshow": true,
-        "name": "孩子王",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 38
-    },
-    {
-        "isshow": true,
         "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
@@ -310,6 +296,20 @@
         "end": "13:40",
         "play_list": [],
         "pid": 66
+    },
+    {
+        "isshow": true,
+        "name": "孩子王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 38
     },
     {
         "isshow": true,
@@ -369,20 +369,6 @@
     },
     {
         "isshow": true,
-        "name": "一點生",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 67
-    },
-    {
-        "isshow": true,
         "name": "Say sue Me",
         "date": 1553385600,
         "eventId": 3,
@@ -394,6 +380,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 39
+    },
+    {
+        "isshow": true,
+        "name": "一點生",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 67
     },
     {
         "isshow": true,
@@ -411,31 +411,17 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
+        "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
         "play_list": [],
-        "pid": 41
-    },
-    {
-        "isshow": true,
-        "name": "Billy Drummed",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
+        "pid": 77
     },
     {
         "isshow": true,
@@ -453,6 +439,34 @@
     },
     {
         "isshow": true,
+        "name": "Billy Drummed",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 73
+    },
+    {
+        "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
+    },
+    {
+        "isshow": true,
         "name": "SATSUKI",
         "date": 1553385600,
         "eventId": 3,
@@ -464,20 +478,6 @@
         "end": "16:00",
         "play_list": [],
         "pid": 63
-    },
-    {
-        "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
     },
     {
         "isshow": true,
@@ -495,6 +495,20 @@
     },
     {
         "isshow": true,
+        "name": "林以樂",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 68
+    },
+    {
+        "isshow": true,
         "name": "向井太一",
         "date": 1553385600,
         "eventId": 3,
@@ -506,20 +520,6 @@
         "end": "16:40",
         "play_list": [],
         "pid": 47
-    },
-    {
-        "isshow": true,
-        "name": "女孩與機器人",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 58
     },
     {
         "isshow": true,
@@ -537,6 +537,20 @@
     },
     {
         "isshow": true,
+        "name": "女孩與機器人",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 58
+    },
+    {
+        "isshow": true,
         "name": "榕幫",
         "date": 1553385600,
         "eventId": 3,
@@ -548,34 +562,6 @@
         "end": "17:20",
         "play_list": [],
         "pid": 64
-    },
-    {
-        "isshow": true,
-        "name": "林予晞",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 74
-    },
-    {
-        "isshow": true,
-        "name": "必順鄉村",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 69
     },
     {
         "isshow": true,
@@ -593,6 +579,34 @@
     },
     {
         "isshow": true,
+        "name": "必順鄉村",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 69
+    },
+    {
+        "isshow": true,
+        "name": "林予晞",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 74
+    },
+    {
+        "isshow": true,
         "name": "康士坦的變化球",
         "date": 1553385600,
         "eventId": 3,
@@ -607,20 +621,6 @@
     },
     {
         "isshow": true,
-        "name": "黃子佼",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 59
-    },
-    {
-        "isshow": true,
         "name": "TizzyBac",
         "date": 1553385600,
         "eventId": 3,
@@ -632,6 +632,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 43
+    },
+    {
+        "isshow": true,
+        "name": "黃子佼",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 59
     },
     {
         "isshow": true,
@@ -705,20 +719,6 @@
     },
     {
         "isshow": true,
-        "name": "DudaDeportiva",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Premio. Mejor banda del año en los. Golden Indie Music Awards 2017. DUDA DEPORTIVA es un grupo de pop hispanotaiwanés de Taipéi (Taiwán) formado en ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/Y6ixgf8aG7nzjzIO.png",
-        "duration": 40,
-        "start": "19:40",
-        "end": "20:20",
-        "play_list": [],
-        "pid": 71
-    },
-    {
-        "isshow": true,
         "name": "南瓜妮歌迷俱樂部",
         "date": 1553385600,
         "eventId": 3,
@@ -730,6 +730,20 @@
         "end": "20:20",
         "play_list": [],
         "pid": 54
+    },
+    {
+        "isshow": true,
+        "name": "DudaDeportiva",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Premio. Mejor banda del año en los. Golden Indie Music Awards 2017. DUDA DEPORTIVA es un grupo de pop hispanotaiwanés de Taipéi (Taiwán) formado en ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/Y6ixgf8aG7nzjzIO.png",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 71
     },
     {
         "isshow": true,
