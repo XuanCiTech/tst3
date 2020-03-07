@@ -1380,8 +1380,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 630,
+                        "duration": 20,
                         "start": "13:00",
+                        "end": "13:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "恆春兮",
+                        "date": 1553404800,
+                        "eventId": 3,
+                        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+                        "stage": "藍寶石",
+                        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+                        "duration": 60,
+                        "start": "13:20",
+                        "end": "14:20",
+                        "pid": 76
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 550,
+                        "start": "14:20",
                         "end": "23:00",
                         "pid": -1
                     }
