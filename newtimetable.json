@@ -1064,8 +1064,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 100,
                         "start": "10:00",
+                        "end": "11:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "暴君",
+                        "date": 1553398800,
+                        "eventId": 3,
+                        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+                        "duration": 40,
+                        "start": "11:40",
+                        "end": "12:20",
+                        "pid": 65
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 670,
+                        "start": "12:20",
                         "end": "23:00",
                         "pid": -1
                     }
