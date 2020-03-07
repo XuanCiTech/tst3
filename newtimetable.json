@@ -316,8 +316,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 470,
+                        "duration": 40,
                         "start": "15:40",
+                        "end": "16:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "生祥樂隊",
+                        "date": 1553329200,
+                        "eventId": 3,
+                        "info": "生祥樂隊是臺灣的樂團。前身為生祥與樂團，由林生祥及其他的樂手共同組成。生祥樂隊關注農工、環境議題，音樂上則以台灣傳統音樂元素為基底，並協調西方當代音樂，成為台灣獨樹一格的新民謠或搖滾樂種。自生祥與瓦窯坑3解散後，林生祥與大竹研長期合作，亦師亦友。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/uGCNocxAI2lpcYbd.jpg",
+                        "duration": 40,
+                        "start": "16:20",
+                        "end": "17:00",
+                        "pid": 93
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
