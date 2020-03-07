@@ -1,6 +1,20 @@
 [
     {
         "isshow": true,
+        "name": "鄭宜農",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "鄭宜農，臺灣獨立音樂家、作家、演員，臺灣導演鄭文堂之女，宜蘭人。曾就讀於淡江大學中國文學學系，並修習法語。2007年休學專心寫作。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/X94owo5GBdT81k3b.jpg",
+        "duration": 40,
+        "start": "12:20",
+        "end": "13:00",
+        "play_list": [],
+        "pid": 35
+    },
+    {
+        "isshow": true,
         "name": "晨曦光廊",
         "date": 1553385600,
         "eventId": 3,
