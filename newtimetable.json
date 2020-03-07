@@ -904,8 +904,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 310,
+                        "duration": 40,
                         "start": "18:20",
+                        "end": "19:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "傷心欲絕",
+                        "date": 1553425200,
+                        "eventId": 3,
+                        "info": "傷心欲絕 是來自台灣．台北的獨立樂團，於2008年開始。",
+                        "stage": "卡魔麥",
+                        "image": "https://festio.app/storage/artist/8v0GLGg1Ys7WFbVm.png",
+                        "duration": 40,
+                        "start": "19:00",
+                        "end": "19:40",
+                        "pid": 60
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 230,
+                        "start": "19:40",
                         "end": "23:00",
                         "pid": -1
                     }
