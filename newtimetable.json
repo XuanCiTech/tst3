@@ -591,8 +591,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 270,
+                        "duration": 40,
                         "start": "19:00",
+                        "end": "19:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "DSPS",
+                        "date": 1553341200,
+                        "eventId": 3,
+                        "info": "被潛意識牽著走 DSPS 成立於2014 年，由主唱兼主要創作者曾稔文組成，目前團員包括吉他手徐子權（徐子）與鼓手莊子恆（小雞）。 年初貝斯手珈臻因個人生涯規劃而離團，在來不及尋找新成員就必須錄專輯的情況下，只好先請厭世少年的吉他手檳榔代打，而檳榔也參與了新專輯《時間的產物》的編曲及錄音。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/TxYxbJ8l22BHhZWB.png",
+                        "duration": 40,
+                        "start": "19:40",
+                        "end": "20:20",
+                        "pid": 103
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 190,
+                        "start": "20:20",
                         "end": "23:00",
                         "pid": -1
                     }
