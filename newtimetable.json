@@ -565,8 +565,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 350,
+                        "duration": 40,
                         "start": "17:40",
+                        "end": "18:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "邱威傑",
+                        "date": 1553336400,
+                        "eventId": 3,
+                        "info": "邱威傑，中華民國政治人物、網路名人，臺北人，現任歡樂無法黨歡樂總書記兼執行書記、第13屆臺北市議員、Youtuber。中興高中畢業，建國中學、輔仁大學、臺灣大學肄業，台灣渥克劇團編劇及演員、以筆名南宮博士從事遊戲評論，曾於戲谷、Madhead和香港迪士尼公司任職。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/ADfIvaf5RVVRTzVQ.png",
+                        "duration": 40,
+                        "start": "18:20",
+                        "end": "19:00",
+                        "pid": 102
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 270,
+                        "start": "19:00",
                         "end": "23:00",
                         "pid": -1
                     }
