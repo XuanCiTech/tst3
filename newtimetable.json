@@ -250,8 +250,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 140,
                         "start": "10:00",
+                        "end": "12:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "鄭宜農",
+                        "date": 1553401200,
+                        "eventId": 3,
+                        "info": "鄭宜農，臺灣獨立音樂家、作家、演員，臺灣導演鄭文堂之女，宜蘭人。曾就讀於淡江大學中國文學學系，並修習法語。2007年休學專心寫作。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/X94owo5GBdT81k3b.jpg",
+                        "duration": 40,
+                        "start": "12:20",
+                        "end": "13:00",
+                        "pid": 35
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 630,
+                        "start": "13:00",
                         "end": "23:00",
                         "pid": -1
                     }
