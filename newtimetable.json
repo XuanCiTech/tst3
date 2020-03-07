@@ -777,8 +777,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 160,
                         "start": "10:00",
+                        "end": "12:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "害喜喜",
+                        "date": 1553316000,
+                        "eventId": 3,
+                        "info": "害喜喜的音樂就像是澳洲的袋鼠，在與世隔絕的地理騰空出世，大多寫一些日常的瑣事，幻覺與傷感，音樂風格也大致如此，或有點天馬行空、或有點文青詩歌、或有點民族、或有點民謠，讓你隨時無法預料；由於生長在良善美好的環境，有充足的陽光照射，害喜喜成員行光合作用的時間就會產出美妙音樂，就讓害喜喜的旋律在你們的耳膜上著床，使我們成為 ...",
+                        "stage": "出頭天",
+                        "image": "https://festio.app/storage/artist/ETW0JRP6GdmajlWs.jpeg",
+                        "duration": 40,
+                        "start": "12:40",
+                        "end": "13:20",
+                        "pid": 109
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 610,
+                        "start": "13:20",
                         "end": "23:00",
                         "pid": -1
                     }
