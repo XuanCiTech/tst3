@@ -1026,8 +1026,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 350,
+                        "duration": 40,
                         "start": "17:40",
+                        "end": "18:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "粉紅噪音",
+                        "date": 1553336400,
+                        "eventId": 3,
+                        "info": "粉紅雜訊或1/ƒ噪音是一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程。在粉紅雜訊中，每個倍頻程中都有一個等量的雜訊功率。粉紅雜訊的名稱源於這種功率譜下的可見光視覺顏色為粉色。 在科學文獻中，術語1/ƒ 雜訊通常寬泛地指任何一種帶有如下所示功率譜密度的雜訊： 其中ƒ為頻率，且0 < α < 2，α一般趨近於1。",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/cojPPoHbpwpKdFDk.jpeg",
+                        "duration": 40,
+                        "start": "18:20",
+                        "end": "19:00",
+                        "pid": 118
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 270,
+                        "start": "19:00",
                         "end": "23:00",
                         "pid": -1
                     }
