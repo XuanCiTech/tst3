@@ -803,8 +803,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 610,
+                        "duration": 40,
                         "start": "13:20",
+                        "end": "14:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "張雅淳",
+                        "date": 1553320800,
+                        "eventId": 3,
+                        "info": "張雅淳，人稱雅淳桑(Ya Chun San)，從少女時期就和大家交朋友，唱遍島內外，認真又鬆散的過生活。 女性特質濃厚的歌聲中，有老派的文學性與文謅謅性！",
+                        "stage": "出頭天",
+                        "image": "https://festio.app/storage/artist/FpmO2cktmZhFGKus.jpeg",
+                        "duration": 40,
+                        "start": "14:00",
+                        "end": "14:40",
+                        "pid": 110
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 530,
+                        "start": "14:40",
                         "end": "23:00",
                         "pid": -1
                     }
