@@ -127,6 +127,20 @@
     },
     {
         "isshow": true,
+        "name": "茄子蛋",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "茄子蛋，臺灣獨立樂團，2012年成立於台北，由主唱兼鍵盤手阿斌、吉他手阿德及阿任組成，2017年發行首張專輯《卡通人物》，2018年獲得第29屆金曲獎最佳台語專輯獎與最佳新人獎，2019年以單曲〈浪流連〉入圍第30屆金曲獎年度歌曲獎。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/Aq97SZRcN4sO9SjU.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 94
+    },
+    {
+        "isshow": true,
         "name": "夜貓組",
         "date": 1553299200,
         "eventId": 3,
