@@ -1238,8 +1238,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 480,
+                        "duration": 50,
                         "start": "15:30",
+                        "end": "16:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "黑狼那卡西",
+                        "date": 1553329200,
+                        "eventId": 3,
+                        "info": "黑狼那卡西X陳藝堂. 回應大旺如何回應我拍大旺的照片。 一開始編輯部提到，希望攝影者自身能夠書寫或是以摘要一篇文字來搭配介紹攝影本身，這件事情對我來說 ...",
+                        "stage": "藍寶石",
+                        "image": "https://festio.app/storage/artist/G6ursJ48EH8GFJQG.jpg",
+                        "duration": 40,
+                        "start": "16:20",
+                        "end": "17:00",
+                        "pid": 125
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
