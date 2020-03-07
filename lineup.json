@@ -299,6 +299,20 @@
     },
     {
         "isshow": true,
+        "name": "Empty ORio",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 51
+    },
+    {
+        "isshow": true,
         "name": "向井太一",
         "date": 1553385600,
         "eventId": 3,
