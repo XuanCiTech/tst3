@@ -71,20 +71,6 @@
     },
     {
         "isshow": true,
-        "name": "\b負極高壓電",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "負極高壓電】 來自台北最底層的樂團， 由曾組團不順遂充滿負極情緒的樂手組成。\n超薄吉他音牆、超稀疏雙大鼓對點，強烈抒發著對彼此的負極情緒、 批判彼此的世界，訴說著對彼此的觀察，隨時想把彼此踢出團。\n如果被「負極高壓電」踢出團，負負得正，負極又變成正極了。\n（團介 by 曾被踢出團的鼓手小郭）",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/TH7zUq7fYkLavSR1.jpeg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 114
-    },
-    {
-        "isshow": true,
         "name": "東京中央線",
         "date": 1553299200,
         "eventId": 3,
@@ -96,6 +82,20 @@
         "end": "13:40",
         "play_list": [],
         "pid": 98
+    },
+    {
+        "isshow": true,
+        "name": "\b負極高壓電",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "負極高壓電】 來自台北最底層的樂團， 由曾組團不順遂充滿負極情緒的樂手組成。\n超薄吉他音牆、超稀疏雙大鼓對點，強烈抒發著對彼此的負極情緒、 批判彼此的世界，訴說著對彼此的觀察，隨時想把彼此踢出團。\n如果被「負極高壓電」踢出團，負負得正，負極又變成正極了。\n（團介 by 曾被踢出團的鼓手小郭）",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/TH7zUq7fYkLavSR1.jpeg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 114
     },
     {
         "isshow": true,
@@ -183,20 +183,6 @@
     },
     {
         "isshow": true,
-        "name": "隨性",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 92
-    },
-    {
-        "isshow": true,
         "name": "皇后皮箱",
         "date": 1553299200,
         "eventId": 3,
@@ -208,6 +194,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 105
+    },
+    {
+        "isshow": true,
+        "name": "隨性",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 92
     },
     {
         "isshow": true,
@@ -267,20 +267,6 @@
     },
     {
         "isshow": true,
-        "name": "體熊專科",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 106
-    },
-    {
-        "isshow": true,
         "name": "生祥樂隊",
         "date": 1553299200,
         "eventId": 3,
@@ -292,6 +278,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 93
+    },
+    {
+        "isshow": true,
+        "name": "體熊專科",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 106
     },
     {
         "isshow": true,
@@ -379,20 +379,6 @@
     },
     {
         "isshow": true,
-        "name": "粉紅噪音",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "粉紅雜訊或1/ƒ噪音是一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程。在粉紅雜訊中，每個倍頻程中都有一個等量的雜訊功率。粉紅雜訊的名稱源於這種功率譜下的可見光視覺顏色為粉色。 在科學文獻中，術語1/ƒ 雜訊通常寬泛地指任何一種帶有如下所示功率譜密度的雜訊： 其中ƒ為頻率，且0 < α < 2，α一般趨近於1。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/cojPPoHbpwpKdFDk.jpeg",
-        "duration": 40,
-        "start": "18:20",
-        "end": "19:00",
-        "play_list": [],
-        "pid": 118
-    },
-    {
-        "isshow": true,
         "name": "邱威傑",
         "date": 1553299200,
         "eventId": 3,
@@ -404,6 +390,20 @@
         "end": "19:00",
         "play_list": [],
         "pid": 102
+    },
+    {
+        "isshow": true,
+        "name": "粉紅噪音",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "粉紅雜訊或1/ƒ噪音是一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程。在粉紅雜訊中，每個倍頻程中都有一個等量的雜訊功率。粉紅雜訊的名稱源於這種功率譜下的可見光視覺顏色為粉色。 在科學文獻中，術語1/ƒ 雜訊通常寬泛地指任何一種帶有如下所示功率譜密度的雜訊： 其中ƒ為頻率，且0 < α < 2，α一般趨近於1。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/cojPPoHbpwpKdFDk.jpeg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 118
     },
     {
         "isshow": true,
@@ -463,6 +463,20 @@
     },
     {
         "isshow": true,
+        "name": "謝銘佑",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "謝銘祐，生於南投草屯，台灣音樂製作及詞曲創作人。五歲搬家至台南安平。畢業於臺南一中，輔仁大學。退伍後即踏入唱片界，長達十年在台北當音樂製作人，期間創作超過兩千多首歌。2000年回到故鄉台南，沒事就在台南大街小巷穿梭，自稱「府城流浪漢」。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/elBc4NfnblUB8Tjk.jpg",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 119
+    },
+    {
+        "isshow": true,
         "name": "泰迪羅賓",
         "date": 1553299200,
         "eventId": 3,
@@ -519,20 +533,6 @@
     },
     {
         "isshow": true,
-        "name": "淺提",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 37
-    },
-    {
-        "isshow": true,
         "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
@@ -544,6 +544,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 65
+    },
+    {
+        "isshow": true,
+        "name": "淺提",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 37
     },
     {
         "isshow": true,
@@ -775,6 +789,20 @@
     },
     {
         "isshow": true,
+        "name": "孩子王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 38
+    },
+    {
+        "isshow": true,
         "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
@@ -803,17 +831,17 @@
     },
     {
         "isshow": true,
-        "name": "孩子王",
+        "name": "恆春兮",
         "date": 1553385600,
         "eventId": 3,
-        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
         "play_list": [],
-        "pid": 38
+        "pid": 76
     },
     {
         "isshow": true,
@@ -828,20 +856,6 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
-    },
-    {
-        "isshow": true,
-        "name": "恆春兮",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
-        "play_list": [],
-        "pid": 76
     },
     {
         "isshow": true,
@@ -915,17 +929,17 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
+        "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
         "start": "15:00",
-        "end": "15:40",
+        "end": "16:00",
         "play_list": [],
-        "pid": 41
+        "pid": 73
     },
     {
         "isshow": true,
@@ -957,6 +971,20 @@
     },
     {
         "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
+    },
+    {
+        "isshow": true,
         "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
@@ -968,20 +996,6 @@
         "end": "15:40",
         "play_list": [],
         "pid": 57
-    },
-    {
-        "isshow": true,
-        "name": "Billy Drummed",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
     },
     {
         "isshow": true,
@@ -999,20 +1013,6 @@
     },
     {
         "isshow": true,
-        "name": "Empty ORio",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 51
-    },
-    {
-        "isshow": true,
         "name": "林以樂",
         "date": 1553385600,
         "eventId": 3,
@@ -1027,17 +1027,17 @@
     },
     {
         "isshow": true,
-        "name": "林貓王",
+        "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
-        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
-        "duration": 60,
-        "start": "16:00",
-        "end": "17:00",
+        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
         "play_list": [],
-        "pid": 80
+        "pid": 51
     },
     {
         "isshow": true,
@@ -1052,6 +1052,20 @@
         "end": "16:40",
         "play_list": [],
         "pid": 47
+    },
+    {
+        "isshow": true,
+        "name": "林貓王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
+        "duration": 60,
+        "start": "16:00",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 80
     },
     {
         "isshow": true,
@@ -1111,20 +1125,6 @@
     },
     {
         "isshow": true,
-        "name": "林予晞",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 74
-    },
-    {
-        "isshow": true,
         "name": "Yonige",
         "date": 1553385600,
         "eventId": 3,
@@ -1150,6 +1150,20 @@
         "end": "17:40",
         "play_list": [],
         "pid": 69
+    },
+    {
+        "isshow": true,
+        "name": "林予晞",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 74
     },
     {
         "isshow": true,
