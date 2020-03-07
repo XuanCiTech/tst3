@@ -257,17 +257,17 @@
     },
     {
         "isshow": true,
-        "name": "金魁剛＋吳聖皓",
+        "name": "最後大浪",
         "date": 1553385600,
         "eventId": 3,
-        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
-        "duration": 60,
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
         "start": "13:00",
-        "end": "14:00",
+        "end": "13:40",
         "play_list": [],
-        "pid": 72
+        "pid": 66
     },
     {
         "isshow": true,
@@ -285,17 +285,17 @@
     },
     {
         "isshow": true,
-        "name": "最後大浪",
+        "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
-        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
-        "duration": 40,
+        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
+        "duration": 60,
         "start": "13:00",
-        "end": "13:40",
+        "end": "14:00",
         "play_list": [],
-        "pid": 66
+        "pid": 72
     },
     {
         "isshow": true,
@@ -383,17 +383,17 @@
     },
     {
         "isshow": true,
-        "name": "李友廷",
+        "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
-        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
-        "duration": 40,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
         "start": "15:00",
-        "end": "15:40",
+        "end": "16:00",
         "play_list": [],
-        "pid": 57
+        "pid": 73
     },
     {
         "isshow": true,
@@ -408,6 +408,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 41
+    },
+    {
+        "isshow": true,
+        "name": "李友廷",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 57
     },
     {
         "isshow": true,
