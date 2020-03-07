@@ -684,8 +684,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 470,
+                        "duration": 40,
                         "start": "15:40",
+                        "end": "16:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "體熊專科",
+                        "date": 1553329200,
+                        "eventId": 3,
+                        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
+                        "stage": "卡魔麥",
+                        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
+                        "duration": 40,
+                        "start": "16:20",
+                        "end": "17:00",
+                        "pid": 106
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
