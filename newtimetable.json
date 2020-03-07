@@ -1313,8 +1313,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 450,
+                        "duration": 60,
                         "start": "16:00",
+                        "end": "17:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "林予晞",
+                        "date": 1553418000,
+                        "eventId": 3,
+                        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+                        "stage": "大雄丸",
+                        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+                        "duration": 60,
+                        "start": "17:00",
+                        "end": "18:00",
+                        "pid": 74
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 330,
+                        "start": "18:00",
                         "end": "23:00",
                         "pid": -1
                     }
