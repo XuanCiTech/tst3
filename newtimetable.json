@@ -736,8 +736,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 310,
+                        "duration": 40,
                         "start": "18:20",
+                        "end": "19:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "非人物種",
+                        "date": 1553338800,
+                        "eventId": 3,
+                        "info": "現實拖磨少年時的夢，生活跟理想你要選那一項？\n這是成為男子漢的必經路程。\n\n踏著黑紫色的雲彩，口中哼著不成調的音階來到人世間，三頭六臂手持雞腿降臨凡間，帶給俗世人們無盡的苦惱與納悶，毫無頭緒的前奏，騎虎難下的主歌，風流倜儻的副歌與不知所措的結語，狂亂的嘶吼猶如天蓬元帥下凡，雜亂無章的演奏彷彿春天的水溝，帶給你莫名奇妙又充滿快感帶點尷尬的氛圍。\n\n才氣充滿的粗獷4人樂隊專門救災，切西瓜。",
+                        "stage": "卡魔麥",
+                        "image": "https://festio.app/storage/artist/Rv6SFV09pcjgoybc.jpg",
+                        "duration": 40,
+                        "start": "19:00",
+                        "end": "19:40",
+                        "pid": 108
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 230,
+                        "start": "19:40",
                         "end": "23:00",
                         "pid": -1
                     }
