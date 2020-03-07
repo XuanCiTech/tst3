@@ -1287,8 +1287,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 570,
+                        "duration": 60,
                         "start": "14:00",
+                        "end": "15:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "Billy Drummed",
+                        "date": 1553410800,
+                        "eventId": 3,
+                        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+                        "stage": "大雄丸",
+                        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+                        "duration": 60,
+                        "start": "15:00",
+                        "end": "16:00",
+                        "pid": 73
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 450,
+                        "start": "16:00",
                         "end": "23:00",
                         "pid": -1
                     }
