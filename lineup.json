@@ -1,20 +1,6 @@
 [
     {
         "isshow": true,
-        "name": "河豚子",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "河豚子，來自高雄的三件式樂器女子搖滾團體，團名取材自日本動畫『搞笑漫畫日和』裡的海底龍宮宮女「河豚子」一角。這有著不算太正經團名的團體，流著的卻是甘澀 ...",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/kKk6lyMQyJ632DhU.jpeg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 97
-    },
-    {
-        "isshow": true,
         "name": "EnlightEN",
         "date": 1553299200,
         "eventId": 3,
@@ -26,6 +12,34 @@
         "end": "12:20",
         "play_list": [],
         "pid": 113
+    },
+    {
+        "isshow": true,
+        "name": "滅火器鄭宇辰",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "鄭宇辰，綽號西瓜，是臺灣樂團滅火器樂團的吉他手、知名詞曲創作者、火氣音樂股東之一。 2018年5月8日宣布獨立製作完成的個人專輯－《Empty ORio》也即將於5月11日正式發行。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/3GMRyLzWNFJQsf7J.jpeg",
+        "duration": 80,
+        "start": "11:40",
+        "end": "13:00",
+        "play_list": [],
+        "pid": 123
+    },
+    {
+        "isshow": true,
+        "name": "河豚子",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "河豚子，來自高雄的三件式樂器女子搖滾團體，團名取材自日本動畫『搞笑漫畫日和』裡的海底龍宮宮女「河豚子」一角。這有著不算太正經團名的團體，流著的卻是甘澀 ...",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/kKk6lyMQyJ632DhU.jpeg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 97
     },
     {
         "isshow": true,
@@ -155,20 +169,6 @@
     },
     {
         "isshow": true,
-        "name": "共犯結構",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "2015年6月 正式成軍\n2016年9月 發行首張迷你同名EP\n2018年7月 發行首張專輯《北山湖紀事本末》",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/sq9cvHVgwWAhRS12.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 115
-    },
-    {
-        "isshow": true,
         "name": "厭世少年",
         "date": 1553299200,
         "eventId": 3,
@@ -180,6 +180,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 99
+    },
+    {
+        "isshow": true,
+        "name": "共犯結構",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "2015年6月 正式成軍\n2016年9月 發行首張迷你同名EP\n2018年7月 發行首張專輯《北山湖紀事本末》",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/sq9cvHVgwWAhRS12.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 115
     },
     {
         "isshow": true,
@@ -211,20 +225,6 @@
     },
     {
         "isshow": true,
-        "name": "隨性",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 92
-    },
-    {
-        "isshow": true,
         "name": "皇后皮箱",
         "date": 1553299200,
         "eventId": 3,
@@ -236,6 +236,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 105
+    },
+    {
+        "isshow": true,
+        "name": "隨性",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 92
     },
     {
         "isshow": true,
@@ -295,20 +309,6 @@
     },
     {
         "isshow": true,
-        "name": "體熊專科",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 106
-    },
-    {
-        "isshow": true,
         "name": "生祥樂隊",
         "date": 1553299200,
         "eventId": 3,
@@ -320,6 +320,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 93
+    },
+    {
+        "isshow": true,
+        "name": "體熊專科",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 106
     },
     {
         "isshow": true,
@@ -337,17 +351,17 @@
     },
     {
         "isshow": true,
-        "name": "落榜少年隊",
+        "name": "the underground youth",
         "date": 1553299200,
         "eventId": 3,
-        "info": "進擊的初回大港連載中】 無法看完體熊就得奔跑，只因為我在最遙遠的卡魔麥，而下一站是港邊的大雄丸，丸長的船。 登船之前就先跌一跤，小腿親吻地板，拍一拍的同時對於工作人員的關心表達感謝。跌倒小事，幽默的是那道疤一直到四月底浮現祭前夕才淡去，這是後話了。 曼達首度登上大雄丸的DJ秀不容錯過，是曼達的第一次，亦是我的第一次，怎麼說這都是我的初回大港啊！曼達和丸長輪流播歌，好喜歡他們分享自己喜歡的音樂時充滿自信的樣子，也好喜歡乘客們享受音樂的樣子。 啤酒喝不夠就找丸長拿，也太霸氣了，整個被丸長圈粉。難掩緊張的曼達仍然很有態度，期待日後演出見。搖搖晃晃來到南霸天附近，全丸的大家一起唱著茄子蛋的〈浪子回頭〉，航程中唱唱跳跳的大雄丸歡樂至極。 身為佛系推歌的聽團者，繼交通工具之後，我也在青旅跟兩位大哥分享大港開唱這個活動、整體氛圍及相關體驗，特別是大雄丸，其中一位大哥對大雄丸超級感興趣！ 然後，真的拜託了，明年我還想參加大港，大港不能亡。 下回待續。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/sXDb9ZRtysKfD0DK.jpeg",
-        "duration": 60,
+        "info": "來自英格蘭西北部 Blackpool，由主腦/主唱 Craig Dyer 正式開始起了 The Undergroung Youth 這個名字，有著超過十個年頭的音樂旅程。 經歷過初期打出名號的‘Morally Barren’、‘Voltage’、‘Mademoiselle’、‘Sadovaya’等免費下載作品，Craig 與鼓手 Olya —— 同時也是他的妻子，於 2011 年在新廠牌 Fuzz Club 發表第五張專輯 ‘Delirium’ 後正式確立樂隊編制，並於隔年從歐洲展開邁向世界的旅程。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/GMvw7MJrIXdhy4q7.jpeg",
+        "duration": 40,
         "start": "17:00",
-        "end": "18:00",
+        "end": "17:40",
         "play_list": [],
-        "pid": 122
+        "pid": 101
     },
     {
         "isshow": true,
@@ -365,17 +379,17 @@
     },
     {
         "isshow": true,
-        "name": "the underground youth",
+        "name": "落榜少年隊",
         "date": 1553299200,
         "eventId": 3,
-        "info": "來自英格蘭西北部 Blackpool，由主腦/主唱 Craig Dyer 正式開始起了 The Undergroung Youth 這個名字，有著超過十個年頭的音樂旅程。 經歷過初期打出名號的‘Morally Barren’、‘Voltage’、‘Mademoiselle’、‘Sadovaya’等免費下載作品，Craig 與鼓手 Olya —— 同時也是他的妻子，於 2011 年在新廠牌 Fuzz Club 發表第五張專輯 ‘Delirium’ 後正式確立樂隊編制，並於隔年從歐洲展開邁向世界的旅程。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/GMvw7MJrIXdhy4q7.jpeg",
-        "duration": 40,
+        "info": "進擊的初回大港連載中】 無法看完體熊就得奔跑，只因為我在最遙遠的卡魔麥，而下一站是港邊的大雄丸，丸長的船。 登船之前就先跌一跤，小腿親吻地板，拍一拍的同時對於工作人員的關心表達感謝。跌倒小事，幽默的是那道疤一直到四月底浮現祭前夕才淡去，這是後話了。 曼達首度登上大雄丸的DJ秀不容錯過，是曼達的第一次，亦是我的第一次，怎麼說這都是我的初回大港啊！曼達和丸長輪流播歌，好喜歡他們分享自己喜歡的音樂時充滿自信的樣子，也好喜歡乘客們享受音樂的樣子。 啤酒喝不夠就找丸長拿，也太霸氣了，整個被丸長圈粉。難掩緊張的曼達仍然很有態度，期待日後演出見。搖搖晃晃來到南霸天附近，全丸的大家一起唱著茄子蛋的〈浪子回頭〉，航程中唱唱跳跳的大雄丸歡樂至極。 身為佛系推歌的聽團者，繼交通工具之後，我也在青旅跟兩位大哥分享大港開唱這個活動、整體氛圍及相關體驗，特別是大雄丸，其中一位大哥對大雄丸超級感興趣！ 然後，真的拜託了，明年我還想參加大港，大港不能亡。 下回待續。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/sXDb9ZRtysKfD0DK.jpeg",
+        "duration": 60,
         "start": "17:00",
-        "end": "17:40",
+        "end": "18:00",
         "play_list": [],
-        "pid": 101
+        "pid": 122
     },
     {
         "isshow": true,
@@ -393,20 +407,6 @@
     },
     {
         "isshow": true,
-        "name": "HiJack",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 107
-    },
-    {
-        "isshow": true,
         "name": "茄子蛋",
         "date": 1553299200,
         "eventId": 3,
@@ -418,6 +418,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 94
+    },
+    {
+        "isshow": true,
+        "name": "HiJack",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 107
     },
     {
         "isshow": true,
@@ -561,20 +575,6 @@
     },
     {
         "isshow": true,
-        "name": "淺提",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 37
-    },
-    {
-        "isshow": true,
         "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
@@ -600,6 +600,20 @@
         "end": "13:00",
         "play_list": [],
         "pid": 75
+    },
+    {
+        "isshow": true,
+        "name": "淺提",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 37
     },
     {
         "isshow": true,
@@ -971,34 +985,6 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 41
-    },
-    {
-        "isshow": true,
-        "name": "Billy Drummed",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
-    },
-    {
-        "isshow": true,
         "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
@@ -1024,6 +1010,34 @@
         "end": "16:00",
         "play_list": [],
         "pid": 79
+    },
+    {
+        "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
+    },
+    {
+        "isshow": true,
+        "name": "Billy Drummed",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 73
     },
     {
         "isshow": true,
@@ -1083,20 +1097,6 @@
     },
     {
         "isshow": true,
-        "name": "向井太一",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "向井太一，日本的R&B唱作歌手、模特。生於福岡縣。所屬公司為Toy's Factory。 2010年加入放克樂隊而出道, 2011年退出樂隊並開始個人音樂事業。2016年推出迷你專輯正式出道。",
-        "stage": "海龍王",
-        "image": "https://festio.app/storage/artist/sLF3LCo56EiUSoJk.jpg",
-        "duration": 40,
-        "start": "16:00",
-        "end": "16:40",
-        "play_list": [],
-        "pid": 47
-    },
-    {
-        "isshow": true,
         "name": "林貓王",
         "date": 1553385600,
         "eventId": 3,
@@ -1108,6 +1108,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 80
+    },
+    {
+        "isshow": true,
+        "name": "向井太一",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "向井太一，日本的R&B唱作歌手、模特。生於福岡縣。所屬公司為Toy's Factory。 2010年加入放克樂隊而出道, 2011年退出樂隊並開始個人音樂事業。2016年推出迷你專輯正式出道。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/sLF3LCo56EiUSoJk.jpg",
+        "duration": 40,
+        "start": "16:00",
+        "end": "16:40",
+        "play_list": [],
+        "pid": 47
     },
     {
         "isshow": true,
@@ -1167,34 +1181,6 @@
     },
     {
         "isshow": true,
-        "name": "必順鄉村",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 69
-    },
-    {
-        "isshow": true,
-        "name": "Yonige",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 52
-    },
-    {
-        "isshow": true,
         "name": "Spykee",
         "date": 1553385600,
         "eventId": 3,
@@ -1220,6 +1206,34 @@
         "end": "18:00",
         "play_list": [],
         "pid": 74
+    },
+    {
+        "isshow": true,
+        "name": "Yonige",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 52
+    },
+    {
+        "isshow": true,
+        "name": "必順鄉村",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 69
     },
     {
         "isshow": true,
