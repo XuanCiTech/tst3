@@ -896,8 +896,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 100,
                         "start": "10:00",
+                        "end": "11:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "EnlightEN",
+                        "date": 1553312400,
+                        "eventId": 3,
+                        "info": "電話亭樂團、昆蟲白與神經病樂團鼓手、白目樂隊電子鼓鼓手。 ... EnlightEN樂團鼓手，前Lyra樂團鼓手，頻繁於各大Live House演出如台北Legacy,The wall,Pipe ...",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/MXUpYR44r7GmEwSm.jpeg",
+                        "duration": 40,
+                        "start": "11:40",
+                        "end": "12:20",
+                        "pid": 113
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 670,
+                        "start": "12:20",
                         "end": "23:00",
                         "pid": -1
                     }
