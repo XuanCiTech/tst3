@@ -343,8 +343,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 670,
+                        "duration": 40,
                         "start": "12:20",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "孩子王",
+                        "date": 1553403600,
+                        "eventId": 3,
+                        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
+                        "duration": 40,
+                        "start": "13:00",
+                        "end": "13:40",
+                        "pid": 38
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 590,
+                        "start": "13:40",
                         "end": "23:00",
                         "pid": -1
                     }
