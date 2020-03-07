@@ -290,8 +290,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 550,
+                        "duration": 40,
                         "start": "14:20",
+                        "end": "15:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "隨性",
+                        "date": 1553324400,
+                        "eventId": 3,
+                        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
+                        "duration": 40,
+                        "start": "15:00",
+                        "end": "15:40",
+                        "pid": 92
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 470,
+                        "start": "15:40",
                         "end": "23:00",
                         "pid": -1
                     }
