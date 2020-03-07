@@ -15,20 +15,6 @@
     },
     {
         "isshow": true,
-        "name": "EnlightEN",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "電話亭樂團、昆蟲白與神經病樂團鼓手、白目樂隊電子鼓鼓手。 ... EnlightEN樂團鼓手，前Lyra樂團鼓手，頻繁於各大Live House演出如台北Legacy,The wall,Pipe ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/MXUpYR44r7GmEwSm.jpeg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 113
-    },
-    {
-        "isshow": true,
         "name": "河豚子",
         "date": 1553299200,
         "eventId": 3,
@@ -40,6 +26,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 97
+    },
+    {
+        "isshow": true,
+        "name": "EnlightEN",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "電話亭樂團、昆蟲白與神經病樂團鼓手、白目樂隊電子鼓鼓手。 ... EnlightEN樂團鼓手，前Lyra樂團鼓手，頻繁於各大Live House演出如台北Legacy,The wall,Pipe ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/MXUpYR44r7GmEwSm.jpeg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 113
     },
     {
         "isshow": true,
@@ -99,20 +99,6 @@
     },
     {
         "isshow": true,
-        "name": "\b負極高壓電",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "負極高壓電】 來自台北最底層的樂團， 由曾組團不順遂充滿負極情緒的樂手組成。\n超薄吉他音牆、超稀疏雙大鼓對點，強烈抒發著對彼此的負極情緒、 批判彼此的世界，訴說著對彼此的觀察，隨時想把彼此踢出團。\n如果被「負極高壓電」踢出團，負負得正，負極又變成正極了。\n（團介 by 曾被踢出團的鼓手小郭）",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/TH7zUq7fYkLavSR1.jpeg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 114
-    },
-    {
-        "isshow": true,
         "name": "東京中央線",
         "date": 1553299200,
         "eventId": 3,
@@ -124,6 +110,20 @@
         "end": "13:40",
         "play_list": [],
         "pid": 98
+    },
+    {
+        "isshow": true,
+        "name": "\b負極高壓電",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "負極高壓電】 來自台北最底層的樂團， 由曾組團不順遂充滿負極情緒的樂手組成。\n超薄吉他音牆、超稀疏雙大鼓對點，強烈抒發著對彼此的負極情緒、 批判彼此的世界，訴說著對彼此的觀察，隨時想把彼此踢出團。\n如果被「負極高壓電」踢出團，負負得正，負極又變成正極了。\n（團介 by 曾被踢出團的鼓手小郭）",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/TH7zUq7fYkLavSR1.jpeg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 114
     },
     {
         "isshow": true,
@@ -183,20 +183,6 @@
     },
     {
         "isshow": true,
-        "name": "共犯結構",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "2015年6月 正式成軍\n2016年9月 發行首張迷你同名EP\n2018年7月 發行首張專輯《北山湖紀事本末》",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/sq9cvHVgwWAhRS12.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 115
-    },
-    {
-        "isshow": true,
         "name": "厭世少年",
         "date": 1553299200,
         "eventId": 3,
@@ -208,6 +194,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 99
+    },
+    {
+        "isshow": true,
+        "name": "共犯結構",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "2015年6月 正式成軍\n2016年9月 發行首張迷你同名EP\n2018年7月 發行首張專輯《北山湖紀事本末》",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/sq9cvHVgwWAhRS12.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 115
     },
     {
         "isshow": true,
@@ -225,6 +225,20 @@
     },
     {
         "isshow": true,
+        "name": "皇后皮箱",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "皇后皮箱來自於台北的樂團，成立於2008年，由主唱兼鍵盤卡菈、吉他手阿怪，貝斯手黑輪三人所組成。以1960-70年代的搖滾為主要風格，融合著Blues、Motown、R&B、Surf Rock的曲風。2014年首張專輯《超時空歌女的快活》 2018年發行第二張專輯《仙人指路》",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/076f2EUnwmSMtBuy.jpeg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 105
+    },
+    {
+        "isshow": true,
         "name": "全聯先生",
         "date": 1553299200,
         "eventId": 3,
@@ -239,6 +253,20 @@
     },
     {
         "isshow": true,
+        "name": "DenkiDada",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "獨立系派對炒手\n什麼都喜歡什麼都PLAY\n\nResident DJ at The Bar (The Wall Live House)\nParty/Event/Wedding DJ",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/dd033zVENs6OMTsc.jpeg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 126
+    },
+    {
+        "isshow": true,
         "name": "隨性",
         "date": 1553299200,
         "eventId": 3,
@@ -250,20 +278,6 @@
         "end": "15:40",
         "play_list": [],
         "pid": 92
-    },
-    {
-        "isshow": true,
-        "name": "皇后皮箱",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "皇后皮箱來自於台北的樂團，成立於2008年，由主唱兼鍵盤卡菈、吉他手阿怪，貝斯手黑輪三人所組成。以1960-70年代的搖滾為主要風格，融合著Blues、Motown、R&B、Surf Rock的曲風。2014年首張專輯《超時空歌女的快活》 2018年發行第二張專輯《仙人指路》",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/076f2EUnwmSMtBuy.jpeg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 105
     },
     {
         "isshow": true,
@@ -323,6 +337,20 @@
     },
     {
         "isshow": true,
+        "name": "體熊專科",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 106
+    },
+    {
+        "isshow": true,
         "name": "黑狼那卡西",
         "date": 1553299200,
         "eventId": 3,
@@ -351,20 +379,6 @@
     },
     {
         "isshow": true,
-        "name": "體熊專科",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 106
-    },
-    {
-        "isshow": true,
         "name": "泥灘地浪人",
         "date": 1553299200,
         "eventId": 3,
@@ -376,6 +390,20 @@
         "end": "17:20",
         "play_list": [],
         "pid": 112
+    },
+    {
+        "isshow": true,
+        "name": "海豚刑警",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "大家注意==！！哈皮^^~２０１７屁團誕生(⁎⁍̴̛ᴗ⁍̴̛⁎)~☆,,*‧‧﹏\n海豚刑事總部正式發佈出道處女秀新聞稿@@==！！！主幹道由一把電吉他與一把電電吉他先行拿下==！！支流配置==！一些豚豚平常就會拿來噗累噗累ㄉ玩具聲響，，最後再加上淑芬雙馬尾ㄉ交叉怒吼旋轉跳躍華麗組成@@..朗朗上口ㄉ旋律==！了無新意ㄉ和弦==！曲風多變==！歌詞偏不流俗==！狗年初加入ㄌ彈指之間御用旋律線夢想導師aka金發把拔抖指引~與擔任待引爆抖哈姆太郎「咚咚」角色aka進擊抖鼓手寶珠！！\n在這ㄍ壞噗噗(Bad poo poo)抖世界，揪讓婐悶一起~~!!~!!!~陰蒂Rock一夏芭٩(˃̶͈̀௰˂̶͈́)و！！！",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/rXtrBKHuO8TZqqiS.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 117
     },
     {
         "isshow": true,
@@ -407,20 +435,6 @@
     },
     {
         "isshow": true,
-        "name": "海豚刑警",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "大家注意==！！哈皮^^~２０１７屁團誕生(⁎⁍̴̛ᴗ⁍̴̛⁎)~☆,,*‧‧﹏\n海豚刑事總部正式發佈出道處女秀新聞稿@@==！！！主幹道由一把電吉他與一把電電吉他先行拿下==！！支流配置==！一些豚豚平常就會拿來噗累噗累ㄉ玩具聲響，，最後再加上淑芬雙馬尾ㄉ交叉怒吼旋轉跳躍華麗組成@@..朗朗上口ㄉ旋律==！了無新意ㄉ和弦==！曲風多變==！歌詞偏不流俗==！狗年初加入ㄌ彈指之間御用旋律線夢想導師aka金發把拔抖指引~與擔任待引爆抖哈姆太郎「咚咚」角色aka進擊抖鼓手寶珠！！\n在這ㄍ壞噗噗(Bad poo poo)抖世界，揪讓婐悶一起~~!!~!!!~陰蒂Rock一夏芭٩(˃̶͈̀௰˂̶͈́)و！！！",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/rXtrBKHuO8TZqqiS.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 117
-    },
-    {
-        "isshow": true,
         "name": "西澤幸奏",
         "date": 1553299200,
         "eventId": 3,
@@ -435,20 +449,6 @@
     },
     {
         "isshow": true,
-        "name": "HiJack",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 107
-    },
-    {
-        "isshow": true,
         "name": "茄子蛋",
         "date": 1553299200,
         "eventId": 3,
@@ -460,6 +460,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 94
+    },
+    {
+        "isshow": true,
+        "name": "HiJack",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 107
     },
     {
         "isshow": true,
@@ -603,6 +617,20 @@
     },
     {
         "isshow": true,
+        "name": "淺提",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 37
+    },
+    {
+        "isshow": true,
         "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
@@ -628,20 +656,6 @@
         "end": "13:00",
         "play_list": [],
         "pid": 75
-    },
-    {
-        "isshow": true,
-        "name": "淺提",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 37
     },
     {
         "isshow": true,
@@ -873,17 +887,17 @@
     },
     {
         "isshow": true,
-        "name": "孩子王",
+        "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
-        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
-        "duration": 40,
+        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
+        "duration": 60,
         "start": "13:00",
-        "end": "13:40",
+        "end": "14:00",
         "play_list": [],
-        "pid": 38
+        "pid": 72
     },
     {
         "isshow": true,
@@ -901,31 +915,17 @@
     },
     {
         "isshow": true,
-        "name": "金魁剛＋吳聖皓",
+        "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
-        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
-        "duration": 60,
-        "start": "13:00",
-        "end": "14:00",
-        "play_list": [],
-        "pid": 72
-    },
-    {
-        "isshow": true,
-        "name": "石井健雄",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "石井健雄，旅居德國的日本歌唱家，東京出身，以約德爾唱法聞名。",
-        "stage": "海龍王",
-        "image": "https://festio.app/storage/artist/tJ7ZtfTjMyTCJoy2.jpg",
+        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
         "duration": 40,
-        "start": "13:20",
-        "end": "14:00",
+        "start": "13:00",
+        "end": "13:40",
         "play_list": [],
-        "pid": 40
+        "pid": 38
     },
     {
         "isshow": true,
@@ -940,6 +940,20 @@
         "end": "14:20",
         "play_list": [],
         "pid": 76
+    },
+    {
+        "isshow": true,
+        "name": "石井健雄",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "石井健雄，旅居德國的日本歌唱家，東京出身，以約德爾唱法聞名。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/tJ7ZtfTjMyTCJoy2.jpg",
+        "duration": 40,
+        "start": "13:20",
+        "end": "14:00",
+        "play_list": [],
+        "pid": 40
     },
     {
         "isshow": true,
@@ -1013,34 +1027,6 @@
     },
     {
         "isshow": true,
-        "name": "李友廷",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 57
-    },
-    {
-        "isshow": true,
-        "name": "陳涵",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 79
-    },
-    {
-        "isshow": true,
         "name": "拍謝少年",
         "date": 1553385600,
         "eventId": 3,
@@ -1055,6 +1041,20 @@
     },
     {
         "isshow": true,
+        "name": "李友廷",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 57
+    },
+    {
+        "isshow": true,
         "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
@@ -1066,6 +1066,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 77
+    },
+    {
+        "isshow": true,
+        "name": "陳涵",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 79
     },
     {
         "isshow": true,
@@ -1209,6 +1223,20 @@
     },
     {
         "isshow": true,
+        "name": "Spykee",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 81
+    },
+    {
+        "isshow": true,
         "name": "林予晞",
         "date": 1553385600,
         "eventId": 3,
@@ -1248,20 +1276,6 @@
         "end": "17:40",
         "play_list": [],
         "pid": 69
-    },
-    {
-        "isshow": true,
-        "name": "Spykee",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 81
     },
     {
         "isshow": true,
@@ -1391,20 +1405,6 @@
     },
     {
         "isshow": true,
-        "name": "南瓜妮歌迷俱樂部",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
-        "duration": 40,
-        "start": "19:40",
-        "end": "20:20",
-        "play_list": [],
-        "pid": 54
-    },
-    {
-        "isshow": true,
         "name": "DudaDeportiva",
         "date": 1553385600,
         "eventId": 3,
@@ -1416,6 +1416,20 @@
         "end": "20:20",
         "play_list": [],
         "pid": 71
+    },
+    {
+        "isshow": true,
+        "name": "南瓜妮歌迷俱樂部",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 54
     },
     {
         "isshow": true,
