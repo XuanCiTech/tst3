@@ -257,20 +257,6 @@
     },
     {
         "isshow": true,
-        "name": "最後大浪",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 66
-    },
-    {
-        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -282,6 +268,20 @@
         "end": "13:40",
         "play_list": [],
         "pid": 38
+    },
+    {
+        "isshow": true,
+        "name": "最後大浪",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 66
     },
     {
         "isshow": true,
@@ -327,20 +327,6 @@
     },
     {
         "isshow": true,
-        "name": "Say sue Me",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-Say Sue Me是一支來自韓國釜山的獨立搖滾樂隊，目前由崔素美，金炳圭，河載永和金昌元組成。該樂隊成立於2012年，發行了兩張全長專輯：《我們已經清醒了》和《我們在一起的地方》。和四個擴展播放：Big Summer Night，Semin，這只是一小段路程！和Christmas，這不是Biggie。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/Ge6nrx4ZblXgGCQC.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 39
-    },
-    {
-        "isshow": true,
         "name": "一點生",
         "date": 1553385600,
         "eventId": 3,
@@ -352,6 +338,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 67
+    },
+    {
+        "isshow": true,
+        "name": "Say sue Me",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "譯自英文-Say Sue Me是一支來自韓國釜山的獨立搖滾樂隊，目前由崔素美，金炳圭，河載永和金昌元組成。該樂隊成立於2012年，發行了兩張全長專輯：《我們已經清醒了》和《我們在一起的地方》。和四個擴展播放：Big Summer Night，Semin，這只是一小段路程！和Christmas，這不是Biggie。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/Ge6nrx4ZblXgGCQC.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 39
     },
     {
         "isshow": true,
@@ -411,20 +411,6 @@
     },
     {
         "isshow": true,
-        "name": "Empty ORio",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 51
-    },
-    {
-        "isshow": true,
         "name": "林以樂",
         "date": 1553385600,
         "eventId": 3,
@@ -436,6 +422,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 68
+    },
+    {
+        "isshow": true,
+        "name": "Empty ORio",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 51
     },
     {
         "isshow": true,
@@ -562,6 +562,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 43
+    },
+    {
+        "isshow": true,
+        "name": "椅子樂團",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "其實並不是什麼初出茅廬的樂團，知名DJ 小樹曾封他們為「來自台中的宅男樂團」，團員們都是台中一中吉他社的社員，椅子樂團的團名源自他們參加比賽時，臨時起意拉了椅子敲出節奏加入歌曲中。 有點宅，笑起來憨厚樸實，連團名都取得相當隨性，椅子樂團的音樂卻一點都不簡單。 在2016 年就以首張專輯「Cheers!",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5umpUO2uhw7CuILh.jpg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 70
     },
     {
         "isshow": true,
