@@ -852,8 +852,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 470,
+                        "duration": 40,
                         "start": "15:40",
+                        "end": "16:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "女孩與機器人",
+                        "date": 1553415600,
+                        "eventId": 3,
+                        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+                        "stage": "卡魔麥",
+                        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+                        "duration": 40,
+                        "start": "16:20",
+                        "end": "17:00",
+                        "pid": 58
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
