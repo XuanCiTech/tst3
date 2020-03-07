@@ -85,6 +85,20 @@
     },
     {
         "isshow": true,
+        "name": "厭世少年",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "樂團成員\n主唱: 阿國\n吉他手: 檳榔\n吉他手: 陽痿\n長號手/薩克斯風手: 處男\n薩克斯風手:大便\n鼓手: 寶春\n貝斯手: 歐巴馬\n鍵盤手:莫札特\n\n歷任成員\n一代目鼓手: 馬眼(2013-2014)\n藏鏡貝斯手: 火車站(2013-2015)\n最萌小喇叭: K仔(2014-2015)\n偶像吉他手:杰倫 (2013-2015)",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/PQjmmUr0aVufEDmi.jpeg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 99
+    },
+    {
+        "isshow": true,
         "name": "吳卓源",
         "date": 1553299200,
         "eventId": 3,
@@ -635,45 +649,17 @@
     },
     {
         "isshow": true,
-        "name": "李友廷",
+        "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
-        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 57
-    },
-    {
-        "isshow": true,
-        "name": "陳涵",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
         "duration": 60,
         "start": "15:00",
         "end": "16:00",
         "play_list": [],
-        "pid": 79
-    },
-    {
-        "isshow": true,
-        "name": "五五身",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 77
+        "pid": 73
     },
     {
         "isshow": true,
@@ -691,17 +677,45 @@
     },
     {
         "isshow": true,
-        "name": "Billy Drummed",
+        "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 57
+    },
+    {
+        "isshow": true,
+        "name": "五五身",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 77
+    },
+    {
+        "isshow": true,
+        "name": "陳涵",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
         "duration": 60,
         "start": "15:00",
         "end": "16:00",
         "play_list": [],
-        "pid": 73
+        "pid": 79
     },
     {
         "isshow": true,
@@ -719,20 +733,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -747,17 +747,17 @@
     },
     {
         "isshow": true,
-        "name": "林貓王",
+        "name": "林以樂",
         "date": 1553385600,
         "eventId": 3,
-        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
-        "duration": 60,
-        "start": "16:00",
-        "end": "17:00",
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
         "play_list": [],
-        "pid": 80
+        "pid": 68
     },
     {
         "isshow": true,
@@ -772,6 +772,20 @@
         "end": "16:40",
         "play_list": [],
         "pid": 47
+    },
+    {
+        "isshow": true,
+        "name": "林貓王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
+        "duration": 60,
+        "start": "16:00",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 80
     },
     {
         "isshow": true,
@@ -845,17 +859,17 @@
     },
     {
         "isshow": true,
-        "name": "必順鄉村",
+        "name": "Yonige",
         "date": 1553385600,
         "eventId": 3,
-        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
         "duration": 40,
         "start": "17:00",
         "end": "17:40",
         "play_list": [],
-        "pid": 69
+        "pid": 52
     },
     {
         "isshow": true,
@@ -873,17 +887,17 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
+        "name": "必順鄉村",
         "date": 1553385600,
         "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
         "duration": 40,
         "start": "17:00",
         "end": "17:40",
         "play_list": [],
-        "pid": 52
+        "pid": 69
     },
     {
         "isshow": true,
@@ -901,20 +915,6 @@
     },
     {
         "isshow": true,
-        "name": "TizzyBac",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 43
-    },
-    {
-        "isshow": true,
         "name": "黃子佼",
         "date": 1553385600,
         "eventId": 3,
@@ -926,6 +926,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 59
+    },
+    {
+        "isshow": true,
+        "name": "TizzyBac",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 43
     },
     {
         "isshow": true,
