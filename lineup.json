@@ -313,20 +313,6 @@
     },
     {
         "isshow": true,
-        "name": "恆春兮",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
-        "play_list": [],
-        "pid": 76
-    },
-    {
-        "isshow": true,
         "name": "石井健雄",
         "date": 1553385600,
         "eventId": 3,
@@ -338,6 +324,20 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
+    },
+    {
+        "isshow": true,
+        "name": "恆春兮",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 76
     },
     {
         "isshow": true,
@@ -369,20 +369,6 @@
     },
     {
         "isshow": true,
-        "name": "一點生",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 67
-    },
-    {
-        "isshow": true,
         "name": "Say sue Me",
         "date": 1553385600,
         "eventId": 3,
@@ -394,6 +380,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 39
+    },
+    {
+        "isshow": true,
+        "name": "一點生",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 67
     },
     {
         "isshow": true,
@@ -411,17 +411,17 @@
     },
     {
         "isshow": true,
-        "name": "李友廷",
+        "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
-        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
-        "duration": 40,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
         "start": "15:00",
-        "end": "15:40",
+        "end": "16:00",
         "play_list": [],
-        "pid": 57
+        "pid": 73
     },
     {
         "isshow": true,
@@ -436,6 +436,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 77
+    },
+    {
+        "isshow": true,
+        "name": "李友廷",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 57
     },
     {
         "isshow": true,
@@ -467,20 +481,6 @@
     },
     {
         "isshow": true,
-        "name": "Billy Drummed",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
-    },
-    {
-        "isshow": true,
         "name": "SATSUKI",
         "date": 1553385600,
         "eventId": 3,
@@ -495,20 +495,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -520,6 +506,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 51
+    },
+    {
+        "isshow": true,
+        "name": "林以樂",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 68
     },
     {
         "isshow": true,
@@ -551,17 +551,17 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
+        "name": "十九雨",
         "date": 1553385600,
         "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
         "duration": 40,
         "start": "16:20",
         "end": "17:00",
         "play_list": [],
-        "pid": 58
+        "pid": 78
     },
     {
         "isshow": true,
@@ -579,17 +579,17 @@
     },
     {
         "isshow": true,
-        "name": "十九雨",
+        "name": "女孩與機器人",
         "date": 1553385600,
         "eventId": 3,
-        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
         "duration": 40,
         "start": "16:20",
         "end": "17:00",
         "play_list": [],
-        "pid": 78
+        "pid": 58
     },
     {
         "isshow": true,
@@ -604,20 +604,6 @@
         "end": "17:20",
         "play_list": [],
         "pid": 64
-    },
-    {
-        "isshow": true,
-        "name": "林予晞",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 74
     },
     {
         "isshow": true,
@@ -663,6 +649,20 @@
     },
     {
         "isshow": true,
+        "name": "林予晞",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 74
+    },
+    {
+        "isshow": true,
         "name": "康士坦的變化球",
         "date": 1553385600,
         "eventId": 3,
@@ -702,6 +702,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 43
+    },
+    {
+        "isshow": true,
+        "name": "陳涵＋林貓王＋Spykee",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "你可以通過不確定而顫抖的聲音來表達傳遞自己的意思，也可以通過很自信的方式表達。如果你在界面中的表述多以問號結束，比如「也許」、「可能」、「感興趣？」或者「想要試試麼？」，那麼你完全可以把語氣變得更堅定一些。不過萬事無絕對，適當放鬆措詞讓用戶有自行思考的餘地也是可以的。",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/pyp2rgKiFpqcuaJG.jpg",
+        "duration": 60,
+        "start": "18:00",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 82
     },
     {
         "isshow": true,
