@@ -1,20 +1,6 @@
 [
     {
         "isshow": true,
-        "name": "暴君",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 65
-    },
-    {
-        "isshow": true,
         "name": "淺提",
         "date": 1553385600,
         "eventId": 3,
@@ -26,6 +12,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 37
+    },
+    {
+        "isshow": true,
+        "name": "暴君",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 65
     },
     {
         "isshow": true,
@@ -257,20 +257,6 @@
     },
     {
         "isshow": true,
-        "name": "最後大浪",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 66
-    },
-    {
-        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -282,6 +268,20 @@
         "end": "13:40",
         "play_list": [],
         "pid": 38
+    },
+    {
+        "isshow": true,
+        "name": "最後大浪",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 66
     },
     {
         "isshow": true,
@@ -324,6 +324,20 @@
         "end": "14:40",
         "play_list": [],
         "pid": 62
+    },
+    {
+        "isshow": true,
+        "name": "一點生",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 67
     },
     {
         "isshow": true,
@@ -425,20 +439,6 @@
     },
     {
         "isshow": true,
-        "name": "落日飛車",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 42
-    },
-    {
-        "isshow": true,
         "name": "女孩與機器人",
         "date": 1553385600,
         "eventId": 3,
@@ -450,6 +450,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 58
+    },
+    {
+        "isshow": true,
+        "name": "落日飛車",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 42
     },
     {
         "isshow": true,
