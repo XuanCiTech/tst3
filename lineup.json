@@ -1,20 +1,6 @@
 [
     {
         "isshow": true,
-        "name": "淺提",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 37
-    },
-    {
-        "isshow": true,
         "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
@@ -26,6 +12,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 65
+    },
+    {
+        "isshow": true,
+        "name": "淺提",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 37
     },
     {
         "isshow": true,
@@ -327,20 +327,6 @@
     },
     {
         "isshow": true,
-        "name": "一點生",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 67
-    },
-    {
-        "isshow": true,
         "name": "Say sue Me",
         "date": 1553385600,
         "eventId": 3,
@@ -352,6 +338,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 39
+    },
+    {
+        "isshow": true,
+        "name": "一點生",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 67
     },
     {
         "isshow": true,
@@ -369,20 +369,6 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 41
-    },
-    {
-        "isshow": true,
         "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
@@ -394,6 +380,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 57
+    },
+    {
+        "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
     },
     {
         "isshow": true,
@@ -411,20 +411,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -436,6 +422,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 51
+    },
+    {
+        "isshow": true,
+        "name": "林以樂",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 68
     },
     {
         "isshow": true,
@@ -453,20 +453,6 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 58
-    },
-    {
-        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
@@ -481,6 +467,20 @@
     },
     {
         "isshow": true,
+        "name": "女孩與機器人",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 58
+    },
+    {
+        "isshow": true,
         "name": "榕幫",
         "date": 1553385600,
         "eventId": 3,
@@ -492,6 +492,20 @@
         "end": "17:20",
         "play_list": [],
         "pid": 64
+    },
+    {
+        "isshow": true,
+        "name": "必順鄉村",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 69
     },
     {
         "isshow": true,
