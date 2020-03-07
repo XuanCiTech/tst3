@@ -1261,8 +1261,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 180,
                         "start": "10:00",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "金魁剛＋吳聖皓",
+                        "date": 1553403600,
+                        "eventId": 3,
+                        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
+                        "stage": "大雄丸",
+                        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
+                        "duration": 60,
+                        "start": "13:00",
+                        "end": "14:00",
+                        "pid": 72
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 570,
+                        "start": "14:00",
                         "end": "23:00",
                         "pid": -1
                     }
