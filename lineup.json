@@ -43,6 +43,20 @@
     },
     {
         "isshow": true,
+        "name": "怕胖團",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "怕胖團，是台灣樂團，成員共有四人，由吉他手兼主唱謝侃均、貝斯手黃怡瑋、貝斯吉他謝孔均、鼓手魏敦華組成。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/UwPCDKyhx045TIN9.jpg",
+        "duration": 40,
+        "start": "13:40",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 91
+    },
+    {
+        "isshow": true,
         "name": "吳卓源",
         "date": 1553299200,
         "eventId": 3,
@@ -113,6 +127,20 @@
     },
     {
         "isshow": true,
+        "name": "暴君",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 65
+    },
+    {
+        "isshow": true,
         "name": "千喜計畫特映會",
         "date": 1553385600,
         "eventId": 3,
@@ -138,20 +166,6 @@
         "end": "12:20",
         "play_list": [],
         "pid": 37
-    },
-    {
-        "isshow": true,
-        "name": "暴君",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 65
     },
     {
         "isshow": true,
@@ -383,20 +397,6 @@
     },
     {
         "isshow": true,
-        "name": "金魁剛＋吳聖皓",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
-        "duration": 60,
-        "start": "13:00",
-        "end": "14:00",
-        "play_list": [],
-        "pid": 72
-    },
-    {
-        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -425,17 +425,17 @@
     },
     {
         "isshow": true,
-        "name": "石井健雄",
+        "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
-        "info": "石井健雄，旅居德國的日本歌唱家，東京出身，以約德爾唱法聞名。",
-        "stage": "海龍王",
-        "image": "https://festio.app/storage/artist/tJ7ZtfTjMyTCJoy2.jpg",
-        "duration": 40,
-        "start": "13:20",
+        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
+        "duration": 60,
+        "start": "13:00",
         "end": "14:00",
         "play_list": [],
-        "pid": 40
+        "pid": 72
     },
     {
         "isshow": true,
@@ -450,6 +450,20 @@
         "end": "14:20",
         "play_list": [],
         "pid": 76
+    },
+    {
+        "isshow": true,
+        "name": "石井健雄",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "石井健雄，旅居德國的日本歌唱家，東京出身，以約德爾唱法聞名。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/tJ7ZtfTjMyTCJoy2.jpg",
+        "duration": 40,
+        "start": "13:20",
+        "end": "14:00",
+        "play_list": [],
+        "pid": 40
     },
     {
         "isshow": true,
@@ -537,6 +551,34 @@
     },
     {
         "isshow": true,
+        "name": "Billy Drummed",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 73
+    },
+    {
+        "isshow": true,
+        "name": "五五身",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 77
+    },
+    {
+        "isshow": true,
         "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
@@ -565,34 +607,6 @@
     },
     {
         "isshow": true,
-        "name": "五五身",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 77
-    },
-    {
-        "isshow": true,
-        "name": "Billy Drummed",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
-    },
-    {
-        "isshow": true,
         "name": "SATSUKI",
         "date": 1553385600,
         "eventId": 3,
@@ -607,20 +621,6 @@
     },
     {
         "isshow": true,
-        "name": "Empty ORio",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 51
-    },
-    {
-        "isshow": true,
         "name": "林以樂",
         "date": 1553385600,
         "eventId": 3,
@@ -632,6 +632,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 68
+    },
+    {
+        "isshow": true,
+        "name": "Empty ORio",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 51
     },
     {
         "isshow": true,
@@ -663,6 +677,20 @@
     },
     {
         "isshow": true,
+        "name": "十九雨",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 78
+    },
+    {
+        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
@@ -688,20 +716,6 @@
         "end": "17:00",
         "play_list": [],
         "pid": 58
-    },
-    {
-        "isshow": true,
-        "name": "十九雨",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 78
     },
     {
         "isshow": true,
@@ -733,17 +747,17 @@
     },
     {
         "isshow": true,
-        "name": "Spykee",
+        "name": "林予晞",
         "date": 1553385600,
         "eventId": 3,
-        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
         "duration": 60,
         "start": "17:00",
         "end": "18:00",
         "play_list": [],
-        "pid": 81
+        "pid": 74
     },
     {
         "isshow": true,
@@ -761,17 +775,17 @@
     },
     {
         "isshow": true,
-        "name": "林予晞",
+        "name": "Spykee",
         "date": 1553385600,
         "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
         "duration": 60,
         "start": "17:00",
         "end": "18:00",
         "play_list": [],
-        "pid": 74
+        "pid": 81
     },
     {
         "isshow": true,
@@ -789,20 +803,6 @@
     },
     {
         "isshow": true,
-        "name": "黃子佼",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 59
-    },
-    {
-        "isshow": true,
         "name": "TizzyBac",
         "date": 1553385600,
         "eventId": 3,
@@ -814,6 +814,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 43
+    },
+    {
+        "isshow": true,
+        "name": "黃子佼",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 59
     },
     {
         "isshow": true,
@@ -901,20 +915,6 @@
     },
     {
         "isshow": true,
-        "name": "南瓜妮歌迷俱樂部",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
-        "duration": 40,
-        "start": "19:40",
-        "end": "20:20",
-        "play_list": [],
-        "pid": 54
-    },
-    {
-        "isshow": true,
         "name": "DudaDeportiva",
         "date": 1553385600,
         "eventId": 3,
@@ -926,6 +926,20 @@
         "end": "20:20",
         "play_list": [],
         "pid": 71
+    },
+    {
+        "isshow": true,
+        "name": "南瓜妮歌迷俱樂部",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 54
     },
     {
         "isshow": true,
