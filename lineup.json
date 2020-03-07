@@ -113,20 +113,6 @@
     },
     {
         "isshow": true,
-        "name": "隨性",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 92
-    },
-    {
-        "isshow": true,
         "name": "皇后皮箱",
         "date": 1553299200,
         "eventId": 3,
@@ -138,6 +124,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 105
+    },
+    {
+        "isshow": true,
+        "name": "隨性",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 92
     },
     {
         "isshow": true,
@@ -166,6 +166,20 @@
         "end": "16:40",
         "play_list": [],
         "pid": 86
+    },
+    {
+        "isshow": true,
+        "name": "體熊專科",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 106
     },
     {
         "isshow": true,
@@ -337,20 +351,6 @@
     },
     {
         "isshow": true,
-        "name": "暴君",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 65
-    },
-    {
-        "isshow": true,
         "name": "淺提",
         "date": 1553385600,
         "eventId": 3,
@@ -362,6 +362,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 37
+    },
+    {
+        "isshow": true,
+        "name": "暴君",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 65
     },
     {
         "isshow": true,
@@ -593,6 +607,20 @@
     },
     {
         "isshow": true,
+        "name": "孩子王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 38
+    },
+    {
+        "isshow": true,
         "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
@@ -618,20 +646,6 @@
         "end": "13:40",
         "play_list": [],
         "pid": 66
-    },
-    {
-        "isshow": true,
-        "name": "孩子王",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 38
     },
     {
         "isshow": true,
@@ -733,17 +747,17 @@
     },
     {
         "isshow": true,
-        "name": "陳涵",
+        "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
-        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
-        "duration": 60,
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
+        "duration": 40,
         "start": "15:00",
-        "end": "16:00",
+        "end": "15:40",
         "play_list": [],
-        "pid": 79
+        "pid": 77
     },
     {
         "isshow": true,
@@ -775,17 +789,17 @@
     },
     {
         "isshow": true,
-        "name": "五五身",
+        "name": "陳涵",
         "date": 1553385600,
         "eventId": 3,
-        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
-        "duration": 40,
+        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
+        "duration": 60,
         "start": "15:00",
-        "end": "15:40",
+        "end": "16:00",
         "play_list": [],
-        "pid": 77
+        "pid": 79
     },
     {
         "isshow": true,
@@ -817,20 +831,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -842,6 +842,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 51
+    },
+    {
+        "isshow": true,
+        "name": "林以樂",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 68
     },
     {
         "isshow": true,
@@ -873,6 +887,20 @@
     },
     {
         "isshow": true,
+        "name": "女孩與機器人",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 58
+    },
+    {
+        "isshow": true,
         "name": "十九雨",
         "date": 1553385600,
         "eventId": 3,
@@ -901,20 +929,6 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 58
-    },
-    {
-        "isshow": true,
         "name": "榕幫",
         "date": 1553385600,
         "eventId": 3,
@@ -929,20 +943,6 @@
     },
     {
         "isshow": true,
-        "name": "Spykee",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 81
-    },
-    {
-        "isshow": true,
         "name": "林予晞",
         "date": 1553385600,
         "eventId": 3,
@@ -954,6 +954,20 @@
         "end": "18:00",
         "play_list": [],
         "pid": 74
+    },
+    {
+        "isshow": true,
+        "name": "Spykee",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 81
     },
     {
         "isshow": true,
@@ -999,20 +1013,6 @@
     },
     {
         "isshow": true,
-        "name": "黃子佼",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 59
-    },
-    {
-        "isshow": true,
         "name": "TizzyBac",
         "date": 1553385600,
         "eventId": 3,
@@ -1024,6 +1024,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 43
+    },
+    {
+        "isshow": true,
+        "name": "黃子佼",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 59
     },
     {
         "isshow": true,
@@ -1041,20 +1055,6 @@
     },
     {
         "isshow": true,
-        "name": "IC/BC",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
-        "duration": 40,
-        "start": "18:20",
-        "end": "19:00",
-        "play_list": [],
-        "pid": 53
-    },
-    {
-        "isshow": true,
         "name": "椅子樂團",
         "date": 1553385600,
         "eventId": 3,
@@ -1066,6 +1066,20 @@
         "end": "19:00",
         "play_list": [],
         "pid": 70
+    },
+    {
+        "isshow": true,
+        "name": "IC/BC",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 53
     },
     {
         "isshow": true,
