@@ -394,8 +394,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 210,
+                        "duration": 40,
                         "start": "20:00",
+                        "end": "20:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "閃靈",
+                        "date": 1553344800,
+                        "eventId": 3,
+                        "info": "閃靈是一支台灣重金屬樂團，1995年成立於台北，曾獲台灣金曲獎與金音創作獎最佳樂團。團長為貝斯手葉湘怡，創團者是主唱林昶佐。目前主要創作者為主唱Freddy與吉他手小黑。英文團名「ChthoniC」是希臘文「克托尼俄斯」之意，漢語音譯為「閃靈」。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/ZeYEYI0LJS8qYMYP.jpg",
+                        "duration": 60,
+                        "start": "20:40",
+                        "end": "21:40",
+                        "pid": 96
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 110,
+                        "start": "21:40",
                         "end": "23:00",
                         "pid": -1
                     }
