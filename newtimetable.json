@@ -971,8 +971,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 610,
+                        "duration": 40,
                         "start": "13:20",
+                        "end": "14:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "山本義則",
+                        "date": 1553407200,
+                        "eventId": 3,
+                        "info": "言葉だけでは表現できない感情を弱者の立場にたって歌うシンガーソングライター。",
+                        "stage": "出頭天",
+                        "image": "https://festio.app/storage/artist/1RT616XRWv5Vv5Oh.jpg",
+                        "duration": 40,
+                        "start": "14:00",
+                        "end": "14:40",
+                        "pid": 62
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 530,
+                        "start": "14:40",
                         "end": "23:00",
                         "pid": -1
                     }
