@@ -1090,8 +1090,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 670,
+                        "duration": 40,
                         "start": "12:20",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "最後大浪",
+                        "date": 1553403600,
+                        "eventId": 3,
+                        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+                        "duration": 40,
+                        "start": "13:00",
+                        "end": "13:40",
+                        "pid": 66
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 590,
+                        "start": "13:40",
                         "end": "23:00",
                         "pid": -1
                     }
