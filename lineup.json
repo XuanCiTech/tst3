@@ -1,6 +1,20 @@
 [
     {
         "isshow": true,
+        "name": "暴君",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 65
+    },
+    {
+        "isshow": true,
         "name": "淺提",
         "date": 1553385600,
         "eventId": 3,
@@ -397,20 +411,6 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 58
-    },
-    {
-        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
@@ -422,6 +422,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 42
+    },
+    {
+        "isshow": true,
+        "name": "女孩與機器人",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 58
     },
     {
         "isshow": true,
@@ -467,20 +481,6 @@
     },
     {
         "isshow": true,
-        "name": "TizzyBac",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 43
-    },
-    {
-        "isshow": true,
         "name": "黃子佼",
         "date": 1553385600,
         "eventId": 3,
@@ -492,6 +492,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 59
+    },
+    {
+        "isshow": true,
+        "name": "TizzyBac",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 43
     },
     {
         "isshow": true,
