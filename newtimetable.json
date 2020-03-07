@@ -1093,8 +1093,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 180,
                         "start": "10:00",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "NikeChen",
+                        "date": 1553317200,
+                        "eventId": 3,
+                        "info": "m a queen, hand me the crown 篡位ING\non the scene like頭等艙 我優先登基\n黑寡婦 the way I move 違反人體力學的角度\nWell fuck the rules 從來沒被束縛\n天生反骨 天生頑固 硬底子功夫加上軟骨\n化為談吐 用韻腳在你面前漫步\n觀眾歡呼 半瓶子醋根本來亂入的\n被我剷除 what u gon do",
+                        "stage": "大雄丸",
+                        "image": "https://festio.app/storage/artist/AkPQyLRPuffTTMmN.jpg",
+                        "duration": 60,
+                        "start": "13:00",
+                        "end": "14:00",
+                        "pid": 120
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 570,
+                        "start": "14:00",
                         "end": "23:00",
                         "pid": -1
                     }
