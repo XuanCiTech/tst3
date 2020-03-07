@@ -1116,8 +1116,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 590,
+                        "duration": 40,
                         "start": "13:40",
+                        "end": "14:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "一點生",
+                        "date": 1553408400,
+                        "eventId": 3,
+                        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
+                        "duration": 40,
+                        "start": "14:20",
+                        "end": "15:00",
+                        "pid": 67
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 510,
+                        "start": "15:00",
                         "end": "23:00",
                         "pid": -1
                     }
