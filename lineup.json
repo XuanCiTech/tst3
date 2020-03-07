@@ -225,20 +225,6 @@
     },
     {
         "isshow": true,
-        "name": "熱寫生",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "熱寫生，來自台北的另類民謠樂團，成立於2018年。 掐指一算這樂團還算年輕，實際上團員皆是樂壇猛將，分別來自非人物種、佛香甜、向量單車、包子虎等各路樂團好手。 熱寫生從生活中汲取創作題材，感情、日常、現實，還有生命中不可或缺的貓，將男女雙主唱的柔和嗓音和樂器當作畫筆，在這座城市進行一場場的生活速寫。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/KaeF1gHRJ1k6nJil.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 116
-    },
-    {
-        "isshow": true,
         "name": "光景消逝",
         "date": 1553299200,
         "eventId": 3,
@@ -250,6 +236,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 100
+    },
+    {
+        "isshow": true,
+        "name": "熱寫生",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "熱寫生，來自台北的另類民謠樂團，成立於2018年。 掐指一算這樂團還算年輕，實際上團員皆是樂壇猛將，分別來自非人物種、佛香甜、向量單車、包子虎等各路樂團好手。 熱寫生從生活中汲取創作題材，感情、日常、現實，還有生命中不可或缺的貓，將男女雙主唱的柔和嗓音和樂器當作畫筆，在這座城市進行一場場的生活速寫。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/KaeF1gHRJ1k6nJil.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 116
     },
     {
         "isshow": true,
@@ -267,20 +267,6 @@
     },
     {
         "isshow": true,
-        "name": "生祥樂隊",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "生祥樂隊是臺灣的樂團。前身為生祥與樂團，由林生祥及其他的樂手共同組成。生祥樂隊關注農工、環境議題，音樂上則以台灣傳統音樂元素為基底，並協調西方當代音樂，成為台灣獨樹一格的新民謠或搖滾樂種。自生祥與瓦窯坑3解散後，林生祥與大竹研長期合作，亦師亦友。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/uGCNocxAI2lpcYbd.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 93
-    },
-    {
-        "isshow": true,
         "name": "體熊專科",
         "date": 1553299200,
         "eventId": 3,
@@ -292,6 +278,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 106
+    },
+    {
+        "isshow": true,
+        "name": "生祥樂隊",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "生祥樂隊是臺灣的樂團。前身為生祥與樂團，由林生祥及其他的樂手共同組成。生祥樂隊關注農工、環境議題，音樂上則以台灣傳統音樂元素為基底，並協調西方當代音樂，成為台灣獨樹一格的新民謠或搖滾樂種。自生祥與瓦窯坑3解散後，林生祥與大竹研長期合作，亦師亦友。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/uGCNocxAI2lpcYbd.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 93
     },
     {
         "isshow": true,
@@ -351,6 +351,20 @@
     },
     {
         "isshow": true,
+        "name": "HiJack",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 107
+    },
+    {
+        "isshow": true,
         "name": "茄子蛋",
         "date": 1553299200,
         "eventId": 3,
@@ -365,17 +379,17 @@
     },
     {
         "isshow": true,
-        "name": "HiJack",
+        "name": "粉紅噪音",
         "date": 1553299200,
         "eventId": 3,
-        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
+        "info": "粉紅雜訊或1/ƒ噪音是一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程。在粉紅雜訊中，每個倍頻程中都有一個等量的雜訊功率。粉紅雜訊的名稱源於這種功率譜下的可見光視覺顏色為粉色。 在科學文獻中，術語1/ƒ 雜訊通常寬泛地指任何一種帶有如下所示功率譜密度的雜訊： 其中ƒ為頻率，且0 < α < 2，α一般趨近於1。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/cojPPoHbpwpKdFDk.jpeg",
         "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
+        "start": "18:20",
+        "end": "19:00",
         "play_list": [],
-        "pid": 107
+        "pid": 118
     },
     {
         "isshow": true,
@@ -761,20 +775,6 @@
     },
     {
         "isshow": true,
-        "name": "孩子王",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 38
-    },
-    {
-        "isshow": true,
         "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
@@ -800,6 +800,20 @@
         "end": "13:40",
         "play_list": [],
         "pid": 66
+    },
+    {
+        "isshow": true,
+        "name": "孩子王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 38
     },
     {
         "isshow": true,
@@ -901,31 +915,17 @@
     },
     {
         "isshow": true,
-        "name": "Billy Drummed",
+        "name": "拍謝少年",
         "date": 1553385600,
         "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
-    },
-    {
-        "isshow": true,
-        "name": "五五身",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
         "play_list": [],
-        "pid": 77
+        "pid": 41
     },
     {
         "isshow": true,
@@ -943,17 +943,17 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
+        "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
         "play_list": [],
-        "pid": 41
+        "pid": 77
     },
     {
         "isshow": true,
@@ -968,6 +968,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 57
+    },
+    {
+        "isshow": true,
+        "name": "Billy Drummed",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 73
     },
     {
         "isshow": true,
@@ -1013,20 +1027,6 @@
     },
     {
         "isshow": true,
-        "name": "向井太一",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "向井太一，日本的R&B唱作歌手、模特。生於福岡縣。所屬公司為Toy's Factory。 2010年加入放克樂隊而出道, 2011年退出樂隊並開始個人音樂事業。2016年推出迷你專輯正式出道。",
-        "stage": "海龍王",
-        "image": "https://festio.app/storage/artist/sLF3LCo56EiUSoJk.jpg",
-        "duration": 40,
-        "start": "16:00",
-        "end": "16:40",
-        "play_list": [],
-        "pid": 47
-    },
-    {
-        "isshow": true,
         "name": "林貓王",
         "date": 1553385600,
         "eventId": 3,
@@ -1038,6 +1038,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 80
+    },
+    {
+        "isshow": true,
+        "name": "向井太一",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "向井太一，日本的R&B唱作歌手、模特。生於福岡縣。所屬公司為Toy's Factory。 2010年加入放克樂隊而出道, 2011年退出樂隊並開始個人音樂事業。2016年推出迷你專輯正式出道。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/sLF3LCo56EiUSoJk.jpg",
+        "duration": 40,
+        "start": "16:00",
+        "end": "16:40",
+        "play_list": [],
+        "pid": 47
     },
     {
         "isshow": true,
@@ -1097,20 +1111,6 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 52
-    },
-    {
-        "isshow": true,
         "name": "林予晞",
         "date": 1553385600,
         "eventId": 3,
@@ -1122,6 +1122,20 @@
         "end": "18:00",
         "play_list": [],
         "pid": 74
+    },
+    {
+        "isshow": true,
+        "name": "Yonige",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 52
     },
     {
         "isshow": true,
