@@ -99,6 +99,20 @@
     },
     {
         "isshow": true,
+        "name": "生祥樂隊",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "生祥樂隊是臺灣的樂團。前身為生祥與樂團，由林生祥及其他的樂手共同組成。生祥樂隊關注農工、環境議題，音樂上則以台灣傳統音樂元素為基底，並協調西方當代音樂，成為台灣獨樹一格的新民謠或搖滾樂種。自生祥與瓦窯坑3解散後，林生祥與大竹研長期合作，亦師亦友。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/uGCNocxAI2lpcYbd.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 93
+    },
+    {
+        "isshow": true,
         "name": "西澤幸奏",
         "date": 1553299200,
         "eventId": 3,
@@ -155,20 +169,6 @@
     },
     {
         "isshow": true,
-        "name": "千喜計畫特映會",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "我們以為老的東西會讓人懷念，其實老的東西比較容易被忘記，直到消失了大家才開始惋惜，就像今年這場變了模樣的春天吶喊，如果大家平常就多點珍惜跟支持，現在大概也不會變成這樣吧~~就連感覺穩定成長的大港，現在也面臨了未知的命運，維持一場活動實在太難，與其懷念已經消失的，不如把握已經有的！",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/dfKfVUbq5YRr0W7E.png",
-        "duration": 80,
-        "start": "11:40",
-        "end": "13:00",
-        "play_list": [],
-        "pid": 75
-    },
-    {
-        "isshow": true,
         "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
@@ -180,6 +180,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 65
+    },
+    {
+        "isshow": true,
+        "name": "千喜計畫特映會",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "我們以為老的東西會讓人懷念，其實老的東西比較容易被忘記，直到消失了大家才開始惋惜，就像今年這場變了模樣的春天吶喊，如果大家平常就多點珍惜跟支持，現在大概也不會變成這樣吧~~就連感覺穩定成長的大港，現在也面臨了未知的命運，維持一場活動實在太難，與其懷念已經消失的，不如把握已經有的！",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/dfKfVUbq5YRr0W7E.png",
+        "duration": 80,
+        "start": "11:40",
+        "end": "13:00",
+        "play_list": [],
+        "pid": 75
     },
     {
         "isshow": true,
@@ -411,6 +425,20 @@
     },
     {
         "isshow": true,
+        "name": "金魁剛＋吳聖皓",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
+        "duration": 60,
+        "start": "13:00",
+        "end": "14:00",
+        "play_list": [],
+        "pid": 72
+    },
+    {
+        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -439,17 +467,17 @@
     },
     {
         "isshow": true,
-        "name": "金魁剛＋吳聖皓",
+        "name": "恆春兮",
         "date": 1553385600,
         "eventId": 3,
-        "info": "麋先生（英語：Mixer），為臺灣樂團，成員共有五人，由主唱吳聖皓、木吉他手林子安（已改名林喆安）、電吉他手余柏羲、貝斯手張以諾、和鼓手盧逸凡所組成。麋先生淋漓 ...\n出道作品‎: ‎《馬戲團運動》\t出道日期‎: ‎2012年10月17日\n出道地点‎: ‎臺灣",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/49AQ694SdxYn4Gle.jpeg",
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
         "duration": 60,
-        "start": "13:00",
-        "end": "14:00",
+        "start": "13:20",
+        "end": "14:20",
         "play_list": [],
-        "pid": 72
+        "pid": 76
     },
     {
         "isshow": true,
@@ -464,20 +492,6 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
-    },
-    {
-        "isshow": true,
-        "name": "恆春兮",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
-        "play_list": [],
-        "pid": 76
     },
     {
         "isshow": true,
@@ -551,17 +565,17 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
+        "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
         "play_list": [],
-        "pid": 41
+        "pid": 57
     },
     {
         "isshow": true,
@@ -579,6 +593,20 @@
     },
     {
         "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
+    },
+    {
+        "isshow": true,
         "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
@@ -590,20 +618,6 @@
         "end": "15:40",
         "play_list": [],
         "pid": 77
-    },
-    {
-        "isshow": true,
-        "name": "李友廷",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 57
     },
     {
         "isshow": true,
@@ -635,20 +649,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -660,6 +660,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 51
+    },
+    {
+        "isshow": true,
+        "name": "林以樂",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 68
     },
     {
         "isshow": true,
@@ -705,20 +719,6 @@
     },
     {
         "isshow": true,
-        "name": "落日飛車",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 42
-    },
-    {
-        "isshow": true,
         "name": "女孩與機器人",
         "date": 1553385600,
         "eventId": 3,
@@ -730,6 +730,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 58
+    },
+    {
+        "isshow": true,
+        "name": "落日飛車",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 42
     },
     {
         "isshow": true,
@@ -747,34 +761,6 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 52
-    },
-    {
-        "isshow": true,
-        "name": "林予晞",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 74
-    },
-    {
-        "isshow": true,
         "name": "必順鄉村",
         "date": 1553385600,
         "eventId": 3,
@@ -786,6 +772,20 @@
         "end": "17:40",
         "play_list": [],
         "pid": 69
+    },
+    {
+        "isshow": true,
+        "name": "Yonige",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 52
     },
     {
         "isshow": true,
@@ -803,6 +803,20 @@
     },
     {
         "isshow": true,
+        "name": "林予晞",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 74
+    },
+    {
+        "isshow": true,
         "name": "康士坦的變化球",
         "date": 1553385600,
         "eventId": 3,
@@ -814,20 +828,6 @@
         "end": "18:00",
         "play_list": [],
         "pid": 48
-    },
-    {
-        "isshow": true,
-        "name": "TizzyBac",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 43
     },
     {
         "isshow": true,
@@ -845,6 +845,20 @@
     },
     {
         "isshow": true,
+        "name": "TizzyBac",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 43
+    },
+    {
+        "isshow": true,
         "name": "陳涵＋林貓王＋Spykee",
         "date": 1553385600,
         "eventId": 3,
@@ -859,20 +873,6 @@
     },
     {
         "isshow": true,
-        "name": "椅子樂團",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "其實並不是什麼初出茅廬的樂團，知名DJ 小樹曾封他們為「來自台中的宅男樂團」，團員們都是台中一中吉他社的社員，椅子樂團的團名源自他們參加比賽時，臨時起意拉了椅子敲出節奏加入歌曲中。 有點宅，笑起來憨厚樸實，連團名都取得相當隨性，椅子樂團的音樂卻一點都不簡單。 在2016 年就以首張專輯「Cheers!",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5umpUO2uhw7CuILh.jpg",
-        "duration": 40,
-        "start": "18:20",
-        "end": "19:00",
-        "play_list": [],
-        "pid": 70
-    },
-    {
-        "isshow": true,
         "name": "IC/BC",
         "date": 1553385600,
         "eventId": 3,
@@ -884,6 +884,20 @@
         "end": "19:00",
         "play_list": [],
         "pid": 53
+    },
+    {
+        "isshow": true,
+        "name": "椅子樂團",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "其實並不是什麼初出茅廬的樂團，知名DJ 小樹曾封他們為「來自台中的宅男樂團」，團員們都是台中一中吉他社的社員，椅子樂團的團名源自他們參加比賽時，臨時起意拉了椅子敲出節奏加入歌曲中。 有點宅，笑起來憨厚樸實，連團名都取得相當隨性，椅子樂團的音樂卻一點都不簡單。 在2016 年就以首張專輯「Cheers!",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5umpUO2uhw7CuILh.jpg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 70
     },
     {
         "isshow": true,
