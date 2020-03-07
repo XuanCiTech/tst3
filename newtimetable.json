@@ -710,8 +710,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 390,
+                        "duration": 40,
                         "start": "17:00",
+                        "end": "17:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "HiJack",
+                        "date": 1553334000,
+                        "eventId": 3,
+                        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
+                        "stage": "卡魔麥",
+                        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
+                        "duration": 40,
+                        "start": "17:40",
+                        "end": "18:20",
+                        "pid": 107
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 310,
+                        "start": "18:20",
                         "end": "23:00",
                         "pid": -1
                     }
