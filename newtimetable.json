@@ -197,8 +197,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 250,
+                        "duration": 40,
                         "start": "19:20",
+                        "end": "20:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "泰迪羅賓",
+                        "date": 1553342400,
+                        "eventId": 3,
+                        "info": "泰迪羅賓，本名關維鵬，香港知名歌手、詞曲作者、電影人、以及演員。1960年代參與著名唱片騎師Uncle Ray的電台表演節目後，備受唱片公司欣賞，以身形短小的形象而深入民心。關楚耀是他的侄兒。",
+                        "stage": "海龍王",
+                        "image": "https://festio.app/storage/artist/HjpmhVjwidqU1H6U.jpg",
+                        "duration": 40,
+                        "start": "20:00",
+                        "end": "20:40",
+                        "pid": 89
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 170,
+                        "start": "20:40",
                         "end": "23:00",
                         "pid": -1
                     }
