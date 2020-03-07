@@ -71,6 +71,34 @@
     },
     {
         "isshow": true,
+        "name": "夜貓組",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "「夜貓組」來源於諧音夜貓族，泛指所有晚睡的人，在晚間，可以獨自的做自己喜歡的事，不被日常的瑣事打擾。 由於成員於組成前期，白天皆有日班工作，利用晚上時間進行創作，並交換Demo，直到音樂工作有足夠的收入養活自己，因此將夜貓族的概念引申出「夜貓組」，代表可以做自己喜歡的事情，不被其他的外務打擾。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/VhsvLNsP13Sxkw7a.jpg",
+        "duration": 40,
+        "start": "18:40",
+        "end": "19:20",
+        "play_list": [],
+        "pid": 88
+    },
+    {
+        "isshow": true,
+        "name": "暴君",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 65
+    },
+    {
+        "isshow": true,
         "name": "淺提",
         "date": 1553385600,
         "eventId": 3,
@@ -96,20 +124,6 @@
         "end": "13:00",
         "play_list": [],
         "pid": 75
-    },
-    {
-        "isshow": true,
-        "name": "暴君",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 65
     },
     {
         "isshow": true,
