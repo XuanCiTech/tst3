@@ -145,8 +145,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 410,
+                        "duration": 40,
                         "start": "16:40",
+                        "end": "17:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "西澤幸奏",
+                        "date": 1553332800,
+                        "eventId": 3,
+                        "info": "西澤幸奏，出身於日本埼玉縣，日本女歌手。",
+                        "stage": "海龍王",
+                        "image": "https://festio.app/storage/artist/jHvzbVYd9fjXabVg.jpeg",
+                        "duration": 40,
+                        "start": "17:20",
+                        "end": "18:00",
+                        "pid": 87
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 330,
+                        "start": "18:00",
                         "end": "23:00",
                         "pid": -1
                     }
