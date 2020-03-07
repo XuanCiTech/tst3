@@ -183,17 +183,31 @@
     },
     {
         "isshow": true,
-        "name": "千喜計畫特映會",
+        "name": "閃靈",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "閃靈是一支台灣重金屬樂團，1995年成立於台北，曾獲台灣金曲獎與金音創作獎最佳樂團。團長為貝斯手葉湘怡，創團者是主唱林昶佐。目前主要創作者為主唱Freddy與吉他手小黑。英文團名「ChthoniC」是希臘文「克托尼俄斯」之意，漢語音譯為「閃靈」。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/ZeYEYI0LJS8qYMYP.jpg",
+        "duration": 60,
+        "start": "20:40",
+        "end": "21:40",
+        "play_list": [],
+        "pid": 96
+    },
+    {
+        "isshow": true,
+        "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
-        "info": "我們以為老的東西會讓人懷念，其實老的東西比較容易被忘記，直到消失了大家才開始惋惜，就像今年這場變了模樣的春天吶喊，如果大家平常就多點珍惜跟支持，現在大概也不會變成這樣吧~~就連感覺穩定成長的大港，現在也面臨了未知的命運，維持一場活動實在太難，與其懷念已經消失的，不如把握已經有的！",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/dfKfVUbq5YRr0W7E.png",
-        "duration": 80,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
         "start": "11:40",
-        "end": "13:00",
+        "end": "12:20",
         "play_list": [],
-        "pid": 75
+        "pid": 65
     },
     {
         "isshow": true,
@@ -211,17 +225,17 @@
     },
     {
         "isshow": true,
-        "name": "暴君",
+        "name": "千喜計畫特映會",
         "date": 1553385600,
         "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
-        "duration": 40,
+        "info": "我們以為老的東西會讓人懷念，其實老的東西比較容易被忘記，直到消失了大家才開始惋惜，就像今年這場變了模樣的春天吶喊，如果大家平常就多點珍惜跟支持，現在大概也不會變成這樣吧~~就連感覺穩定成長的大港，現在也面臨了未知的命運，維持一場活動實在太難，與其懷念已經消失的，不如把握已經有的！",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/dfKfVUbq5YRr0W7E.png",
+        "duration": 80,
         "start": "11:40",
-        "end": "12:20",
+        "end": "13:00",
         "play_list": [],
-        "pid": 65
+        "pid": 75
     },
     {
         "isshow": true,
@@ -467,20 +481,6 @@
     },
     {
         "isshow": true,
-        "name": "最後大浪",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 66
-    },
-    {
-        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -495,17 +495,17 @@
     },
     {
         "isshow": true,
-        "name": "恆春兮",
+        "name": "最後大浪",
         "date": 1553385600,
         "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
         "play_list": [],
-        "pid": 76
+        "pid": 66
     },
     {
         "isshow": true,
@@ -520,6 +520,20 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
+    },
+    {
+        "isshow": true,
+        "name": "恆春兮",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 76
     },
     {
         "isshow": true,
@@ -551,20 +565,6 @@
     },
     {
         "isshow": true,
-        "name": "一點生",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 67
-    },
-    {
-        "isshow": true,
         "name": "Say sue Me",
         "date": 1553385600,
         "eventId": 3,
@@ -576,6 +576,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 39
+    },
+    {
+        "isshow": true,
+        "name": "一點生",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 67
     },
     {
         "isshow": true,
@@ -593,20 +607,6 @@
     },
     {
         "isshow": true,
-        "name": "五五身",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 77
-    },
-    {
-        "isshow": true,
         "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
@@ -618,6 +618,20 @@
         "end": "16:00",
         "play_list": [],
         "pid": 73
+    },
+    {
+        "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
     },
     {
         "isshow": true,
@@ -635,6 +649,20 @@
     },
     {
         "isshow": true,
+        "name": "五五身",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 77
+    },
+    {
+        "isshow": true,
         "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
@@ -646,20 +674,6 @@
         "end": "15:40",
         "play_list": [],
         "pid": 57
-    },
-    {
-        "isshow": true,
-        "name": "拍謝少年",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 41
     },
     {
         "isshow": true,
@@ -733,20 +747,6 @@
     },
     {
         "isshow": true,
-        "name": "十九雨",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 78
-    },
-    {
-        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
@@ -758,6 +758,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 42
+    },
+    {
+        "isshow": true,
+        "name": "十九雨",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 78
     },
     {
         "isshow": true,
@@ -789,31 +803,17 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
+        "name": "Spykee",
         "date": 1553385600,
         "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 52
-    },
-    {
-        "isshow": true,
-        "name": "林予晞",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
         "duration": 60,
         "start": "17:00",
         "end": "18:00",
         "play_list": [],
-        "pid": 74
+        "pid": 81
     },
     {
         "isshow": true,
@@ -831,17 +831,31 @@
     },
     {
         "isshow": true,
-        "name": "Spykee",
+        "name": "林予晞",
         "date": 1553385600,
         "eventId": 3,
-        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
         "duration": 60,
         "start": "17:00",
         "end": "18:00",
         "play_list": [],
-        "pid": 81
+        "pid": 74
+    },
+    {
+        "isshow": true,
+        "name": "Yonige",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 52
     },
     {
         "isshow": true,
@@ -859,20 +873,6 @@
     },
     {
         "isshow": true,
-        "name": "TizzyBac",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 43
-    },
-    {
-        "isshow": true,
         "name": "黃子佼",
         "date": 1553385600,
         "eventId": 3,
@@ -884,6 +884,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 59
+    },
+    {
+        "isshow": true,
+        "name": "TizzyBac",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 43
     },
     {
         "isshow": true,
@@ -971,20 +985,6 @@
     },
     {
         "isshow": true,
-        "name": "DudaDeportiva",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Premio. Mejor banda del año en los. Golden Indie Music Awards 2017. DUDA DEPORTIVA es un grupo de pop hispanotaiwanés de Taipéi (Taiwán) formado en ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/Y6ixgf8aG7nzjzIO.png",
-        "duration": 40,
-        "start": "19:40",
-        "end": "20:20",
-        "play_list": [],
-        "pid": 71
-    },
-    {
-        "isshow": true,
         "name": "南瓜妮歌迷俱樂部",
         "date": 1553385600,
         "eventId": 3,
@@ -996,6 +996,20 @@
         "end": "20:20",
         "play_list": [],
         "pid": 54
+    },
+    {
+        "isshow": true,
+        "name": "DudaDeportiva",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Premio. Mejor banda del año en los. Golden Indie Music Awards 2017. DUDA DEPORTIVA es un grupo de pop hispanotaiwanés de Taipéi (Taiwán) formado en ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/Y6ixgf8aG7nzjzIO.png",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 71
     },
     {
         "isshow": true,
