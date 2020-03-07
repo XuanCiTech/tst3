@@ -948,8 +948,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 590,
+                        "duration": 40,
                         "start": "13:40",
+                        "end": "14:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "共犯結構",
+                        "date": 1553322000,
+                        "eventId": 3,
+                        "info": "2015年6月 正式成軍\n2016年9月 發行首張迷你同名EP\n2018年7月 發行首張專輯《北山湖紀事本末》",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/sq9cvHVgwWAhRS12.jpg",
+                        "duration": 40,
+                        "start": "14:20",
+                        "end": "15:00",
+                        "pid": 115
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 510,
+                        "start": "15:00",
                         "end": "23:00",
                         "pid": -1
                     }
