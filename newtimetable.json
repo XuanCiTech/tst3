@@ -406,8 +406,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 310,
+                        "duration": 60,
                         "start": "18:20",
+                        "end": "19:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "Mrs.GREEN APPLE",
+                        "date": 1553426400,
+                        "eventId": 3,
+                        "info": "Mrs. GREEN APPLE是2013年結成的日本樂團，2015年由 環球音樂旗下的EMI Records出道，所屬事務所為Theatre Academy。官方FC為「Ringo Jam」。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/n5VkerlfDqyI2AfR.jpg",
+                        "duration": 40,
+                        "start": "19:20",
+                        "end": "20:00",
+                        "pid": 44
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 210,
+                        "start": "20:00",
                         "end": "23:00",
                         "pid": -1
                     }
