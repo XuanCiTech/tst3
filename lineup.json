@@ -71,6 +71,20 @@
     },
     {
         "isshow": true,
+        "name": "隨性",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "隨性樂團成軍於 2005 年底，彼時還是大學生的他們，一開始闖蕩的主場，是校園和台北各地的 Livehouse。歷經多次團員變革後，除了主唱蛋糕之外，其他成員全都換過一輪，不過到了 2008 年，主唱蛋糕、貝斯手卓杯、鼓手趴趴、吉他手阿拓四人組合確立，扛著「隨性」這塊招牌，勇奪 2012 年貢寮海洋音樂祭首獎，並在隔年闖進日本 Summer Sonic。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cuoDAdatJntuiXQ4.png",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 92
+    },
+    {
+        "isshow": true,
         "name": "謝震廷",
         "date": 1553299200,
         "eventId": 3,
@@ -127,17 +141,17 @@
     },
     {
         "isshow": true,
-        "name": "暴君",
+        "name": "淺提",
         "date": 1553385600,
         "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
         "duration": 40,
         "start": "11:40",
         "end": "12:20",
         "play_list": [],
-        "pid": 65
+        "pid": 37
     },
     {
         "isshow": true,
@@ -155,17 +169,17 @@
     },
     {
         "isshow": true,
-        "name": "淺提",
+        "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
-        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
         "duration": 40,
         "start": "11:40",
         "end": "12:20",
         "play_list": [],
-        "pid": 37
+        "pid": 65
     },
     {
         "isshow": true,
@@ -439,20 +453,6 @@
     },
     {
         "isshow": true,
-        "name": "恆春兮",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
-        "play_list": [],
-        "pid": 76
-    },
-    {
-        "isshow": true,
         "name": "石井健雄",
         "date": 1553385600,
         "eventId": 3,
@@ -464,6 +464,20 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
+    },
+    {
+        "isshow": true,
+        "name": "恆春兮",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 76
     },
     {
         "isshow": true,
