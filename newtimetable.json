@@ -435,8 +435,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 100,
                         "start": "10:00",
+                        "end": "11:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "河豚子",
+                        "date": 1553312400,
+                        "eventId": 3,
+                        "info": "河豚子，來自高雄的三件式樂器女子搖滾團體，團名取材自日本動畫『搞笑漫畫日和』裡的海底龍宮宮女「河豚子」一角。這有著不算太正經團名的團體，流著的卻是甘澀 ...",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/kKk6lyMQyJ632DhU.jpeg",
+                        "duration": 40,
+                        "start": "11:40",
+                        "end": "12:20",
+                        "pid": 97
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 670,
+                        "start": "12:20",
                         "end": "23:00",
                         "pid": -1
                     }
