@@ -1298,6 +1298,19 @@
                         "pid": 126
                     },
                     {
+                        "isshow": true,
+                        "name": "Yella Tee",
+                        "date": 1553328000,
+                        "eventId": 3,
+                        "info": "每週二晚上11點到半夜，Minelectro On Air，胖貓太胖飛不起來只好放歌讓你飛。 7/25 Guest DJ， 台灣本土創作策展奇才Yella Tee 讓你見識一下什麼叫做設計歌單， ...",
+                        "stage": "豐田祭",
+                        "image": "https://festio.app/storage/artist/RiWiWkprnw2favMO.jpeg",
+                        "duration": 60,
+                        "start": "16:00",
+                        "end": "17:00",
+                        "pid": 127
+                    },
+                    {
                         "isshow": false,
                         "name": "",
                         "date": "",
@@ -1305,8 +1318,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 450,
-                        "start": "16:00",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
