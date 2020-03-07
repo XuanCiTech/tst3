@@ -1,20 +1,6 @@
 [
     {
         "isshow": true,
-        "name": "河豚子",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "河豚子，來自高雄的三件式樂器女子搖滾團體，團名取材自日本動畫『搞笑漫畫日和』裡的海底龍宮宮女「河豚子」一角。這有著不算太正經團名的團體，流著的卻是甘澀 ...",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/kKk6lyMQyJ632DhU.jpeg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 97
-    },
-    {
-        "isshow": true,
         "name": "EnlightEN",
         "date": 1553299200,
         "eventId": 3,
@@ -26,6 +12,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 113
+    },
+    {
+        "isshow": true,
+        "name": "河豚子",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "河豚子，來自高雄的三件式樂器女子搖滾團體，團名取材自日本動畫『搞笑漫畫日和』裡的海底龍宮宮女「河豚子」一角。這有著不算太正經團名的團體，流著的卻是甘澀 ...",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/kKk6lyMQyJ632DhU.jpeg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 97
     },
     {
         "isshow": true,
@@ -141,20 +141,6 @@
     },
     {
         "isshow": true,
-        "name": "共犯結構",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "2015年6月 正式成軍\n2016年9月 發行首張迷你同名EP\n2018年7月 發行首張專輯《北山湖紀事本末》",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/sq9cvHVgwWAhRS12.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 115
-    },
-    {
-        "isshow": true,
         "name": "厭世少年",
         "date": 1553299200,
         "eventId": 3,
@@ -166,6 +152,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 99
+    },
+    {
+        "isshow": true,
+        "name": "共犯結構",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "2015年6月 正式成軍\n2016年9月 發行首張迷你同名EP\n2018年7月 發行首張專輯《北山湖紀事本末》",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/sq9cvHVgwWAhRS12.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 115
     },
     {
         "isshow": true,
@@ -183,20 +183,6 @@
     },
     {
         "isshow": true,
-        "name": "皇后皮箱",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "皇后皮箱來自於台北的樂團，成立於2008年，由主唱兼鍵盤卡菈、吉他手阿怪，貝斯手黑輪三人所組成。以1960-70年代的搖滾為主要風格，融合著Blues、Motown、R&B、Surf Rock的曲風。2014年首張專輯《超時空歌女的快活》 2018年發行第二張專輯《仙人指路》",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/076f2EUnwmSMtBuy.jpeg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 105
-    },
-    {
-        "isshow": true,
         "name": "隨性",
         "date": 1553299200,
         "eventId": 3,
@@ -208,6 +194,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 92
+    },
+    {
+        "isshow": true,
+        "name": "皇后皮箱",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "皇后皮箱來自於台北的樂團，成立於2008年，由主唱兼鍵盤卡菈、吉他手阿怪，貝斯手黑輪三人所組成。以1960-70年代的搖滾為主要風格，融合著Blues、Motown、R&B、Surf Rock的曲風。2014年首張專輯《超時空歌女的快活》 2018年發行第二張專輯《仙人指路》",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/076f2EUnwmSMtBuy.jpeg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 105
     },
     {
         "isshow": true,
@@ -267,20 +267,6 @@
     },
     {
         "isshow": true,
-        "name": "體熊專科",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 106
-    },
-    {
-        "isshow": true,
         "name": "生祥樂隊",
         "date": 1553299200,
         "eventId": 3,
@@ -295,6 +281,20 @@
     },
     {
         "isshow": true,
+        "name": "體熊專科",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "關於 體熊專科。Major in Body Bear\n由喜愛日系搖滾、後搖滾、即興演奏的四人組成的純愛純音樂演奏樂團。\n情緒爆裂，帥氣認真。\n我們很愛體熊，\n也很認真做音樂。\n\nGuitar: 包子\nBass: 海狗\nDrum: Andy\nPiano: 安西",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/aKLt2pLkkojS7eZV.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 106
+    },
+    {
+        "isshow": true,
         "name": "泥灘地浪人",
         "date": 1553299200,
         "eventId": 3,
@@ -306,6 +306,20 @@
         "end": "17:20",
         "play_list": [],
         "pid": 112
+    },
+    {
+        "isshow": true,
+        "name": "海豚刑警",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "大家注意==！！哈皮^^~２０１７屁團誕生(⁎⁍̴̛ᴗ⁍̴̛⁎)~☆,,*‧‧﹏\n海豚刑事總部正式發佈出道處女秀新聞稿@@==！！！主幹道由一把電吉他與一把電電吉他先行拿下==！！支流配置==！一些豚豚平常就會拿來噗累噗累ㄉ玩具聲響，，最後再加上淑芬雙馬尾ㄉ交叉怒吼旋轉跳躍華麗組成@@..朗朗上口ㄉ旋律==！了無新意ㄉ和弦==！曲風多變==！歌詞偏不流俗==！狗年初加入ㄌ彈指之間御用旋律線夢想導師aka金發把拔抖指引~與擔任待引爆抖哈姆太郎「咚咚」角色aka進擊抖鼓手寶珠！！\n在這ㄍ壞噗噗(Bad poo poo)抖世界，揪讓婐悶一起~~!!~!!!~陰蒂Rock一夏芭٩(˃̶͈̀௰˂̶͈́)و！！！",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/rXtrBKHuO8TZqqiS.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 117
     },
     {
         "isshow": true,
@@ -337,20 +351,6 @@
     },
     {
         "isshow": true,
-        "name": "HiJack",
-        "date": 1553299200,
-        "eventId": 3,
-        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 107
-    },
-    {
-        "isshow": true,
         "name": "茄子蛋",
         "date": 1553299200,
         "eventId": 3,
@@ -362,6 +362,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 94
+    },
+    {
+        "isshow": true,
+        "name": "HiJack",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "曾入圍海洋音樂祭前十強，多次受邀參與台灣各地大型音樂活動的四人搖滾樂團 HiJack，睽違五年，終於發行第二張專輯《Apprentice》！3 月 23、24 日將於大港開唱現場首賣，並附贈限量貼紙，想要搶先聆聽新作品的樂迷朋友們，千萬別錯過這次機會！\n\n成軍於 2008 年、有「怪物搖滾」之稱的 HiJack，以銳利激烈的節奏、細緻勾人的編曲以及充滿爆發力的現場演出著稱，樂團創作首腦蔡明諺擅長以電吉他效果營造氛圍，並以流暢出色的旋律貫穿歌曲，架構起 HiJack 極具特色的音樂畫面。吉他手陳佑時而巧妙點綴、時而激昂 solo 的編曲畫龍點睛，而貝斯手小藍亮眼的外型與獨樹一格的演奏風格更是存在感十足。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/lghpQIuf30Pcl13Z.jpeg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 107
     },
     {
         "isshow": true,
@@ -761,20 +775,6 @@
     },
     {
         "isshow": true,
-        "name": "最後大浪",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 66
-    },
-    {
-        "isshow": true,
         "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
@@ -789,17 +789,17 @@
     },
     {
         "isshow": true,
-        "name": "恆春兮",
+        "name": "最後大浪",
         "date": 1553385600,
         "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
         "play_list": [],
-        "pid": 76
+        "pid": 66
     },
     {
         "isshow": true,
@@ -814,6 +814,20 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
+    },
+    {
+        "isshow": true,
+        "name": "恆春兮",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 76
     },
     {
         "isshow": true,
@@ -887,34 +901,6 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 41
-    },
-    {
-        "isshow": true,
-        "name": "李友廷",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 57
-    },
-    {
-        "isshow": true,
         "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
@@ -954,6 +940,34 @@
         "end": "16:00",
         "play_list": [],
         "pid": 79
+    },
+    {
+        "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
+    },
+    {
+        "isshow": true,
+        "name": "李友廷",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 57
     },
     {
         "isshow": true,
@@ -999,20 +1013,6 @@
     },
     {
         "isshow": true,
-        "name": "林貓王",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
-        "duration": 60,
-        "start": "16:00",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 80
-    },
-    {
-        "isshow": true,
         "name": "向井太一",
         "date": 1553385600,
         "eventId": 3,
@@ -1027,17 +1027,17 @@
     },
     {
         "isshow": true,
-        "name": "十九雨",
+        "name": "林貓王",
         "date": 1553385600,
         "eventId": 3,
-        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
-        "duration": 40,
-        "start": "16:20",
+        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
+        "duration": 60,
+        "start": "16:00",
         "end": "17:00",
         "play_list": [],
-        "pid": 78
+        "pid": 80
     },
     {
         "isshow": true,
@@ -1069,6 +1069,20 @@
     },
     {
         "isshow": true,
+        "name": "十九雨",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 78
+    },
+    {
+        "isshow": true,
         "name": "榕幫",
         "date": 1553385600,
         "eventId": 3,
@@ -1083,17 +1097,17 @@
     },
     {
         "isshow": true,
-        "name": "Spykee",
+        "name": "Yonige",
         "date": 1553385600,
         "eventId": 3,
-        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
-        "duration": 60,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
         "start": "17:00",
-        "end": "18:00",
+        "end": "17:40",
         "play_list": [],
-        "pid": 81
+        "pid": 52
     },
     {
         "isshow": true,
@@ -1125,17 +1139,17 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
+        "name": "Spykee",
         "date": 1553385600,
         "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
+        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
+        "duration": 60,
         "start": "17:00",
-        "end": "17:40",
+        "end": "18:00",
         "play_list": [],
-        "pid": 52
+        "pid": 81
     },
     {
         "isshow": true,
