@@ -264,8 +264,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 630,
+                        "duration": 40,
                         "start": "13:00",
+                        "end": "13:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "怕胖團",
+                        "date": 1553319600,
+                        "eventId": 3,
+                        "info": "怕胖團，是台灣樂團，成員共有四人，由吉他手兼主唱謝侃均、貝斯手黃怡瑋、貝斯吉他謝孔均、鼓手魏敦華組成。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/UwPCDKyhx045TIN9.jpg",
+                        "duration": 40,
+                        "start": "13:40",
+                        "end": "14:20",
+                        "pid": 91
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 550,
+                        "start": "14:20",
                         "end": "23:00",
                         "pid": -1
                     }
