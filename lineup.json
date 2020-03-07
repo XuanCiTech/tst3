@@ -299,6 +299,20 @@
     },
     {
         "isshow": true,
+        "name": "李友廷",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 57
+    },
+    {
+        "isshow": true,
         "name": "拍謝少年",
         "date": 1553385600,
         "eventId": 3,
