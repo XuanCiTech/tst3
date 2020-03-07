@@ -43,17 +43,31 @@
     },
     {
         "isshow": true,
-        "name": "暴君",
+        "name": "謝震廷",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "謝震廷，臺灣華語流行音樂創作男歌手、吉他手，作詞作曲家，共發行兩張個人全創作專輯。2007年參加第一屆《超級星光大道》以年紀最小最具潛力創作型歌手出道。2015年12月31日推出個人首張創作專輯《查理 Progress Reports》，獲得第27屆金曲獎『最佳新人獎』。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/",
+        "duration": 40,
+        "start": "16:00",
+        "end": "16:40",
+        "play_list": [],
+        "pid": 86
+    },
+    {
+        "isshow": true,
+        "name": "淺提",
         "date": 1553385600,
         "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
         "duration": 40,
         "start": "11:40",
         "end": "12:20",
         "play_list": [],
-        "pid": 65
+        "pid": 37
     },
     {
         "isshow": true,
@@ -71,17 +85,17 @@
     },
     {
         "isshow": true,
-        "name": "淺提",
+        "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
-        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
         "duration": 40,
         "start": "11:40",
         "end": "12:20",
         "play_list": [],
-        "pid": 37
+        "pid": 65
     },
     {
         "isshow": true,
@@ -355,20 +369,6 @@
     },
     {
         "isshow": true,
-        "name": "恆春兮",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
-        "play_list": [],
-        "pid": 76
-    },
-    {
-        "isshow": true,
         "name": "石井健雄",
         "date": 1553385600,
         "eventId": 3,
@@ -380,6 +380,20 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
+    },
+    {
+        "isshow": true,
+        "name": "恆春兮",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 76
     },
     {
         "isshow": true,
@@ -453,6 +467,20 @@
     },
     {
         "isshow": true,
+        "name": "陳涵",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 79
+    },
+    {
+        "isshow": true,
         "name": "拍謝少年",
         "date": 1553385600,
         "eventId": 3,
@@ -509,20 +537,6 @@
     },
     {
         "isshow": true,
-        "name": "陳涵",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 79
-    },
-    {
-        "isshow": true,
         "name": "SATSUKI",
         "date": 1553385600,
         "eventId": 3,
@@ -537,20 +551,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -562,6 +562,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 51
+    },
+    {
+        "isshow": true,
+        "name": "林以樂",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 68
     },
     {
         "isshow": true,
@@ -593,17 +607,17 @@
     },
     {
         "isshow": true,
-        "name": "落日飛車",
+        "name": "女孩與機器人",
         "date": 1553385600,
         "eventId": 3,
-        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
         "duration": 40,
         "start": "16:20",
         "end": "17:00",
         "play_list": [],
-        "pid": 42
+        "pid": 58
     },
     {
         "isshow": true,
@@ -621,17 +635,17 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
+        "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
         "duration": 40,
         "start": "16:20",
         "end": "17:00",
         "play_list": [],
-        "pid": 58
+        "pid": 42
     },
     {
         "isshow": true,
@@ -663,20 +677,6 @@
     },
     {
         "isshow": true,
-        "name": "必順鄉村",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 69
-    },
-    {
-        "isshow": true,
         "name": "Spykee",
         "date": 1553385600,
         "eventId": 3,
@@ -688,6 +688,20 @@
         "end": "18:00",
         "play_list": [],
         "pid": 81
+    },
+    {
+        "isshow": true,
+        "name": "必順鄉村",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 69
     },
     {
         "isshow": true,
@@ -831,20 +845,6 @@
     },
     {
         "isshow": true,
-        "name": "南瓜妮歌迷俱樂部",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
-        "duration": 40,
-        "start": "19:40",
-        "end": "20:20",
-        "play_list": [],
-        "pid": 54
-    },
-    {
-        "isshow": true,
         "name": "DudaDeportiva",
         "date": 1553385600,
         "eventId": 3,
@@ -856,6 +856,20 @@
         "end": "20:20",
         "play_list": [],
         "pid": 71
+    },
+    {
+        "isshow": true,
+        "name": "南瓜妮歌迷俱樂部",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 54
     },
     {
         "isshow": true,
