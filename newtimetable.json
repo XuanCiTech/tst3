@@ -829,8 +829,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 530,
+                        "duration": 40,
                         "start": "14:40",
+                        "end": "15:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "龜田由香",
+                        "date": 1553325600,
+                        "eventId": 3,
+                        "info": "龜田市（日语：亀田市〔龜田市〕／かめだし Kameda shi */?）是過去位於北海道渡島支廳的一城市，於1971年改制為市，但在兩年後的1973年12月1日被併入函館市， ...",
+                        "stage": "出頭天",
+                        "image": "https://festio.app/storage/artist/LE8Rbzts5sKrK9fr.png",
+                        "duration": 40,
+                        "start": "15:20",
+                        "end": "16:00",
+                        "pid": 111
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 450,
+                        "start": "16:00",
                         "end": "23:00",
                         "pid": -1
                     }
