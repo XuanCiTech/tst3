@@ -1432,8 +1432,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 470,
+                        "duration": 40,
                         "start": "15:40",
+                        "end": "16:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "十九雨",
+                        "date": 1553415600,
+                        "eventId": 3,
+                        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
+                        "stage": "藍寶石",
+                        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
+                        "duration": 40,
+                        "start": "16:20",
+                        "end": "17:00",
+                        "pid": 78
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
