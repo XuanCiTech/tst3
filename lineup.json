@@ -464,5 +464,19 @@
         "end": "21:40",
         "play_list": [],
         "pid": 45
+    },
+    {
+        "isshow": true,
+        "name": "美秀集團",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "美秀集團是台灣嘉義的獨立樂團，曲風特色是帶有復古台味的搖滾和民謠，樂團採用自製樂器進行演出。該樂團自2016年5月開始對外活動，目前成員共五人，由主唱兼吉他手狗柏、吉他手修齊、鍵盤手冠佑、鼓手鍾錡以及貝斯手婷文組成。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/vohrZvIZFqAzu4tc.png",
+        "duration": 40,
+        "start": "21:00",
+        "end": "21:40",
+        "play_list": [],
+        "pid": 55
     }
 ]
