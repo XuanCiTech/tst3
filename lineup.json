@@ -253,6 +253,20 @@
     },
     {
         "isshow": true,
+        "name": "DSPS",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "被潛意識牽著走 DSPS 成立於2014 年，由主唱兼主要創作者曾稔文組成，目前團員包括吉他手徐子權（徐子）與鼓手莊子恆（小雞）。 年初貝斯手珈臻因個人生涯規劃而離團，在來不及尋找新成員就必須錄專輯的情況下，只好先請厭世少年的吉他手檳榔代打，而檳榔也參與了新專輯《時間的產物》的編曲及錄音。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/TxYxbJ8l22BHhZWB.png",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 103
+    },
+    {
+        "isshow": true,
         "name": "泰迪羅賓",
         "date": 1553299200,
         "eventId": 3,
@@ -295,20 +309,6 @@
     },
     {
         "isshow": true,
-        "name": "淺提",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 37
-    },
-    {
-        "isshow": true,
         "name": "暴君",
         "date": 1553385600,
         "eventId": 3,
@@ -320,6 +320,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 65
+    },
+    {
+        "isshow": true,
+        "name": "淺提",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "淺堤是來自臺灣高雄市的樂團，使用台語及華語創作歌曲，2015年成立初期以主唱之名組成蔡依玲樂隊、2016年4月更名為淺堤，現由主唱兼吉他手蔡依玲、貝斯手方博聖、鼓手涂嘉欽、吉他手周致宏組成活動中，目前發行過一張手工 Demo 和一張",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/gGTAuZRUONN4f5iK.png",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 37
     },
     {
         "isshow": true,
@@ -551,20 +565,6 @@
     },
     {
         "isshow": true,
-        "name": "孩子王",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 38
-    },
-    {
-        "isshow": true,
         "name": "金魁剛＋吳聖皓",
         "date": 1553385600,
         "eventId": 3,
@@ -576,6 +576,20 @@
         "end": "14:00",
         "play_list": [],
         "pid": 72
+    },
+    {
+        "isshow": true,
+        "name": "孩子王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 38
     },
     {
         "isshow": true,
@@ -691,31 +705,17 @@
     },
     {
         "isshow": true,
-        "name": "陳涵",
+        "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
-        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
-        "duration": 60,
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
+        "duration": 40,
         "start": "15:00",
-        "end": "16:00",
+        "end": "15:40",
         "play_list": [],
-        "pid": 79
-    },
-    {
-        "isshow": true,
-        "name": "Billy Drummed",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
+        "pid": 77
     },
     {
         "isshow": true,
@@ -733,6 +733,34 @@
     },
     {
         "isshow": true,
+        "name": "Billy Drummed",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 73
+    },
+    {
+        "isshow": true,
+        "name": "陳涵",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 79
+    },
+    {
+        "isshow": true,
         "name": "拍謝少年",
         "date": 1553385600,
         "eventId": 3,
@@ -744,20 +772,6 @@
         "end": "15:40",
         "play_list": [],
         "pid": 41
-    },
-    {
-        "isshow": true,
-        "name": "五五身",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 77
     },
     {
         "isshow": true,
@@ -775,20 +789,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -800,6 +800,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 51
+    },
+    {
+        "isshow": true,
+        "name": "林以樂",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 68
     },
     {
         "isshow": true,
@@ -845,20 +859,6 @@
     },
     {
         "isshow": true,
-        "name": "十九雨",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 78
-    },
-    {
-        "isshow": true,
         "name": "女孩與機器人",
         "date": 1553385600,
         "eventId": 3,
@@ -873,6 +873,20 @@
     },
     {
         "isshow": true,
+        "name": "十九雨",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "你是想把產品做成大眾化的還是有精確的適用人群呢？答案是：在產品定位上你需要更精確些。\n\n把產品定位得精確的風險就是可能縮小了目標潛在用戶的範圍，但這種更專業的精神卻反過來會贏得信任、權威。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/znQb5MXb1y4fqtQe.png",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 78
+    },
+    {
+        "isshow": true,
         "name": "榕幫",
         "date": 1553385600,
         "eventId": 3,
@@ -884,6 +898,34 @@
         "end": "17:20",
         "play_list": [],
         "pid": 64
+    },
+    {
+        "isshow": true,
+        "name": "Spykee",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 81
+    },
+    {
+        "isshow": true,
+        "name": "必順鄉村",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 69
     },
     {
         "isshow": true,
@@ -912,34 +954,6 @@
         "end": "17:40",
         "play_list": [],
         "pid": 52
-    },
-    {
-        "isshow": true,
-        "name": "必順鄉村",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 69
-    },
-    {
-        "isshow": true,
-        "name": "Spykee",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 81
     },
     {
         "isshow": true,
