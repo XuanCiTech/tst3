@@ -1505,6 +1505,19 @@
                         "pid": 80
                     },
                     {
+                        "isshow": true,
+                        "name": "Spykee",
+                        "date": 1553418000,
+                        "eventId": 3,
+                        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+                        "stage": "豐田祭",
+                        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
+                        "duration": 60,
+                        "start": "17:00",
+                        "end": "18:00",
+                        "pid": 81
+                    },
+                    {
                         "isshow": false,
                         "name": "",
                         "date": "",
@@ -1512,8 +1525,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 390,
-                        "start": "17:00",
+                        "duration": 330,
+                        "start": "18:00",
                         "end": "23:00",
                         "pid": -1
                     }
