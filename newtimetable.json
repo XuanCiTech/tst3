@@ -41,8 +41,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 120,
                         "start": "10:00",
+                        "end": "12:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "臭屁嬰仔",
+                        "date": 1553313600,
+                        "eventId": 3,
+                        "info": "玖壹壹師弟團臭屁嬰仔近日推出新專輯《暗號》，其中歌曲《今晚想與你壞壞》歌詞劈頭就是一句「今晚想與你做X」，露骨又直接，率性表達他們的愛情觀，他們也坦然受訪，聊起自己的感情故事；團裡唯一的人夫屁辰23歲就結婚，他和老婆僅交往半年就奉子成婚，他更首次向《ETtoday星光雲》公開小他2歲，素有「羅東泫雅」封號的嬌妻美照。",
+                        "stage": "海龍王",
+                        "image": "https://festio.app/storage/artist/kD8PASaWWdGg9fNQ.jpg",
+                        "duration": 40,
+                        "start": "12:00",
+                        "end": "12:40",
+                        "pid": 83
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 650,
+                        "start": "12:40",
                         "end": "23:00",
                         "pid": -1
                     }
