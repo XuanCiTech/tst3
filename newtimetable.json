@@ -1311,6 +1311,19 @@
                         "pid": 127
                     },
                     {
+                        "isshow": true,
+                        "name": "愛吹倫",
+                        "date": 1553331600,
+                        "eventId": 3,
+                        "info": "雖然廢人幫現在已經不再，不過幫主愛吹倫可沒閒著，他只是轉換了跑道，投身reggae 和hip-hop 音樂，和以前一樣致力推廣好音樂給大家",
+                        "stage": "豐田祭",
+                        "image": "https://festio.app/storage/artist/z90TzSFlqb1oUhdt.jpg",
+                        "duration": 60,
+                        "start": "17:00",
+                        "end": "18:00",
+                        "pid": 128
+                    },
+                    {
                         "isshow": false,
                         "name": "",
                         "date": "",
@@ -1318,8 +1331,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 390,
-                        "start": "17:00",
+                        "duration": 330,
+                        "start": "18:00",
                         "end": "23:00",
                         "pid": -1
                     }
