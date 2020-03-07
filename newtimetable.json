@@ -1518,6 +1518,19 @@
                         "pid": 81
                     },
                     {
+                        "isshow": true,
+                        "name": "陳涵＋林貓王＋Spykee",
+                        "date": 1553421600,
+                        "eventId": 3,
+                        "info": "你可以通過不確定而顫抖的聲音來表達傳遞自己的意思，也可以通過很自信的方式表達。如果你在界面中的表述多以問號結束，比如「也許」、「可能」、「感興趣？」或者「想要試試麼？」，那麼你完全可以把語氣變得更堅定一些。不過萬事無絕對，適當放鬆措詞讓用戶有自行思考的餘地也是可以的。",
+                        "stage": "豐田祭",
+                        "image": "https://festio.app/storage/artist/pyp2rgKiFpqcuaJG.jpg",
+                        "duration": 60,
+                        "start": "18:00",
+                        "end": "19:00",
+                        "pid": 82
+                    },
+                    {
                         "isshow": false,
                         "name": "",
                         "date": "",
@@ -1525,8 +1538,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 330,
-                        "start": "18:00",
+                        "duration": 270,
+                        "start": "19:00",
                         "end": "23:00",
                         "pid": -1
                     }
