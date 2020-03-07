@@ -93,8 +93,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 570,
+                        "duration": 40,
                         "start": "14:00",
+                        "end": "14:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "吳卓源",
+                        "date": 1553323200,
+                        "eventId": 3,
+                        "info": "吳卓源是華裔澳籍流行音樂女歌手。",
+                        "stage": "海龍王",
+                        "image": "https://festio.app/storage/artist/7plNt0QpQzETOrT7.jpg",
+                        "duration": 40,
+                        "start": "14:40",
+                        "end": "15:20",
+                        "pid": 85
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 490,
+                        "start": "15:20",
                         "end": "23:00",
                         "pid": -1
                     }
