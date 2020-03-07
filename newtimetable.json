@@ -171,8 +171,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 330,
+                        "duration": 40,
                         "start": "18:00",
+                        "end": "18:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "夜貓組",
+                        "date": 1553337600,
+                        "eventId": 3,
+                        "info": "「夜貓組」來源於諧音夜貓族，泛指所有晚睡的人，在晚間，可以獨自的做自己喜歡的事，不被日常的瑣事打擾。 由於成員於組成前期，白天皆有日班工作，利用晚上時間進行創作，並交換Demo，直到音樂工作有足夠的收入養活自己，因此將夜貓族的概念引申出「夜貓組」，代表可以做自己喜歡的事情，不被其他的外務打擾。",
+                        "stage": "海龍王",
+                        "image": "https://festio.app/storage/artist/VhsvLNsP13Sxkw7a.jpg",
+                        "duration": 40,
+                        "start": "18:40",
+                        "end": "19:20",
+                        "pid": 88
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 250,
+                        "start": "19:20",
                         "end": "23:00",
                         "pid": -1
                     }
