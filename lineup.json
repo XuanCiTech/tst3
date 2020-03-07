@@ -257,20 +257,6 @@
     },
     {
         "isshow": true,
-        "name": "最後大浪",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 66
-    },
-    {
-        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -282,6 +268,20 @@
         "end": "13:40",
         "play_list": [],
         "pid": 38
+    },
+    {
+        "isshow": true,
+        "name": "最後大浪",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 66
     },
     {
         "isshow": true,
@@ -397,20 +397,6 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 41
-    },
-    {
-        "isshow": true,
         "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
@@ -422,6 +408,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 57
+    },
+    {
+        "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
     },
     {
         "isshow": true,
@@ -439,20 +439,6 @@
     },
     {
         "isshow": true,
-        "name": "Empty ORio",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 51
-    },
-    {
-        "isshow": true,
         "name": "林以樂",
         "date": 1553385600,
         "eventId": 3,
@@ -464,6 +450,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 68
+    },
+    {
+        "isshow": true,
+        "name": "Empty ORio",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 51
     },
     {
         "isshow": true,
@@ -523,17 +523,17 @@
     },
     {
         "isshow": true,
-        "name": "必順鄉村",
+        "name": "林予晞",
         "date": 1553385600,
         "eventId": 3,
-        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
-        "duration": 40,
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "duration": 60,
         "start": "17:00",
-        "end": "17:40",
+        "end": "18:00",
         "play_list": [],
-        "pid": 69
+        "pid": 74
     },
     {
         "isshow": true,
@@ -548,6 +548,20 @@
         "end": "17:40",
         "play_list": [],
         "pid": 52
+    },
+    {
+        "isshow": true,
+        "name": "必順鄉村",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 69
     },
     {
         "isshow": true,
@@ -593,20 +607,6 @@
     },
     {
         "isshow": true,
-        "name": "椅子樂團",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "其實並不是什麼初出茅廬的樂團，知名DJ 小樹曾封他們為「來自台中的宅男樂團」，團員們都是台中一中吉他社的社員，椅子樂團的團名源自他們參加比賽時，臨時起意拉了椅子敲出節奏加入歌曲中。 有點宅，笑起來憨厚樸實，連團名都取得相當隨性，椅子樂團的音樂卻一點都不簡單。 在2016 年就以首張專輯「Cheers!",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5umpUO2uhw7CuILh.jpg",
-        "duration": 40,
-        "start": "18:20",
-        "end": "19:00",
-        "play_list": [],
-        "pid": 70
-    },
-    {
-        "isshow": true,
         "name": "IC/BC",
         "date": 1553385600,
         "eventId": 3,
@@ -618,6 +618,20 @@
         "end": "19:00",
         "play_list": [],
         "pid": 53
+    },
+    {
+        "isshow": true,
+        "name": "椅子樂團",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "其實並不是什麼初出茅廬的樂團，知名DJ 小樹曾封他們為「來自台中的宅男樂團」，團員們都是台中一中吉他社的社員，椅子樂團的團名源自他們參加比賽時，臨時起意拉了椅子敲出節奏加入歌曲中。 有點宅，笑起來憨厚樸實，連團名都取得相當隨性，椅子樂團的音樂卻一點都不簡單。 在2016 年就以首張專輯「Cheers!",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5umpUO2uhw7CuILh.jpg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 70
     },
     {
         "isshow": true,
@@ -663,20 +677,6 @@
     },
     {
         "isshow": true,
-        "name": "南瓜妮歌迷俱樂部",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
-        "duration": 40,
-        "start": "19:40",
-        "end": "20:20",
-        "play_list": [],
-        "pid": 54
-    },
-    {
-        "isshow": true,
         "name": "DudaDeportiva",
         "date": 1553385600,
         "eventId": 3,
@@ -688,6 +688,20 @@
         "end": "20:20",
         "play_list": [],
         "pid": 71
+    },
+    {
+        "isshow": true,
+        "name": "南瓜妮歌迷俱樂部",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "南瓜妮歌迷俱樂部是台灣搖滾樂團，由主唱柯家洋、吉他手何俊葦、貝斯手陳弘禮、鼓手林一根組成。近年台灣獨立音樂圈知名樂團之一。作品：《微光》、《果陀》、專輯《他我》，以英式、迷幻、電子等不同曲風征戰各大校園與國際舞台。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/2Mcjgow3ECPjyuEt.jpg",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 54
     },
     {
         "isshow": true,
