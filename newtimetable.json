@@ -1052,8 +1052,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 270,
+                        "duration": 40,
                         "start": "19:00",
+                        "end": "19:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "謝銘佑",
+                        "date": 1553341200,
+                        "eventId": 3,
+                        "info": "謝銘祐，生於南投草屯，台灣音樂製作及詞曲創作人。五歲搬家至台南安平。畢業於臺南一中，輔仁大學。退伍後即踏入唱片界，長達十年在台北當音樂製作人，期間創作超過兩千多首歌。2000年回到故鄉台南，沒事就在台南大街小巷穿梭，自稱「府城流浪漢」。",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/elBc4NfnblUB8Tjk.jpg",
+                        "duration": 40,
+                        "start": "19:40",
+                        "end": "20:20",
+                        "pid": 119
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 190,
+                        "start": "20:20",
                         "end": "23:00",
                         "pid": -1
                     }
