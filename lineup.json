@@ -411,20 +411,6 @@
     },
     {
         "isshow": true,
-        "name": "Billy Drummed",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 73
-    },
-    {
-        "isshow": true,
         "name": "李友廷",
         "date": 1553385600,
         "eventId": 3,
@@ -453,6 +439,20 @@
     },
     {
         "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
+    },
+    {
+        "isshow": true,
         "name": "陳涵",
         "date": 1553385600,
         "eventId": 3,
@@ -467,17 +467,17 @@
     },
     {
         "isshow": true,
-        "name": "拍謝少年",
+        "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
+        "info": "Billy Drummed從金屬樂團鼓手到幕後音控師到DJ（圖片來源：Billy Drummed）7 月21 日，Billy Drummed 個人概念單曲《Imperial Proudness Chapter I》",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/WKYFqhbZjw0qObP7.jpg",
+        "duration": 60,
         "start": "15:00",
-        "end": "15:40",
+        "end": "16:00",
         "play_list": [],
-        "pid": 41
+        "pid": 73
     },
     {
         "isshow": true,
@@ -551,6 +551,20 @@
     },
     {
         "isshow": true,
+        "name": "女孩與機器人",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 58
+    },
+    {
+        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
@@ -579,20 +593,6 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 58
-    },
-    {
-        "isshow": true,
         "name": "榕幫",
         "date": 1553385600,
         "eventId": 3,
@@ -607,17 +607,17 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
+        "name": "林予晞",
         "date": 1553385600,
         "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "duration": 60,
         "start": "17:00",
-        "end": "17:40",
+        "end": "18:00",
         "play_list": [],
-        "pid": 52
+        "pid": 74
     },
     {
         "isshow": true,
@@ -635,17 +635,31 @@
     },
     {
         "isshow": true,
-        "name": "林予晞",
+        "name": "Spykee",
         "date": 1553385600,
         "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "info": "本週三介紹朋友給大家認識，防疫保健顧問Dr. Corti（真的是醫生）初登場，其實他是以前唱片行與週四初期就在的熟客，很期待這次會帶 ...",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/O0WC93irdzqypahO.jpg",
         "duration": 60,
         "start": "17:00",
         "end": "18:00",
         "play_list": [],
-        "pid": 74
+        "pid": 81
+    },
+    {
+        "isshow": true,
+        "name": "Yonige",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 52
     },
     {
         "isshow": true,
@@ -691,20 +705,6 @@
     },
     {
         "isshow": true,
-        "name": "IC/BC",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
-        "duration": 40,
-        "start": "18:20",
-        "end": "19:00",
-        "play_list": [],
-        "pid": 53
-    },
-    {
-        "isshow": true,
         "name": "椅子樂團",
         "date": 1553385600,
         "eventId": 3,
@@ -716,6 +716,20 @@
         "end": "19:00",
         "play_list": [],
         "pid": 70
+    },
+    {
+        "isshow": true,
+        "name": "IC/BC",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 53
     },
     {
         "isshow": true,
