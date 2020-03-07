@@ -539,8 +539,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 430,
+                        "duration": 40,
                         "start": "16:20",
+                        "end": "17:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "the underground youth",
+                        "date": 1553331600,
+                        "eventId": 3,
+                        "info": "來自英格蘭西北部 Blackpool，由主腦/主唱 Craig Dyer 正式開始起了 The Undergroung Youth 這個名字，有著超過十個年頭的音樂旅程。 經歷過初期打出名號的‘Morally Barren’、‘Voltage’、‘Mademoiselle’、‘Sadovaya’等免費下載作品，Craig 與鼓手 Olya —— 同時也是他的妻子，於 2011 年在新廠牌 Fuzz Club 發表第五張專輯 ‘Delirium’ 後正式確立樂隊編制，並於隔年從歐洲展開邁向世界的旅程。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/GMvw7MJrIXdhy4q7.jpeg",
+                        "duration": 40,
+                        "start": "17:00",
+                        "end": "17:40",
+                        "pid": 101
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 350,
+                        "start": "17:40",
                         "end": "23:00",
                         "pid": -1
                     }
