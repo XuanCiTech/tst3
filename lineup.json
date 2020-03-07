@@ -99,6 +99,20 @@
     },
     {
         "isshow": true,
+        "name": "張雅淳",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "張雅淳，人稱雅淳桑(Ya Chun San)，從少女時期就和大家交朋友，唱遍島內外，認真又鬆散的過生活。 女性特質濃厚的歌聲中，有老派的文學性與文謅謅性！",
+        "stage": "出頭天",
+        "image": "https://festio.app/storage/artist/FpmO2cktmZhFGKus.jpeg",
+        "duration": 40,
+        "start": "14:00",
+        "end": "14:40",
+        "play_list": [],
+        "pid": 110
+    },
+    {
+        "isshow": true,
         "name": "厭世少年",
         "date": 1553299200,
         "eventId": 3,
@@ -663,20 +677,6 @@
     },
     {
         "isshow": true,
-        "name": "最後大浪",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 66
-    },
-    {
-        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -691,17 +691,17 @@
     },
     {
         "isshow": true,
-        "name": "恆春兮",
+        "name": "最後大浪",
         "date": 1553385600,
         "eventId": 3,
-        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
-        "duration": 60,
-        "start": "13:20",
-        "end": "14:20",
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
         "play_list": [],
-        "pid": 76
+        "pid": 66
     },
     {
         "isshow": true,
@@ -716,6 +716,20 @@
         "end": "14:00",
         "play_list": [],
         "pid": 40
+    },
+    {
+        "isshow": true,
+        "name": "恆春兮",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 76
     },
     {
         "isshow": true,
@@ -747,20 +761,6 @@
     },
     {
         "isshow": true,
-        "name": "Say sue Me",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-Say Sue Me是一支來自韓國釜山的獨立搖滾樂隊，目前由崔素美，金炳圭，河載永和金昌元組成。該樂隊成立於2012年，發行了兩張全長專輯：《我們已經清醒了》和《我們在一起的地方》。和四個擴展播放：Big Summer Night，Semin，這只是一小段路程！和Christmas，這不是Biggie。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/Ge6nrx4ZblXgGCQC.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 39
-    },
-    {
-        "isshow": true,
         "name": "一點生",
         "date": 1553385600,
         "eventId": 3,
@@ -772,6 +772,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 67
+    },
+    {
+        "isshow": true,
+        "name": "Say sue Me",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "譯自英文-Say Sue Me是一支來自韓國釜山的獨立搖滾樂隊，目前由崔素美，金炳圭，河載永和金昌元組成。該樂隊成立於2012年，發行了兩張全長專輯：《我們已經清醒了》和《我們在一起的地方》。和四個擴展播放：Big Summer Night，Semin，這只是一小段路程！和Christmas，這不是Biggie。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/Ge6nrx4ZblXgGCQC.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 39
     },
     {
         "isshow": true,
@@ -789,20 +803,6 @@
     },
     {
         "isshow": true,
-        "name": "五五身",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
-        "stage": "藍寶石",
-        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 77
-    },
-    {
-        "isshow": true,
         "name": "拍謝少年",
         "date": 1553385600,
         "eventId": 3,
@@ -814,6 +814,20 @@
         "end": "15:40",
         "play_list": [],
         "pid": 41
+    },
+    {
+        "isshow": true,
+        "name": "李友廷",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 57
     },
     {
         "isshow": true,
@@ -831,17 +845,17 @@
     },
     {
         "isshow": true,
-        "name": "李友廷",
+        "name": "五五身",
         "date": 1553385600,
         "eventId": 3,
-        "info": "李友廷，台灣創作歌手，出生於臺灣新北市，畢業於世新大學廣電系電影組。粉絲名為同學。李友廷曾參加過多場音樂大賽，曾囊括各大專院校音樂比賽獨唱、重唱、創作、吉他類別等冠軍，對於各類的LIVE HOUSE與音樂節表演經驗豐富",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/wIVzF6ZU2CfyOWDf.jpg",
+        "info": "沒有九頭身不是你的錯，就算五五身也沒關係，你可以用柯基短腿也很可愛安慰自己，但如果有穿搭可以幫你變長腿歐巴，有什麼理由不學？",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/Qp3JmwFkxRzVgeNO.jpg",
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
         "play_list": [],
-        "pid": 57
+        "pid": 77
     },
     {
         "isshow": true,
@@ -873,20 +887,6 @@
     },
     {
         "isshow": true,
-        "name": "林以樂",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 68
-    },
-    {
-        "isshow": true,
         "name": "Empty ORio",
         "date": 1553385600,
         "eventId": 3,
@@ -901,17 +901,17 @@
     },
     {
         "isshow": true,
-        "name": "林貓王",
+        "name": "林以樂",
         "date": 1553385600,
         "eventId": 3,
-        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
-        "duration": 60,
-        "start": "16:00",
-        "end": "17:00",
+        "info": "雀斑（Freckles），成立於2003年的台灣樂團，成員有林以樂（主唱、吉他手兼鍵盤手）、蘇偉安（主唱兼吉他手）、蘇偉博（貝斯手）、菜圃（鼓手），主要活動區域為台北地區 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/mBFq89cGkWOlwYOj.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
         "play_list": [],
-        "pid": 80
+        "pid": 68
     },
     {
         "isshow": true,
@@ -929,6 +929,20 @@
     },
     {
         "isshow": true,
+        "name": "林貓王",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
+        "duration": 60,
+        "start": "16:00",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 80
+    },
+    {
+        "isshow": true,
         "name": "十九雨",
         "date": 1553385600,
         "eventId": 3,
@@ -943,20 +957,6 @@
     },
     {
         "isshow": true,
-        "name": "落日飛車",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 42
-    },
-    {
-        "isshow": true,
         "name": "女孩與機器人",
         "date": 1553385600,
         "eventId": 3,
@@ -968,6 +968,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 58
+    },
+    {
+        "isshow": true,
+        "name": "落日飛車",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "落日飛車（英文團名：Sunset Rollercoaster），於2011年成立的台灣搖滾樂團。 目录. 1 團員; 2 前團員; 3 發行專輯; 4 外部連結. 團員[编辑]. 過山車（主唱、吉他）：國國(曾 ...\n英文名‎: ‎Sunset Rollercoaster\t演奏乐器‎: ‎吉他、鍵盤、鼓手、貝斯",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/cXMYo4hor9D57Gbt.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 42
     },
     {
         "isshow": true,
@@ -999,6 +1013,20 @@
     },
     {
         "isshow": true,
+        "name": "Yonige",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 52
+    },
+    {
+        "isshow": true,
         "name": "必順鄉村",
         "date": 1553385600,
         "eventId": 3,
@@ -1027,20 +1055,6 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 52
-    },
-    {
-        "isshow": true,
         "name": "康士坦的變化球",
         "date": 1553385600,
         "eventId": 3,
@@ -1052,20 +1066,6 @@
         "end": "18:00",
         "play_list": [],
         "pid": 48
-    },
-    {
-        "isshow": true,
-        "name": "黃子佼",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 59
     },
     {
         "isshow": true,
@@ -1083,6 +1083,20 @@
     },
     {
         "isshow": true,
+        "name": "黃子佼",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 59
+    },
+    {
+        "isshow": true,
         "name": "陳涵＋林貓王＋Spykee",
         "date": 1553385600,
         "eventId": 3,
@@ -1097,20 +1111,6 @@
     },
     {
         "isshow": true,
-        "name": "IC/BC",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
-        "duration": 40,
-        "start": "18:20",
-        "end": "19:00",
-        "play_list": [],
-        "pid": 53
-    },
-    {
-        "isshow": true,
         "name": "椅子樂團",
         "date": 1553385600,
         "eventId": 3,
@@ -1122,6 +1122,20 @@
         "end": "19:00",
         "play_list": [],
         "pid": 70
+    },
+    {
+        "isshow": true,
+        "name": "IC/BC",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 53
     },
     {
         "isshow": true,
