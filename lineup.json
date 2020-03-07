@@ -355,20 +355,6 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 58
-    },
-    {
-        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
@@ -380,6 +366,20 @@
         "end": "17:00",
         "play_list": [],
         "pid": 42
+    },
+    {
+        "isshow": true,
+        "name": "女孩與機器人",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 58
     },
     {
         "isshow": true,
@@ -464,6 +464,20 @@
         "end": "19:20",
         "play_list": [],
         "pid": 49
+    },
+    {
+        "isshow": true,
+        "name": "傷心欲絕",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "傷心欲絕 是來自台灣．台北的獨立樂團，於2008年開始。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/8v0GLGg1Ys7WFbVm.png",
+        "duration": 40,
+        "start": "19:00",
+        "end": "19:40",
+        "play_list": [],
+        "pid": 60
     },
     {
         "isshow": true,
