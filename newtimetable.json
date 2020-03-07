@@ -1212,8 +1212,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 630,
+                        "duration": 70,
                         "start": "13:00",
+                        "end": "14:10",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "陳錫煌",
+                        "date": 1553321400,
+                        "eventId": 3,
+                        "info": "陳錫煌，台灣台北人，知名布袋戲操偶藝師，父為李天祿。因陳錫煌過繼母系，故從其母姓陳。 陳錫煌是台灣唯一獲得文化部「重要傳統藝術布袋戲類保存者」、「古典布袋戲偶衣飾盔帽道具製­作技術保存者」兩項國家頭銜的傳統布袋戲師。2019年獲頒第二十三屆臺北文化獎，並於2020年獲得第三十九屆行政院文化獎。",
+                        "stage": "藍寶石",
+                        "image": "https://festio.app/storage/artist/At53VCLARvm2K37e.jpg",
+                        "duration": 80,
+                        "start": "14:10",
+                        "end": "15:30",
+                        "pid": 124
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 480,
+                        "start": "15:30",
                         "end": "23:00",
                         "pid": -1
                     }
