@@ -327,6 +327,20 @@
     },
     {
         "isshow": true,
+        "name": "恆春兮",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "恆春兮，生於高雄，台灣聲音藝術工作者，其錄音作品為短篇、仿廣播形式作品，內容多為諷刺社會、政治時事，以幽默有趣的方式呈現。 恆春兮本行是機車行老闆，在高雄市前鎮區崗山東街經營「大元機車行」，1995年起參與電台脫口秀節目。至今已出版三張唱片，版稅分別捐給慈濟、台東基督教醫院以及家扶中心等公益團體。",
+        "stage": "藍寶石",
+        "image": "https://festio.app/storage/artist/yiT0qUCub8ngbJG7.jpg",
+        "duration": 60,
+        "start": "13:20",
+        "end": "14:20",
+        "play_list": [],
+        "pid": 76
+    },
+    {
+        "isshow": true,
         "name": "血肉果汁機",
         "date": 1553385600,
         "eventId": 3,
@@ -355,20 +369,6 @@
     },
     {
         "isshow": true,
-        "name": "Say sue Me",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "譯自英文-Say Sue Me是一支來自韓國釜山的獨立搖滾樂隊，目前由崔素美，金炳圭，河載永和金昌元組成。該樂隊成立於2012年，發行了兩張全長專輯：《我們已經清醒了》和《我們在一起的地方》。和四個擴展播放：Big Summer Night，Semin，這只是一小段路程！和Christmas，這不是Biggie。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/Ge6nrx4ZblXgGCQC.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 39
-    },
-    {
-        "isshow": true,
         "name": "一點生",
         "date": 1553385600,
         "eventId": 3,
@@ -383,6 +383,20 @@
     },
     {
         "isshow": true,
+        "name": "Say sue Me",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "譯自英文-Say Sue Me是一支來自韓國釜山的獨立搖滾樂隊，目前由崔素美，金炳圭，河載永和金昌元組成。該樂隊成立於2012年，發行了兩張全長專輯：《我們已經清醒了》和《我們在一起的地方》。和四個擴展播放：Big Summer Night，Semin，這只是一小段路程！和Christmas，這不是Biggie。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/Ge6nrx4ZblXgGCQC.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 39
+    },
+    {
+        "isshow": true,
         "name": "無妄合作社",
         "date": 1553385600,
         "eventId": 3,
@@ -394,6 +408,20 @@
         "end": "15:20",
         "play_list": [],
         "pid": 46
+    },
+    {
+        "isshow": true,
+        "name": "拍謝少年",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
+        "duration": 40,
+        "start": "15:00",
+        "end": "15:40",
+        "play_list": [],
+        "pid": 41
     },
     {
         "isshow": true,
@@ -422,20 +450,6 @@
         "end": "15:40",
         "play_list": [],
         "pid": 57
-    },
-    {
-        "isshow": true,
-        "name": "拍謝少年",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "拍謝少年由貝斯手薑薑、吉他手維尼、鼓手宗翰三人組成，2012年發行第一張專輯《海口味》後，三人陸續服完兵役、有了正職，變成了上班族搖滾樂團 ...",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/e9PuBNHtRnAUDetY.jpg",
-        "duration": 40,
-        "start": "15:00",
-        "end": "15:40",
-        "play_list": [],
-        "pid": 41
     },
     {
         "isshow": true,
@@ -551,20 +565,6 @@
     },
     {
         "isshow": true,
-        "name": "Yonige",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 52
-    },
-    {
-        "isshow": true,
         "name": "必順鄉村",
         "date": 1553385600,
         "eventId": 3,
@@ -576,6 +576,20 @@
         "end": "17:40",
         "play_list": [],
         "pid": 69
+    },
+    {
+        "isshow": true,
+        "name": "Yonige",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Gokkin：喜歡日本而且可以在攤販上吃到各式各樣美味食物的國度。 yonige 的作品中有許多關於女性、戀愛意義深遠的歌詞，這些詞句的發想是來自何處，可曾收過難忘的樂迷回應，兩人是否有最為深刻的戀愛經驗呢。 牛丸：以前的作品通常是直接就把戀愛化為歌詞。 現在的話則是以想像成份居多。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/mDT0456CeXyeAWko.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 52
     },
     {
         "isshow": true,
@@ -593,20 +607,6 @@
     },
     {
         "isshow": true,
-        "name": "TizzyBac",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 43
-    },
-    {
-        "isshow": true,
         "name": "黃子佼",
         "date": 1553385600,
         "eventId": 3,
@@ -618,6 +618,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 59
+    },
+    {
+        "isshow": true,
+        "name": "TizzyBac",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 43
     },
     {
         "isshow": true,
