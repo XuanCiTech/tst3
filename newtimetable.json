@@ -339,23 +339,23 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 20,
+                        "duration": 40,
                         "start": "18:00",
-                        "end": "18:20",
+                        "end": "18:40",
                         "pid": -1
                     },
                     {
                         "isshow": true,
-                        "name": "晨曦光廊",
-                        "date": 1553422800,
+                        "name": "HUSH",
+                        "date": 1553424000,
                         "eventId": 3,
-                        "info": "成軍於2008年的台南後搖指標樂團晨曦光廊，作品有著細膩卻豐沛的情感，及人文、社會議題的關心與反思。他們巨大的現場演出張力總能煽動觀眾情緒，常讓樂迷哭成一團，有著「心靈瀉藥」之稱；而團員真性情的個性，也上它們被冠上「全台最愛哭的樂團」封號。這樣真摯、誠懇的樂團，迎接成軍第十年，他們依舊維持著自己的姿態，以誠實面對為目標，向內挖掘樂團當下的面貌，毫無保留將當下的想法、生活以音樂呈現。4/6晨曦光廊將於Legacy Taipei舉辦【誠實面對】十周年專場，邀請晨友們一起來現場，面對面認識現在的晨曦光廊。",
+                        "info": "HUSH，出生名陳家偉，2020年改名陳品赫，是臺灣男歌手與詞曲作家，曾是Hush! 樂團的主唱。HUSH在大學攻讀哲學系，對星象、塔羅等充滿神祕事物也感興趣，因此在他的詞曲創作中經常以哲學角度為出發點詮釋生命與愛情。",
                         "stage": "海龍王",
-                        "image": "https://festio.app/storage/artist/Twk5QuItDMIrYPEY.jpg",
-                        "duration": 180,
-                        "start": "18:20",
-                        "end": "21:20",
-                        "pid": 11
+                        "image": "https://festio.app/storage/artist/171J36zaYaJmRCTL.jpeg",
+                        "duration": 40,
+                        "start": "18:40",
+                        "end": "19:20",
+                        "pid": 49
                     },
                     {
                         "isshow": false,
@@ -365,8 +365,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 130,
-                        "start": "21:20",
+                        "duration": 250,
+                        "start": "19:20",
                         "end": "23:00",
                         "pid": -1
                     }
