@@ -238,8 +238,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 140,
                         "start": "10:00",
+                        "end": "12:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "告五人",
+                        "date": 1553314800,
+                        "eventId": 3,
+                        "info": "告五人，台灣獨立樂團，目前團員為男主唱兼木吉他手潘雲安、女主唱犬青及鼓手哲謙。不設限曲風的音樂風格，展現告五人多元的音樂面向，作品類型涵蓋Folk Rock、Pop Rock、Indie Rock、Synth pop、Dance Pop、Ballad、Electro、New wave。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/ekzamFZp5anYV4Mz.jpeg",
+                        "duration": 40,
+                        "start": "12:20",
+                        "end": "13:00",
+                        "pid": 90
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 630,
+                        "start": "13:00",
                         "end": "23:00",
                         "pid": -1
                     }
