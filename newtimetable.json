@@ -1194,8 +1194,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 350,
+                        "duration": 40,
                         "start": "17:40",
+                        "end": "18:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "椅子樂團",
+                        "date": 1553422800,
+                        "eventId": 3,
+                        "info": "其實並不是什麼初出茅廬的樂團，知名DJ 小樹曾封他們為「來自台中的宅男樂團」，團員們都是台中一中吉他社的社員，椅子樂團的團名源自他們參加比賽時，臨時起意拉了椅子敲出節奏加入歌曲中。 有點宅，笑起來憨厚樸實，連團名都取得相當隨性，椅子樂團的音樂卻一點都不簡單。 在2016 年就以首張專輯「Cheers!",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/5umpUO2uhw7CuILh.jpg",
+                        "duration": 40,
+                        "start": "18:20",
+                        "end": "19:00",
+                        "pid": 70
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 270,
+                        "start": "19:00",
                         "end": "23:00",
                         "pid": -1
                     }
