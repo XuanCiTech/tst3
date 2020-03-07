@@ -1354,8 +1354,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 100,
                         "start": "10:00",
+                        "end": "11:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "千喜計畫特映會",
+                        "date": 1553398800,
+                        "eventId": 3,
+                        "info": "我們以為老的東西會讓人懷念，其實老的東西比較容易被忘記，直到消失了大家才開始惋惜，就像今年這場變了模樣的春天吶喊，如果大家平常就多點珍惜跟支持，現在大概也不會變成這樣吧~~就連感覺穩定成長的大港，現在也面臨了未知的命運，維持一場活動實在太難，與其懷念已經消失的，不如把握已經有的！",
+                        "stage": "藍寶石",
+                        "image": "https://festio.app/storage/artist/dfKfVUbq5YRr0W7E.png",
+                        "duration": 80,
+                        "start": "11:40",
+                        "end": "13:00",
+                        "pid": 75
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 630,
+                        "start": "13:00",
                         "end": "23:00",
                         "pid": -1
                     }
