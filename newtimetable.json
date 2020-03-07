@@ -513,8 +513,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 510,
+                        "duration": 40,
                         "start": "15:00",
+                        "end": "15:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "光景消逝",
+                        "date": 1553326800,
+                        "eventId": 3,
+                        "info": "團員包括阿傑(主唱兼吉他手)、阿涵(吉他手)、PUNCH(主唱兼貝斯手)、JESSE(鼓手)。光景消逝成立於2003年4月，曲風早期為硬蕊、Screamo，經過大小比賽的洗禮之後，轉變成Emo、另類搖滾和Power Pop，歌曲歌詞著重於描寫人際相處的情感與喜怒哀樂。2007年海洋音樂祭裡，光景消逝獲得搖滾歌手崔健極高的評價[1]。同年10月，光景消逝發行首張專輯《我們約定的誓言》，其中最有名的歌曲為《Eyes Contact》，此曲為陳懷恩導演的電影「練習曲」的電影配樂，也因為這部電影讓這首歌在網路平台StreetVoice上的點閱率在一週內超過一萬人次。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/UlyrB0ZnFB7R9v0R.jpg",
+                        "duration": 40,
+                        "start": "15:40",
+                        "end": "16:20",
+                        "pid": 100
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 430,
+                        "start": "16:20",
                         "end": "23:00",
                         "pid": -1
                     }
