@@ -974,8 +974,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 510,
+                        "duration": 40,
                         "start": "15:00",
+                        "end": "15:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "熱寫生",
+                        "date": 1553326800,
+                        "eventId": 3,
+                        "info": "熱寫生，來自台北的另類民謠樂團，成立於2018年。 掐指一算這樂團還算年輕，實際上團員皆是樂壇猛將，分別來自非人物種、佛香甜、向量單車、包子虎等各路樂團好手。 熱寫生從生活中汲取創作題材，感情、日常、現實，還有生命中不可或缺的貓，將男女雙主唱的柔和嗓音和樂器當作畫筆，在這座城市進行一場場的生活速寫。",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/KaeF1gHRJ1k6nJil.jpg",
+                        "duration": 40,
+                        "start": "15:40",
+                        "end": "16:20",
+                        "pid": 116
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 430,
+                        "start": "16:20",
                         "end": "23:00",
                         "pid": -1
                     }
