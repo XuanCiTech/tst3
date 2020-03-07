@@ -1279,8 +1279,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 300,
                         "start": "10:00",
+                        "end": "15:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "DenkiDada",
+                        "date": 1553324400,
+                        "eventId": 3,
+                        "info": "獨立系派對炒手\n什麼都喜歡什麼都PLAY\n\nResident DJ at The Bar (The Wall Live House)\nParty/Event/Wedding DJ",
+                        "stage": "豐田祭",
+                        "image": "https://festio.app/storage/artist/dd033zVENs6OMTsc.jpeg",
+                        "duration": 60,
+                        "start": "15:00",
+                        "end": "16:00",
+                        "pid": 126
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 450,
+                        "start": "16:00",
                         "end": "23:00",
                         "pid": -1
                     }
