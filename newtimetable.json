@@ -487,8 +487,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 590,
+                        "duration": 40,
                         "start": "13:40",
+                        "end": "14:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "厭世少年",
+                        "date": 1553322000,
+                        "eventId": 3,
+                        "info": "樂團成員\n主唱: 阿國\n吉他手: 檳榔\n吉他手: 陽痿\n長號手/薩克斯風手: 處男\n薩克斯風手:大便\n鼓手: 寶春\n貝斯手: 歐巴馬\n鍵盤手:莫札特\n\n歷任成員\n一代目鼓手: 馬眼(2013-2014)\n藏鏡貝斯手: 火車站(2013-2015)\n最萌小喇叭: K仔(2014-2015)\n偶像吉他手:杰倫 (2013-2015)",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/PQjmmUr0aVufEDmi.jpeg",
+                        "duration": 40,
+                        "start": "14:20",
+                        "end": "15:00",
+                        "pid": 99
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 510,
+                        "start": "15:00",
                         "end": "23:00",
                         "pid": -1
                     }
