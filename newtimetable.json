@@ -1186,8 +1186,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 100,
                         "start": "10:00",
+                        "end": "11:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "滅火器鄭宇辰",
+                        "date": 1553312400,
+                        "eventId": 3,
+                        "info": "鄭宇辰，綽號西瓜，是臺灣樂團滅火器樂團的吉他手、知名詞曲創作者、火氣音樂股東之一。 2018年5月8日宣布獨立製作完成的個人專輯－《Empty ORio》也即將於5月11日正式發行。",
+                        "stage": "藍寶石",
+                        "image": "https://festio.app/storage/artist/3GMRyLzWNFJQsf7J.jpeg",
+                        "duration": 80,
+                        "start": "11:40",
+                        "end": "13:00",
+                        "pid": 123
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 630,
+                        "start": "13:00",
                         "end": "23:00",
                         "pid": -1
                     }
