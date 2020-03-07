@@ -365,8 +365,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 250,
+                        "duration": 40,
                         "start": "19:20",
+                        "end": "20:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "女王蜂",
+                        "date": 1553428800,
+                        "eventId": 3,
+                        "info": "女王蜂是日本的四人搖滾樂團，2009年在兵庫縣神戶市組成。2011年正式出道，有「日本最神秘樂團」、「眼見不一定為憑樂團」之稱。",
+                        "stage": "海龍王",
+                        "image": "https://festio.app/storage/artist/OGYVhL7jVAQFB7TW.jpg",
+                        "duration": 40,
+                        "start": "20:00",
+                        "end": "20:40",
+                        "pid": 50
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 170,
+                        "start": "20:40",
                         "end": "23:00",
                         "pid": -1
                     }
