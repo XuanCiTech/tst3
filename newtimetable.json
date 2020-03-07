@@ -368,8 +368,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 310,
+                        "duration": 60,
                         "start": "18:20",
+                        "end": "19:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "打首獄門同好會",
+                        "date": 1553340000,
+                        "eventId": 3,
+                        "info": "打首獄門同好會是日本的三人搖滾樂團。2004年結成。",
+                        "stage": "南霸天",
+                        "image": "https://festio.app/storage/artist/KZlEDbXcqdsGmDPQ.jpg",
+                        "duration": 40,
+                        "start": "19:20",
+                        "end": "20:00",
+                        "pid": 95
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 210,
+                        "start": "20:00",
                         "end": "23:00",
                         "pid": -1
                     }
