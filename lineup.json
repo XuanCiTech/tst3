@@ -71,6 +71,20 @@
     },
     {
         "isshow": true,
+        "name": "\b負極高壓電",
+        "date": 1553299200,
+        "eventId": 3,
+        "info": "負極高壓電】 來自台北最底層的樂團， 由曾組團不順遂充滿負極情緒的樂手組成。\n超薄吉他音牆、超稀疏雙大鼓對點，強烈抒發著對彼此的負極情緒、 批判彼此的世界，訴說著對彼此的觀察，隨時想把彼此踢出團。\n如果被「負極高壓電」踢出團，負負得正，負極又變成正極了。\n（團介 by 曾被踢出團的鼓手小郭）",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/TH7zUq7fYkLavSR1.jpeg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 114
+    },
+    {
+        "isshow": true,
         "name": "東京中央線",
         "date": 1553299200,
         "eventId": 3,
@@ -435,20 +449,6 @@
     },
     {
         "isshow": true,
-        "name": "暴君",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
-        "duration": 40,
-        "start": "11:40",
-        "end": "12:20",
-        "play_list": [],
-        "pid": 65
-    },
-    {
-        "isshow": true,
         "name": "千喜計畫特映會",
         "date": 1553385600,
         "eventId": 3,
@@ -474,6 +474,20 @@
         "end": "12:20",
         "play_list": [],
         "pid": 37
+    },
+    {
+        "isshow": true,
+        "name": "暴君",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/5ke63aPk719z6xaW.jpg",
+        "duration": 40,
+        "start": "11:40",
+        "end": "12:20",
+        "play_list": [],
+        "pid": 65
     },
     {
         "isshow": true,
@@ -719,20 +733,6 @@
     },
     {
         "isshow": true,
-        "name": "孩子王",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
-        "duration": 40,
-        "start": "13:00",
-        "end": "13:40",
-        "play_list": [],
-        "pid": 38
-    },
-    {
-        "isshow": true,
         "name": "最後大浪",
         "date": 1553385600,
         "eventId": 3,
@@ -747,17 +747,17 @@
     },
     {
         "isshow": true,
-        "name": "石井健雄",
+        "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
-        "info": "石井健雄，旅居德國的日本歌唱家，東京出身，以約德爾唱法聞名。",
-        "stage": "海龍王",
-        "image": "https://festio.app/storage/artist/tJ7ZtfTjMyTCJoy2.jpg",
+        "info": "英文名稱：Kid King。成立於2012年五月。來自高雄的台語搖滾樂團。現任成員：主唱阿達、吉他手阿宏、貝斯手什麼、鼓手強尼，全數來自於樹德科技大學吉他公社。 貝斯手什麼、鼓手強尼另有組樂團壞超人，同時與其他友人創立大心劍玉。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/MeCL2MUTzIhrRkBC.jpg",
         "duration": 40,
-        "start": "13:20",
-        "end": "14:00",
+        "start": "13:00",
+        "end": "13:40",
         "play_list": [],
-        "pid": 40
+        "pid": 38
     },
     {
         "isshow": true,
@@ -772,6 +772,20 @@
         "end": "14:20",
         "play_list": [],
         "pid": 76
+    },
+    {
+        "isshow": true,
+        "name": "石井健雄",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "石井健雄，旅居德國的日本歌唱家，東京出身，以約德爾唱法聞名。",
+        "stage": "海龍王",
+        "image": "https://festio.app/storage/artist/tJ7ZtfTjMyTCJoy2.jpg",
+        "duration": 40,
+        "start": "13:20",
+        "end": "14:00",
+        "play_list": [],
+        "pid": 40
     },
     {
         "isshow": true,
@@ -803,20 +817,6 @@
     },
     {
         "isshow": true,
-        "name": "一點生",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
-        "duration": 40,
-        "start": "14:20",
-        "end": "15:00",
-        "play_list": [],
-        "pid": 67
-    },
-    {
-        "isshow": true,
         "name": "Say sue Me",
         "date": 1553385600,
         "eventId": 3,
@@ -828,6 +828,20 @@
         "end": "15:00",
         "play_list": [],
         "pid": 39
+    },
+    {
+        "isshow": true,
+        "name": "一點生",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "直指萬事核心的人。 來自高雄的一點生。 詞曲創作均以台語創作，在龐克的根基下擠壓出激烈的搖滾寸勁！ 在他們的音樂裡你可以聽到感受到有如 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/QTS2JDwk8OlU2Kyk.jpg",
+        "duration": 40,
+        "start": "14:20",
+        "end": "15:00",
+        "play_list": [],
+        "pid": 67
     },
     {
         "isshow": true,
@@ -859,20 +873,6 @@
     },
     {
         "isshow": true,
-        "name": "陳涵",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
-        "stage": "豐田祭",
-        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
-        "duration": 60,
-        "start": "15:00",
-        "end": "16:00",
-        "play_list": [],
-        "pid": 79
-    },
-    {
-        "isshow": true,
         "name": "Billy Drummed",
         "date": 1553385600,
         "eventId": 3,
@@ -884,6 +884,20 @@
         "end": "16:00",
         "play_list": [],
         "pid": 73
+    },
+    {
+        "isshow": true,
+        "name": "陳涵",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "陳涵，廣東茂名人，中華民國法官、檢察官，1992年至1997年間擔任中華民國最高法院檢察署檢察總長。",
+        "stage": "豐田祭",
+        "image": "https://festio.app/storage/artist/aWdohvNoie18mziz.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [],
+        "pid": 79
     },
     {
         "isshow": true,
@@ -929,20 +943,6 @@
     },
     {
         "isshow": true,
-        "name": "Empty ORio",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
-        "duration": 40,
-        "start": "15:40",
-        "end": "16:20",
-        "play_list": [],
-        "pid": 51
-    },
-    {
-        "isshow": true,
         "name": "林以樂",
         "date": 1553385600,
         "eventId": 3,
@@ -954,6 +954,20 @@
         "end": "16:20",
         "play_list": [],
         "pid": 68
+    },
+    {
+        "isshow": true,
+        "name": "Empty ORio",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Empty ORio，是滅火器樂團吉他手鄭宇辰個人首張全創作專輯，數位發行是2018年4月30日，2018年5月11日正式發行",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/CULxA3tfo3qQ6q1f.jpg",
+        "duration": 40,
+        "start": "15:40",
+        "end": "16:20",
+        "play_list": [],
+        "pid": 51
     },
     {
         "isshow": true,
@@ -999,20 +1013,6 @@
     },
     {
         "isshow": true,
-        "name": "女孩與機器人",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
-        "duration": 40,
-        "start": "16:20",
-        "end": "17:00",
-        "play_list": [],
-        "pid": 58
-    },
-    {
-        "isshow": true,
         "name": "落日飛車",
         "date": 1553385600,
         "eventId": 3,
@@ -1027,6 +1027,20 @@
     },
     {
         "isshow": true,
+        "name": "女孩與機器人",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "女孩與機器人為台灣電子流行三人組，由團長Jungle、蛋、Riin成立於2008年，曲風融合電氣、搖滾精神與跳舞節拍。其中主唱Riin兼通中、英、日三語，鍵盤手蛋曾是許多樂團的御用鍵盤手，團長Jungle曾擔任過周杰倫的錄音師，並演出《陽光宅男》以及《免費教學錄影帶》MV的男主角。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/A9iVZtTnQ3i0lQId.jpg",
+        "duration": 40,
+        "start": "16:20",
+        "end": "17:00",
+        "play_list": [],
+        "pid": 58
+    },
+    {
+        "isshow": true,
         "name": "榕幫",
         "date": 1553385600,
         "eventId": 3,
@@ -1038,34 +1052,6 @@
         "end": "17:20",
         "play_list": [],
         "pid": 64
-    },
-    {
-        "isshow": true,
-        "name": "必順鄉村",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
-        "duration": 40,
-        "start": "17:00",
-        "end": "17:40",
-        "play_list": [],
-        "pid": 69
-    },
-    {
-        "isshow": true,
-        "name": "林予晞",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
-        "stage": "大雄丸",
-        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
-        "duration": 60,
-        "start": "17:00",
-        "end": "18:00",
-        "play_list": [],
-        "pid": 74
     },
     {
         "isshow": true,
@@ -1097,6 +1083,34 @@
     },
     {
         "isshow": true,
+        "name": "必順鄉村",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "必順鄉村-〈三年〉（demo）；身為台灣最道地的台語瞪鞋樂團，必順鄉村即將在2018年迎來他們首張專輯；在靜候佳音的同時，先來欣賞老派大叔的粉紅 ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/9KUBrTpgm0lO9pno.jpg",
+        "duration": 40,
+        "start": "17:00",
+        "end": "17:40",
+        "play_list": [],
+        "pid": 69
+    },
+    {
+        "isshow": true,
+        "name": "林予晞",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "林予晞，台灣女演員，就讀崇光女中高中部，畢業於美國休士頓藝術學院The Art Institute of Houston互動多媒體設計系，從事多媒體設計相關工作兩年後，考上香港國泰航空公司，擔任空服人員，服務近四年。後因檢查出甲狀腺腫瘤而辭退空服工作，回台開刀治療後，在TVBS擔任戲劇企劃人員。",
+        "stage": "大雄丸",
+        "image": "https://festio.app/storage/artist/C50JILpOv0NRCCY6.png",
+        "duration": 60,
+        "start": "17:00",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 74
+    },
+    {
+        "isshow": true,
         "name": "康士坦的變化球",
         "date": 1553385600,
         "eventId": 3,
@@ -1108,20 +1122,6 @@
         "end": "18:00",
         "play_list": [],
         "pid": 48
-    },
-    {
-        "isshow": true,
-        "name": "TizzyBac",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
-        "stage": "南霸天",
-        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 43
     },
     {
         "isshow": true,
@@ -1139,6 +1139,20 @@
     },
     {
         "isshow": true,
+        "name": "TizzyBac",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Tizzy Bac，中文團名鐵之貝克，是台灣搖滾樂團，成立於1999年，由陳惠婷、許哲毓、林前源三人組成。主要活動區域為台北，常在台北市各大表演場地演出。貝斯手許哲毓於2018年1月23日因癌症離世。",
+        "stage": "南霸天",
+        "image": "https://festio.app/storage/artist/rncgnGo1ulVZ0WvM.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 43
+    },
+    {
+        "isshow": true,
         "name": "陳涵＋林貓王＋Spykee",
         "date": 1553385600,
         "eventId": 3,
@@ -1153,20 +1167,6 @@
     },
     {
         "isshow": true,
-        "name": "IC/BC",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
-        "stage": "女神龍",
-        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
-        "duration": 40,
-        "start": "18:20",
-        "end": "19:00",
-        "play_list": [],
-        "pid": 53
-    },
-    {
-        "isshow": true,
         "name": "椅子樂團",
         "date": 1553385600,
         "eventId": 3,
@@ -1178,6 +1178,20 @@
         "end": "19:00",
         "play_list": [],
         "pid": 70
+    },
+    {
+        "isshow": true,
+        "name": "IC/BC",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "春季大亂鬥第四波樂團釋出啦北部重砲淺力股［Endtrocity 暴行終止］ 演出陣容： ... 可以看到大港限定的IC/BC我這兩天就圓滿了 蝙蝠超兇超棒我聽得起雞皮疙瘩啊。",
+        "stage": "女神龍",
+        "image": "https://festio.app/storage/artist/olHpw15DvPxmztCV.jpg",
+        "duration": 40,
+        "start": "18:20",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 53
     },
     {
         "isshow": true,
@@ -1223,20 +1237,6 @@
     },
     {
         "isshow": true,
-        "name": "DudaDeportiva",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "Premio. Mejor banda del año en los. Golden Indie Music Awards 2017. DUDA DEPORTIVA es un grupo de pop hispanotaiwanés de Taipéi (Taiwán) formado en ...",
-        "stage": "海波浪",
-        "image": "https://festio.app/storage/artist/Y6ixgf8aG7nzjzIO.png",
-        "duration": 40,
-        "start": "19:40",
-        "end": "20:20",
-        "play_list": [],
-        "pid": 71
-    },
-    {
-        "isshow": true,
         "name": "南瓜妮歌迷俱樂部",
         "date": 1553385600,
         "eventId": 3,
@@ -1248,6 +1248,20 @@
         "end": "20:20",
         "play_list": [],
         "pid": 54
+    },
+    {
+        "isshow": true,
+        "name": "DudaDeportiva",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "Premio. Mejor banda del año en los. Golden Indie Music Awards 2017. DUDA DEPORTIVA es un grupo de pop hispanotaiwanés de Taipéi (Taiwán) formado en ...",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/Y6ixgf8aG7nzjzIO.png",
+        "duration": 40,
+        "start": "19:40",
+        "end": "20:20",
+        "play_list": [],
+        "pid": 71
     },
     {
         "isshow": true,
