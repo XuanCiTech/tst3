@@ -1492,6 +1492,19 @@
                         "pid": 79
                     },
                     {
+                        "isshow": true,
+                        "name": "林貓王",
+                        "date": 1553414400,
+                        "eventId": 3,
+                        "info": "電影《雲端情人》的插曲〈Off You〉響起，當男主角孤獨地回到家，開始玩起電動。\n　\n這首歌來自怒女搖滾樂隊 The Breeders，主唱兼貝斯手 Kim Deal 的聲音有點沙啞，卻意外的給人平靜與寂寞的感覺。\n　\n然後今天，在網海連來連去，我聽到了另一首她創作的歌，叫做〈Are You Mine〉，是寫給阿茲海默症的媽媽",
+                        "stage": "豐田祭",
+                        "image": "https://festio.app/storage/artist/0jOZnSPbGI9b2wWt.jpg",
+                        "duration": 60,
+                        "start": "16:00",
+                        "end": "17:00",
+                        "pid": 80
+                    },
+                    {
                         "isshow": false,
                         "name": "",
                         "date": "",
@@ -1499,8 +1512,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 450,
-                        "start": "16:00",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
