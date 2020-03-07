@@ -1220,8 +1220,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 270,
+                        "duration": 40,
                         "start": "19:00",
+                        "end": "19:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "DudaDeportiva",
+                        "date": 1553427600,
+                        "eventId": 3,
+                        "info": "Premio. Mejor banda del año en los. Golden Indie Music Awards 2017. DUDA DEPORTIVA es un grupo de pop hispanotaiwanés de Taipéi (Taiwán) formado en ...",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/Y6ixgf8aG7nzjzIO.png",
+                        "duration": 40,
+                        "start": "19:40",
+                        "end": "20:20",
+                        "pid": 71
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 190,
+                        "start": "20:20",
                         "end": "23:00",
                         "pid": -1
                     }
