@@ -461,8 +461,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 670,
+                        "duration": 40,
                         "start": "12:20",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "東京中央線",
+                        "date": 1553317200,
+                        "eventId": 3,
+                        "info": "東京中央線是我們樂隊的名稱，我們是一隊樂器演奏的樂隊， 由吉他手大竹研（Ken Ohtake）、貝斯手早川徹（Toru Hayakawa）和鼓手福島紀明(Noriaki Fukushima) 組成。 樂隊名稱來自貫穿東京市的鐵路系統，被稱為中央線。",
+                        "stage": "女神龍",
+                        "image": "https://festio.app/storage/artist/jAwzxhIhaK2Lw2Ah.jpeg",
+                        "duration": 40,
+                        "start": "13:00",
+                        "end": "13:40",
+                        "pid": 98
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 590,
+                        "start": "13:40",
                         "end": "23:00",
                         "pid": -1
                     }
