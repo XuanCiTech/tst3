@@ -1023,8 +1023,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 450,
+                        "duration": 40,
                         "start": "16:00",
+                        "end": "16:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "榕幫",
+                        "date": 1553416800,
+                        "eventId": 3,
+                        "info": "嘻哈自紐約的南布朗克斯區誕生至今已有44年的歷史，儘管在台灣駐足的時間未久，榕幫的出現，讓人期許未來能有越來越多這樣飽滿、充滿創造力 ...",
+                        "stage": "出頭天",
+                        "image": "https://festio.app/storage/artist/MFjTkoB5ZvHQKoEH.jpg",
+                        "duration": 40,
+                        "start": "16:40",
+                        "end": "17:20",
+                        "pid": 64
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 370,
+                        "start": "17:20",
                         "end": "23:00",
                         "pid": -1
                     }
