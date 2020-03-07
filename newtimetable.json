@@ -658,8 +658,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 300,
                         "start": "10:00",
+                        "end": "15:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "皇后皮箱",
+                        "date": 1553324400,
+                        "eventId": 3,
+                        "info": "皇后皮箱來自於台北的樂團，成立於2008年，由主唱兼鍵盤卡菈、吉他手阿怪，貝斯手黑輪三人所組成。以1960-70年代的搖滾為主要風格，融合著Blues、Motown、R&B、Surf Rock的曲風。2014年首張專輯《超時空歌女的快活》 2018年發行第二張專輯《仙人指路》",
+                        "stage": "卡魔麥",
+                        "image": "https://festio.app/storage/artist/076f2EUnwmSMtBuy.jpeg",
+                        "duration": 40,
+                        "start": "15:00",
+                        "end": "15:40",
+                        "pid": 105
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 470,
+                        "start": "15:40",
                         "end": "23:00",
                         "pid": -1
                     }
