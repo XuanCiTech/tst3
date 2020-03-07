@@ -922,8 +922,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 670,
+                        "duration": 40,
                         "start": "12:20",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "\b負極高壓電",
+                        "date": 1553317200,
+                        "eventId": 3,
+                        "info": "負極高壓電】 來自台北最底層的樂團， 由曾組團不順遂充滿負極情緒的樂手組成。\n超薄吉他音牆、超稀疏雙大鼓對點，強烈抒發著對彼此的負極情緒、 批判彼此的世界，訴說著對彼此的觀察，隨時想把彼此踢出團。\n如果被「負極高壓電」踢出團，負負得正，負極又變成正極了。\n（團介 by 曾被踢出團的鼓手小郭）",
+                        "stage": "海波浪",
+                        "image": "https://festio.app/storage/artist/TH7zUq7fYkLavSR1.jpeg",
+                        "duration": 40,
+                        "start": "13:00",
+                        "end": "13:40",
+                        "pid": 114
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 590,
+                        "start": "13:40",
                         "end": "23:00",
                         "pid": -1
                     }
