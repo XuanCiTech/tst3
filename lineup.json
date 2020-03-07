@@ -257,6 +257,20 @@
     },
     {
         "isshow": true,
+        "name": "最後大浪",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "譯自英文-最後一波是由彼得·威爾（Peter Weir）執導的1977年澳大利亞懸疑劇情片。故事講述的是悉尼的一名白人律師，他在審理一起謀殺案後發現自己與一小部分被指控犯有該罪行的當地原住民有著奇怪而神秘的聯繫，似乎生活被打亂了。",
+        "stage": "海波浪",
+        "image": "https://festio.app/storage/artist/gzlsZHnjVUT36PTp.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [],
+        "pid": 66
+    },
+    {
+        "isshow": true,
         "name": "孩子王",
         "date": 1553385600,
         "eventId": 3,
@@ -481,20 +495,6 @@
     },
     {
         "isshow": true,
-        "name": "黃子佼",
-        "date": 1553385600,
-        "eventId": 3,
-        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
-        "stage": "卡魔麥",
-        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
-        "duration": 40,
-        "start": "17:40",
-        "end": "18:20",
-        "play_list": [],
-        "pid": 59
-    },
-    {
-        "isshow": true,
         "name": "TizzyBac",
         "date": 1553385600,
         "eventId": 3,
@@ -506,6 +506,20 @@
         "end": "18:20",
         "play_list": [],
         "pid": 43
+    },
+    {
+        "isshow": true,
+        "name": "黃子佼",
+        "date": 1553385600,
+        "eventId": 3,
+        "info": "黃子佼，台灣男藝人、知名節目主持人，綽號「佼佼」，世新大學五專部廣播電視科畢業。1988年8月，黃子佼報名參加中華電視台《青春大對抗》衛冕而出道，至今已五度榮獲電視金鐘獎「綜藝節目主持人獎」、七次拿下金鐘獎主持人獎項。知名女主持人張小燕是黃子佼的師父，Lulu則為其徒弟。",
+        "stage": "卡魔麥",
+        "image": "https://festio.app/storage/artist/K7Fs7qIPLbLsqhzR.jpg",
+        "duration": 40,
+        "start": "17:40",
+        "end": "18:20",
+        "play_list": [],
+        "pid": 59
     },
     {
         "isshow": true,
