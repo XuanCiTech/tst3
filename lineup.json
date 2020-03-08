@@ -10,7 +10,28 @@
         "duration": 40,
         "start": "11:40",
         "end": "12:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Vixens (feat. Silvia Su & Ray Molina)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music19/v4/7c/44/b0/7c44b06e-a09b-7154-bca1-cc2b10643297/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview117/v4/72/bf/7a/72bf7a08-bdc3-bf5e-18b1-6ea96bf355e3/mzaf_6741475795511695016.plus.aac.p.m4a"
+            },
+            {
+                "name": "Fabricated Ocean",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music19/v4/7c/44/b0/7c44b06e-a09b-7154-bca1-cc2b10643297/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview117/v4/be/25/44/be2544f7-86ba-a0e2-d485-0e5504d4df93/mzaf_2314575969242532907.plus.aac.p.m4a"
+            },
+            {
+                "name": "Horror Dealer",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music19/v4/7c/44/b0/7c44b06e-a09b-7154-bca1-cc2b10643297/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview117/v4/f7/1f/a3/f71fa35a-6ed4-7d59-e0d6-da6a2bc8e938/mzaf_1512321558800098333.plus.aac.p.m4a"
+            },
+            {
+                "name": "Concealing Shelter",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music19/v4/7c/44/b0/7c44b06e-a09b-7154-bca1-cc2b10643297/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview19/v4/42/f8/23/42f823a4-e1fc-58ff-ed0f-f8d7a143b9b5/mzaf_1014650615391880883.plus.aac.p.m4a"
+            }
+        ],
         "pid": 113
     },
     {
@@ -38,7 +59,48 @@
         "duration": 40,
         "start": "11:40",
         "end": "12:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "走吧!我們一起看帕芬鳥",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/12/57/fd/1257fdb1-d0de-3683-b15c-fe28bced4032/mzaf_8473128784967902257.plus.aac.p.m4a"
+            },
+            {
+                "name": "少女黑貓",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/3a/2f/97/3a2f97de-5af8-7b21-7372-ed635701d8f8/mzaf_8179890943037905520.plus.aac.p.m4a"
+            },
+            {
+                "name": "水鴛鴦",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3d/e4/7d/3de47d48-2f64-2908-b068-766a38d2baf9/mzaf_8078726698390291246.plus.aac.p.m4a"
+            },
+            {
+                "name": "Dogville",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/e1/44/2f/e1442fb5-d2db-ffa4-7b05-9ceeece3bc35/mzaf_2709897329364083698.plus.aac.p.m4a"
+            },
+            {
+                "name": "Orca!Orca!",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/ae/d2/77/aed2777b-43a9-43c9-3b74-4e1092e30a77/mzaf_3928158163291203819.plus.aac.p.m4a"
+            },
+            {
+                "name": "劍龍",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a1/0f/7e/a10f7ef6-6dbe-cca9-8b1f-2a04bb4a8b0f/mzaf_5253012085071557494.plus.aac.p.m4a"
+            },
+            {
+                "name": "一個人的日子",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/22/74/90/22749011-5019-9536-6b64-34b9c9fb8632/mzaf_6745340953662046230.plus.aac.p.m4a"
+            },
+            {
+                "name": "陳振昌,你是隻猴子",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/5b/12/79/5b127986-2d71-7d70-aaa1-70d991ada7b5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/bd/af/cb/bdafcb69-87ec-9cda-10b3-842f2aa010a6/mzaf_7222024852065306346.plus.aac.p.m4a"
+            }
+        ],
         "pid": 97
     },
     {
@@ -52,7 +114,23 @@
         "duration": 40,
         "start": "12:00",
         "end": "12:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "賺呀賺",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/84/f6/ca/84f6caa4-8311-c2fa-2b92-6e223ff5921e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/0b/46/fb/0b46fb2c-3ede-bc66-cbb3-78215f1d0a10/mzaf_1261902865541858982.plus.aac.p.m4a"
+            },
+            {
+                "name": "愛情摩天輪 (feat. 安苡葳)",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/8d/1d/38/8d1d3884-a304-ffc5-034a-8c6a939e828a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a2/19/91/a21991a0-e8e7-c111-4ed5-af88088a2a35/mzaf_304384342279330441.plus.aac.p.m4a"
+            },
+            {
+                "name": "宜蘭城",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/b5/7e/19/b57e19e7-795f-2ae1-3a6b-01ba5e081e98/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/9f/4a/b5/9f4ab59e-755e-115c-549b-1de5987e530b/mzaf_1212471253060832510.plus.aac.p.m4a"
+            }
+        ],
         "pid": 83
     },
     {
@@ -66,7 +144,28 @@
         "duration": 40,
         "start": "12:20",
         "end": "13:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "披星戴月的想你",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/ef/b9/95/efb9950d-58de-4869-03a0-15425095b82c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/dd/0f/e2/dd0fe2a2-ff16-8b0f-009c-3fe3d0ebb315/mzaf_5176891604493344552.plus.aac.p.m4a"
+            },
+            {
+                "name": "愛在夏天",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/0d/94/b10d9433-937a-53cf-9086-47c69690b66a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f0/d8/f1/f0d8f15c-da53-38ce-8a7d-7b70a46a0697/mzaf_4051034777012752118.plus.aac.p.m4a"
+            },
+            {
+                "name": "愛人錯過",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/be/d5/65/bed565ab-9a03-7936-299a-21bdbfd57819/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/bd/b3/36/bdb336b9-f5ea-649d-8c01-15b2545aa149/mzaf_9295601676367049116.plus.aac.p.m4a"
+            },
+            {
+                "name": "紅",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/be/d5/65/bed565ab-9a03-7936-299a-21bdbfd57819/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0b/03/3d/0b033d62-4674-9b20-2e47-7a3af6a00b5c/mzaf_7595003263493376536.plus.aac.p.m4a"
+            }
+        ],
         "pid": 90
     },
     {
@@ -80,7 +179,63 @@
         "duration": 40,
         "start": "12:40",
         "end": "13:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "長青東街",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e7/68/87/e7688781-c49c-06d8-9531-09002ea2639e/mzaf_2500366423869714097.plus.aac.p.m4a"
+            },
+            {
+                "name": "滿樹翠碧",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/3b/63/08/3b6308c8-330b-d46f-59a8-01a35cebbc69/mzaf_4280551377126936116.plus.aac.p.m4a"
+            },
+            {
+                "name": "小六升國一",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f7/9e/09/f79e096c-133d-7cb0-a4ff-b4eb5f12943f/mzaf_2193004515911488057.plus.aac.p.m4a"
+            },
+            {
+                "name": "好朋友套餐",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/da/52/cd/da52cd2b-f23d-de0c-e2d7-e5737d2ec372/mzaf_7285008912027691564.plus.aac.p.m4a"
+            },
+            {
+                "name": "找錢",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/08/27/89/08278961-a553-66ec-7b81-a06286d718b2/mzaf_5956781513737737431.plus.aac.p.m4a"
+            },
+            {
+                "name": "給人創",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/05/5e/66/055e665a-8454-3d20-0c25-d58d8afe48ad/mzaf_3130302142949749704.plus.aac.p.m4a"
+            },
+            {
+                "name": "菸屎",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/2c/2f/27/2c2f274d-0621-6e4e-c9ec-5759e8c5871c/mzaf_4190291019689191894.plus.aac.p.m4a"
+            },
+            {
+                "name": "愛情的火車",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c2/f2/da/c2f2da1c-0aa3-5c63-be14-be2e7f7e04b8/mzaf_6886636485532033724.plus.aac.p.m4a"
+            },
+            {
+                "name": "西班牙查某",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/44/f9/c1/44f9c10f-3a30-f055-33f7-04cdcec3a081/mzaf_2116397679663721041.plus.aac.p.m4a"
+            },
+            {
+                "name": "邊緣人",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/2b/5e/17/2b5e1779-a492-b0ee-1ba5-9d078dd63800/mzaf_7007121355873494757.plus.aac.p.m4a"
+            },
+            {
+                "name": "水塔上的貓貓",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ed/e3/94/ede3944a-d285-dd76-8a94-b14c060db20f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/70/65/c7/7065c76e-e8b1-2cbd-8796-6f0b33b1c66d/mzaf_2426512046497985706.plus.aac.p.m4a"
+            }
+        ],
         "pid": 109
     },
     {
@@ -108,7 +263,23 @@
         "duration": 40,
         "start": "13:00",
         "end": "13:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Oyasumi",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/41/94/1d/41941d63-c648-b574-b62c-b43fc65147ab/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/af/46/a4/af46a4e3-0a2a-9f31-bf1f-f74d414d223b/mzaf_6914695143412582181.plus.aac.p.m4a"
+            },
+            {
+                "name": "One Line",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music127/v4/0b/db/b0/0bdbb0bd-14a7-d4f6-146e-dabaaf1242ab/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview127/v4/8a/ac/55/8aac55a1-36cb-91e2-8bbd-c6f373723db1/mzaf_586976463515221755.plus.aac.p.m4a"
+            },
+            {
+                "name": "Sneezer",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/41/94/1d/41941d63-c648-b574-b62c-b43fc65147ab/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/1e/ff/c81eff40-ede9-5124-fabc-8d4b85f970e4/mzaf_7076710546098942470.plus.aac.p.m4a"
+            }
+        ],
         "pid": 98
     },
     {
@@ -150,7 +321,38 @@
         "duration": 40,
         "start": "13:40",
         "end": "14:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "魚",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/04/d2/b3/04d2b36a-b0b2-b103-b9c4-8124e234269a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e3/5a/0d/e35a0d44-6c13-6c9d-36a4-d78adbcf1cf3/mzaf_8235092316267090294.plus.aac.p.m4a"
+            },
+            {
+                "name": "不接你的電話",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ea/8c/0a/ea8c0a7a-56e4-36b1-3eb3-b15a173b1b56/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/47/f1/a947f1f8-4c1e-3385-22cb-f9abe94f8eb6/mzaf_6047119002052684895.plus.aac.p.m4a"
+            },
+            {
+                "name": "流浪王子",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/3a/0b/da/3a0bda6c-a6a1-3332-1692-7766433df6de/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/4a/f8/d94af87f-c8b2-402e-d1d2-42004012d097/mzaf_5644524337677238913.plus.aac.p.m4a"
+            },
+            {
+                "name": "我沒有用, 沒辦法給你想要的生活",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/9e/06/4b/9e064bda-0120-ef01-dd5d-c4fc98856a3a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e2/29/44/e229448d-5b25-0132-3a77-cca70d14e4a2/mzaf_1810756839691440453.plus.aac.p.m4a"
+            },
+            {
+                "name": "想想當初吧",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/04/d2/b3/04d2b36a-b0b2-b103-b9c4-8124e234269a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/07/a7/44/07a74451-ebce-933c-cc36-673adb814fdb/mzaf_9147212108562169977.plus.aac.p.m4a"
+            },
+            {
+                "name": "天天開心",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/04/d2/b3/04d2b36a-b0b2-b103-b9c4-8124e234269a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/58/aa/21/58aa210b-3135-4fcc-cb5e-9a4bceb08ba9/mzaf_8712209109170232148.plus.aac.p.m4a"
+            }
+        ],
         "pid": 91
     },
     {
@@ -164,7 +366,13 @@
         "duration": 40,
         "start": "14:00",
         "end": "14:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "開往花蓮的火車",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/38/7d/c4/387dc4d0-825c-cda2-59cf-8e1b13d9c199/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/2d/78/87/2d788784-ef6f-3f7b-9ff3-5fecbe8d1c17/mzaf_15376398565138197015.plus.aac.p.m4a"
+            }
+        ],
         "pid": 110
     },
     {
@@ -192,7 +400,23 @@
         "duration": 40,
         "start": "14:20",
         "end": "15:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "害羞男孩戀愛日記",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/79/34/cb/7934cb94-a774-b78c-84b1-5b2d1c2fe290/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2a/e8/c5/2ae8c5d6-5c0d-277f-ec5f-1acdbd98c2db/mzaf_6835264454152923699.plus.aac.p.m4a"
+            },
+            {
+                "name": "就這樣子不見",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/79/34/cb/7934cb94-a774-b78c-84b1-5b2d1c2fe290/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/a7/8c/50a78c11-8e28-7b34-7013-b7c91173a338/mzaf_1039838876195775533.plus.aac.p.m4a"
+            },
+            {
+                "name": "來自星星的你",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/79/34/cb/7934cb94-a774-b78c-84b1-5b2d1c2fe290/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2d/db/84/2ddb84ef-7e54-7617-5076-5fd94f1c5c51/mzaf_8988384959084100880.plus.aac.p.m4a"
+            }
+        ],
         "pid": 99
     },
     {
@@ -206,7 +430,28 @@
         "duration": 40,
         "start": "14:20",
         "end": "15:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "一席之地",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/4d/35/20/4d3520d8-9121-bfa0-0021-4d9991cdca39/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/a4/56/5e/a4565ebc-4c12-29b6-5350-ed2117383054/mzaf_2559728766229363061.plus.aac.p.m4a"
+            },
+            {
+                "name": "序",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/4d/35/20/4d3520d8-9121-bfa0-0021-4d9991cdca39/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/da/f2/c3/daf2c3b4-bc1b-dccb-10b0-756316097494/mzaf_1198544909355803892.plus.aac.p.m4a"
+            },
+            {
+                "name": "滿地紅",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/4d/35/20/4d3520d8-9121-bfa0-0021-4d9991cdca39/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/a7/58/9e/a7589eff-67d0-8a3a-ec4e-cce4f74ed3a9/mzaf_6909796722214847195.plus.aac.p.m4a"
+            },
+            {
+                "name": "東亞大笨蛋",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/4d/35/20/4d3520d8-9121-bfa0-0021-4d9991cdca39/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d6/da/c3/d6dac3a9-cda2-0f76-bea3-9c64400d5b9d/mzaf_6694526712780776694.plus.aac.p.m4a"
+            }
+        ],
         "pid": 115
     },
     {
@@ -220,7 +465,28 @@
         "duration": 40,
         "start": "14:40",
         "end": "15:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "七十億分之一加一",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/fc/7f/f4/fc7ff436-5d4c-5d64-ad3c-5aa4fa15af9f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/1f/b8/c9/1fb8c9dd-04c3-cf03-5e95-14e2577eeaf5/mzaf_7101617891080835607.plus.aac.p.m4a"
+            },
+            {
+                "name": "你是不是有點動心 (Original)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/12/72/e3/1272e304-8b76-f7cb-cb4e-a124586563e2/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/4c/00/cf/4c00cfa3-476c-5091-8910-f559a33e733e/mzaf_16579176053047658046.plus.aac.p.m4a"
+            },
+            {
+                "name": "撥接",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/09/c6/77/09c677c2-d1f3-9469-ecb3-985adf7fc6e5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/15/7f/5f/157f5f11-f239-bc12-f981-27f78e835eca/mzaf_7266811569415319748.plus.aac.p.m4a"
+            },
+            {
+                "name": "七十億分之一",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/a8/06/a9/a806a9d0-f0df-ffbb-6801-77fa5c3e6092/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a3/dc/30/a3dc3000-9458-82c5-c794-972226ced8a6/mzaf_14102268187639993271.plus.aac.p.m4a"
+            }
+        ],
         "pid": 85
     },
     {
@@ -262,7 +528,38 @@
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Maybe It's the Way It Will Be",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/0b/bc/c8/0bbcc8a6-3d40-91a0-2bfd-55f567d59c91/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/c6/bd/d6/c6bdd6f6-d33d-3750-90da-6c5a82351d39/mzaf_6761964349682256936.plus.aac.p.m4a"
+            },
+            {
+                "name": "人間惆悵客",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/0b/bc/c8/0bbcc8a6-3d40-91a0-2bfd-55f567d59c91/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/9d/a6/a9/9da6a9f0-1f4a-d6e8-5c10-79323eb7e67b/mzaf_8907709612950435807.plus.aac.p.m4a"
+            },
+            {
+                "name": "Hold Me Tight",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/0b/bc/c8/0bbcc8a6-3d40-91a0-2bfd-55f567d59c91/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/f5/2f/fa/f52ffad2-5120-674f-9c89-04552610e212/mzaf_5329446013470261932.plus.aac.p.m4a"
+            },
+            {
+                "name": "29",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/0b/bc/c8/0bbcc8a6-3d40-91a0-2bfd-55f567d59c91/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/6f/9e/d6/6f9ed6e6-2b11-10c7-ed1c-b00bf9b014c8/mzaf_2129126261785752904.plus.aac.p.m4a"
+            },
+            {
+                "name": "Summertime",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/0b/bc/c8/0bbcc8a6-3d40-91a0-2bfd-55f567d59c91/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/aa/ca/6a/aaca6aa0-0faa-a56a-ec9a-1ae066db3a54/mzaf_3252363245043121205.plus.aac.p.m4a"
+            },
+            {
+                "name": "Killer. B",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/0b/bc/c8/0bbcc8a6-3d40-91a0-2bfd-55f567d59c91/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/04/f6/af/04f6af8b-c354-09ca-f26e-ac475a20a55e/mzaf_7854621418206564346.plus.aac.p.m4a"
+            }
+        ],
         "pid": 105
     },
     {
@@ -304,7 +601,73 @@
         "duration": 40,
         "start": "15:40",
         "end": "16:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "山洞",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b2/84/78/b28478ca-1050-207b-1609-9de3bd5716e9/mzaf_15512400199046870848.plus.aac.p.m4a"
+            },
+            {
+                "name": "貓",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/b2/2b/47/b22b47b6-3170-000b-9fcf-31af8d832f0e/mzaf_6879837128790722336.plus.aac.p.m4a"
+            },
+            {
+                "name": "在船底搔癢",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/cb/8a/40/cb8a4040-2336-86a2-19cd-824ea491819f/mzaf_15471373867982548999.plus.aac.p.m4a"
+            },
+            {
+                "name": "塔悠",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/0b/fa/e2/0bfae202-1ae2-7ee7-9a7f-69b5e5e437f4/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/4e/0b/33/4e0b33e6-0e47-b6e6-fcd4-e6a27bfdaa72/mzaf_16872304319394714443.plus.aac.p.m4a"
+            },
+            {
+                "name": "愛與膠囊",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/0b/fa/e2/0bfae202-1ae2-7ee7-9a7f-69b5e5e437f4/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/f0/44/04/f04404a8-fe3e-5427-0fa1-24c02a632409/mzaf_16201676184946791335.plus.aac.p.m4a"
+            },
+            {
+                "name": "愛與膠囊",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/60/35/7e/60357e71-c501-ced8-7986-40c717719b8e/mzaf_5820305955732862606.plus.aac.p.m4a"
+            },
+            {
+                "name": "塔悠",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/ef/f3/7c/eff37cf8-47bf-e0cd-08c6-4a29722156e3/mzaf_4085653529438341762.plus.aac.p.m4a"
+            },
+            {
+                "name": "漁夫",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/8b/8f/66/8b8f66bd-2194-3868-b76d-944a8c21e29d/mzaf_9169716735455336067.plus.aac.p.m4a"
+            },
+            {
+                "name": "青元春朗",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/c3/b1/fc/c3b1fc07-5a59-ff40-5ea5-2c1da0badda9/mzaf_16347633517724214989.plus.aac.p.m4a"
+            },
+            {
+                "name": "豆皮少年",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/48/e1/eb/48e1ebab-c685-01d8-77fe-892b1388a1c6/mzaf_9458626199142821960.plus.aac.p.m4a"
+            },
+            {
+                "name": "客雅大道",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/52/3f/c0/523fc0bf-44ff-88b3-32e3-a1e7dbcb1ec0/mzaf_7857999280210083643.plus.aac.p.m4a"
+            },
+            {
+                "name": "每朝換季練習",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/f4/cf/fa/f4cffae2-451c-1237-2826-f934ba8951ad/mzaf_16471163614156530873.plus.aac.p.m4a"
+            },
+            {
+                "name": "豆皮少年 Pt.2",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/85/94/09/859409d0-4ecb-4038-3881-0913a44b8a2a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/dc/c9/d4/dcc9d444-0481-028f-5585-e512ecaf946b/mzaf_7057571119189887732.plus.aac.p.m4a"
+            }
+        ],
         "pid": 116
     },
     {
@@ -332,7 +695,28 @@
         "duration": 40,
         "start": "16:00",
         "end": "16:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "很想很想你",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/1a/92/98/1a92985a-567b-c245-d2c9-999516bc1adb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b2/1c/82/b21c82ae-fb72-15bf-71b5-46f222586e3f/mzaf_2232731698501045782.plus.aac.p.m4a"
+            },
+            {
+                "name": "走",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/1a/92/98/1a92985a-567b-c245-d2c9-999516bc1adb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3c/de/30/3cde30cd-a588-b275-dde7-8204ba40625f/mzaf_6481468812042235482.plus.aac.p.m4a"
+            },
+            {
+                "name": "你的行李",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/1a/92/98/1a92985a-567b-c245-d2c9-999516bc1adb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/09/80/10/098010ee-6c4e-362b-bda7-99be0c905d05/mzaf_17139761896652647044.plus.aac.p.m4a"
+            },
+            {
+                "name": "燈光",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/1a/92/98/1a92985a-567b-c245-d2c9-999516bc1adb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e0/7c/e2/e07ce282-a815-028f-c319-7d0c893c5cc3/mzaf_1777492822407739333.plus.aac.p.m4a"
+            }
+        ],
         "pid": 86
     },
     {
@@ -374,7 +758,58 @@
         "duration": 40,
         "start": "16:20",
         "end": "17:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Tearing the Heart with Dancing Fingers",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/40/58/82/405882e2-5e87-faa1-98b8-618ab9ea157c/mzaf_11837757208285194009.plus.aac.p.m4a"
+            },
+            {
+                "name": "Chased in Desire with Bloody Smiles",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/6e/d1/c2/6ed1c282-afd4-062b-354f-554dba9a1078/mzaf_3294919024596154760.plus.aac.p.m4a"
+            },
+            {
+                "name": "With My Confession, Holding the Pieces of Crimsoned Mind",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/ab/41/4c/ab414c39-6dc4-7b8c-573d-28d8b005309a/mzaf_4908733621872291310.plus.aac.p.m4a"
+            },
+            {
+                "name": "Placing Myself in Your Sweet Dream",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/47/de/56/47de56e6-4eb6-7469-4476-b324e0d2ecb9/mzaf_7173716288607201493.plus.aac.p.m4a"
+            },
+            {
+                "name": "Buried Sorrow and Noisy Pavement",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/00/5e/39/005e39fb-ac66-84c0-ebef-53902a535dc9/mzaf_15474964347688235373.plus.aac.p.m4a"
+            },
+            {
+                "name": "Dragged Deeper with Every Gasping Breath",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e2/85/28/e28528fe-5c18-5cc5-096b-ce9c6e90115c/mzaf_15605183994611094212.plus.aac.p.m4a"
+            },
+            {
+                "name": "Smashing the Wall of an Endless Maze",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/ee/bd/c6/eebdc63d-d194-339e-57da-dacfd74a0ee0/mzaf_13117014585538073719.plus.aac.p.m4a"
+            },
+            {
+                "name": "Dark Night and Twisted Mind",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/22/97/f7229758-e91b-ced8-fddd-33460313b70d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/85/5b/ea/855beaad-8cee-0f54-9eb4-e483ca26362a/mzaf_17430885569295860603.plus.aac.p.m4a"
+            },
+            {
+                "name": "Revenge Is a Dish Best Served Cold",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/42/5a/74/425a74b3-358a-92f1-941b-4897532b8e98/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/bb/bc/db/bbbcdb6b-aac8-f33c-1598-9b8dc0c24295/mzaf_6674219892714043838.plus.aac.p.m4a"
+            },
+            {
+                "name": "Little People in the Woods",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/42/5a/74/425a74b3-358a-92f1-941b-4897532b8e98/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/ff/d8/ab/ffd8ab61-d5b8-5962-491b-6bfdb39ae6f3/mzaf_5776925912825732715.plus.aac.p.m4a"
+            }
+        ],
         "pid": 106
     },
     {
@@ -402,7 +837,23 @@
         "duration": 40,
         "start": "16:40",
         "end": "17:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "可不可以问你一个问题",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/57/96/ed/5796ed4b-8c30-6a3b-28ef-137c4d55e79d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/9e/bc/28/9ebc2886-f880-f749-ae8f-20ebbaa88105/mzaf_4688874668242666098.plus.aac.p.m4a"
+            },
+            {
+                "name": "Tiger Rag",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/57/96/ed/5796ed4b-8c30-6a3b-28ef-137c4d55e79d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/1b/92/8e/1b928e6a-89f2-aa05-2358-188bd86d0e53/mzaf_14380502763034419081.plus.aac.p.m4a"
+            },
+            {
+                "name": "Prelude (It's a Tiger!)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/57/96/ed/5796ed4b-8c30-6a3b-28ef-137c4d55e79d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/c8/d2/be/c8d2be54-a718-eb6f-fbe0-4d5b2f8af394/mzaf_13309253654713577290.plus.aac.p.m4a"
+            }
+        ],
         "pid": 112
     },
     {
@@ -416,7 +867,28 @@
         "duration": 40,
         "start": "17:00",
         "end": "17:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Returning to Shadow",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/c9/4e/7e/c94e7e34-717d-ae35-09c8-1631ef48ca78/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/42/76/d9/4276d9f8-cfdc-9a5e-3546-09d1a9fda378/mzaf_1589933190627604411.plus.aac.p.m4a"
+            },
+            {
+                "name": "Deep Inside of Me",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/c9/4e/7e/c94e7e34-717d-ae35-09c8-1631ef48ca78/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/ad/7d/c8/ad7dc8fe-900e-0dca-bb64-e38b7d128e0b/mzaf_7670580651459080775.plus.aac.p.m4a"
+            },
+            {
+                "name": "Slave",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/c9/4e/7e/c94e7e34-717d-ae35-09c8-1631ef48ca78/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/64/7d/b3/647db373-d026-dcd2-d20b-9c1f3fd73986/mzaf_1787944997636881353.plus.aac.p.m4a"
+            },
+            {
+                "name": "The Girl Behind",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/c9/4e/7e/c94e7e34-717d-ae35-09c8-1631ef48ca78/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/d7/e2/3d/d7e23d25-0485-2420-d695-7785d3a0c64d/mzaf_7210481340080640368.plus.aac.p.m4a"
+            }
+        ],
         "pid": 101
     },
     {
@@ -430,7 +902,23 @@
         "duration": 40,
         "start": "17:00",
         "end": "17:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "安平之光",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/92/44/90/924490fd-210c-5f27-05da-be1837ed6d40/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/9f/1d/f5/9f1df5dc-1a4d-0f62-07eb-733ab3b4208f/mzaf_10240184153833959970.plus.aac.p.m4a"
+            },
+            {
+                "name": "Marry Lonely Disco Night",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/92/44/90/924490fd-210c-5f27-05da-be1837ed6d40/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/43/b8/73/43b873d5-d7f6-e264-2537-e5a1ba4a698e/mzaf_17188503738284482965.plus.aac.p.m4a"
+            },
+            {
+                "name": "當ㄋ沉睡ㄉ時候告訴婐ㄋ夢到ㄌ婐",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/92/44/90/924490fd-210c-5f27-05da-be1837ed6d40/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/77/4d/49/774d4924-71fc-409f-6627-b674296d4b2e/mzaf_8331010847810382092.plus.aac.p.m4a"
+            }
+        ],
         "pid": 117
     },
     {
@@ -486,7 +974,33 @@
         "duration": 40,
         "start": "17:40",
         "end": "18:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "患",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/26/a9/08/26a908ae-75ef-d6d0-d961-3d52c12c4017/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/29/09/0c/29090c43-2a10-dc40-6403-0c83522097bb/mzaf_9104104425225835335.plus.aac.p.m4a"
+            },
+            {
+                "name": "You",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/8d/8d/59/8d8d59ed-e930-b672-b477-9fb762a16b6c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/16/83/ef/1683ef5f-5714-28f1-1fca-078efd8442ff/mzaf_7148080715104808041.plus.aac.p.m4a"
+            },
+            {
+                "name": "Intro",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/8d/8d/59/8d8d59ed-e930-b672-b477-9fb762a16b6c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/84/34/ed/8434ed4b-3fc5-bee0-acbb-ac77c88dc5d1/mzaf_8158376599159767928.plus.aac.p.m4a"
+            },
+            {
+                "name": "口",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/8d/8d/59/8d8d59ed-e930-b672-b477-9fb762a16b6c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/d5/bc/84/d5bc84cd-ec8e-bc44-9588-592229b707a9/mzaf_8118267069566760429.plus.aac.p.m4a"
+            },
+            {
+                "name": "Keep It Silent",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/8d/8d/59/8d8d59ed-e930-b672-b477-9fb762a16b6c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/09/61/74/09617484-3870-9ef3-8a9d-3f8e8044c79e/mzaf_2366600431261367291.plus.aac.p.m4a"
+            }
+        ],
         "pid": 107
     },
     {
@@ -500,7 +1014,28 @@
         "duration": 40,
         "start": "17:40",
         "end": "18:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "浪流連",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/07/85/71/07857134-4805-3409-2f78-f35f6c7d2bbe/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/13/ab/e9/13abe908-6eac-6e97-c736-6f860300b7db/mzaf_10778005737700655220.plus.aac.p.m4a"
+            },
+            {
+                "name": "浪子回頭",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/82/af/e0/82afe06d-fb89-9053-52ef-53584db8f60f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/87/9e/72/879e726a-7e0d-e64b-cfc6-1a82af6879d2/mzaf_7631377148294910940.plus.aac.p.m4a"
+            },
+            {
+                "name": "這款自作多情",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/26/31/26/263126c8-9826-94fe-5083-180983c6c7f7/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/61/b2/98/61b298e9-3ceb-197f-cd85-0cde3a7fc5a0/mzaf_14062921215313514736.plus.aac.p.m4a"
+            },
+            {
+                "name": "Happy!!! 運將情歌",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/9f/c6/32/9fc6325b-7188-7564-148c-32bf4341b2ae/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/24/d3/64/24d364a6-0cc1-4b8a-b8b3-8d8545559a15/mzaf_6721312259522976458.plus.aac.p.m4a"
+            }
+        ],
         "pid": 94
     },
     {
@@ -644,7 +1179,38 @@
         "duration": 40,
         "start": "18:20",
         "end": "19:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Beauty in Your Eyes",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/62/21/42/6221426c-2dd6-7205-3ebe-5b16154d24f1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/d9/e8/33/d9e8339e-947e-2858-4bae-71e40a42ddc2/mzaf_2606200851330656278.plus.aac.p.m4a"
+            },
+            {
+                "name": "Till the Day",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/15/9a/52/159a5265-805a-7f45-f8fc-e62756db3637/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/b3/0f/6b/b30f6b2c-1e84-bd03-1cc6-22cf275ee33d/mzaf_1595015005784818955.plus.aac.p.m4a"
+            },
+            {
+                "name": "七零世代",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/62/21/42/6221426c-2dd6-7205-3ebe-5b16154d24f1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/ca/ef/9b/caef9b21-2669-4211-ee14-1193ed7f3bbc/mzaf_111565832874741086.plus.aac.p.m4a"
+            },
+            {
+                "name": "夢失落",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/62/21/42/6221426c-2dd6-7205-3ebe-5b16154d24f1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/29/59/53/29595393-8680-5528-45cb-5b9af77a550b/mzaf_4772567296267208169.plus.aac.p.m4a"
+            },
+            {
+                "name": "告別",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/15/9a/52/159a5265-805a-7f45-f8fc-e62756db3637/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/77/a2/4d/77a24d87-f622-e7ab-86e6-e1dba3ff03f5/mzaf_2750377976215007981.plus.aac.p.m4a"
+            },
+            {
+                "name": "獵戶座",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/15/9a/52/159a5265-805a-7f45-f8fc-e62756db3637/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/d1/92/92/d192920f-8976-45c9-29a6-45347f2dfb46/mzaf_139517416497408950.plus.aac.p.m4a"
+            }
+        ],
         "pid": 118
     },
     {
@@ -686,7 +1252,33 @@
         "duration": 40,
         "start": "19:00",
         "end": "19:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "擺渡人",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/d5/53/87/d553875a-5635-6c64-a401-2303c7098a7c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/57/5b/b1/575bb1c4-2fa9-494e-fc3b-f70f5cace038/mzaf_11888036695758553667.plus.aac.p.m4a"
+            },
+            {
+                "name": "曾經擁有",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/b6/9b/ca/b69bca2f-7f5f-1a73-90fe-6630bc03329b/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/33/58/51/33585177-e5d8-5c4c-cb1e-acde14d89dff/mzaf_906195370892329430.plus.aac.p.m4a"
+            },
+            {
+                "name": "一個半",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/b6/9b/ca/b69bca2f-7f5f-1a73-90fe-6630bc03329b/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/cf/b5/b4/cfb5b439-37b4-ac03-9ba1-5f31dee55172/mzaf_8730887017898335060.plus.aac.p.m4a"
+            },
+            {
+                "name": "蕾夢",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/b6/9b/ca/b69bca2f-7f5f-1a73-90fe-6630bc03329b/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/1c/1f/93/1c1f933d-6d38-7268-1935-a770e2795d87/mzaf_8845322178556653908.plus.aac.p.m4a"
+            },
+            {
+                "name": "作夢",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/b6/9b/ca/b69bca2f-7f5f-1a73-90fe-6630bc03329b/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/6d/bd/9d/6dbd9dff-7ab3-e4ca-b7ee-ee70d7b0c5e0/mzaf_8437482993353678879.plus.aac.p.m4a"
+            }
+        ],
         "pid": 108
     },
     {
@@ -728,7 +1320,28 @@
         "duration": 40,
         "start": "19:40",
         "end": "20:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "我會不會又睡到下午了",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/3f/f1/5c/3ff15c09-2a85-2e1e-e367-3c5331f8ebe9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/60/7e/f4/607ef406-feb8-1edb-e52e-6c1949ede6cb/mzaf_11566660867088076234.plus.aac.p.m4a"
+            },
+            {
+                "name": "三月的街頭",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/7d/27/13/7d271365-4996-9f55-eaeb-b893e402832a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/97/c7/4e/97c74e57-eb28-1ac2-de80-fc3180ee70f4/mzaf_6219349999350582826.plus.aac.p.m4a"
+            },
+            {
+                "name": "Folk Song for You",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/7d/27/13/7d271365-4996-9f55-eaeb-b893e402832a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/9f/65/cf/9f65cf41-845a-2f68-2140-04b6dd490271/mzaf_8154371687805883132.plus.aac.p.m4a"
+            },
+            {
+                "name": "冬天再去見你",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/5d/2e/89/5d2e8979-63c4-a276-0d84-470c04f4b44a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/b7/5e/36b75eec-5323-6377-8478-c9e3249d92dc/mzaf_1386316213281657044.plus.aac.p.m4a"
+            }
+        ],
         "pid": 103
     },
     {
@@ -742,7 +1355,33 @@
         "duration": 40,
         "start": "20:00",
         "end": "20:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "光輝歲月",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/92/80/ae/9280ae8c-c420-f24d-c94a-9c8d2c18da1b/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/49/f7/7e/49f77e0e-70a8-8d43-b150-97eaeaad6cd6/mzaf_695425212776208547.plus.aac.p.m4a"
+            },
+            {
+                "name": "永遠活在青春期",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/1d/63/a3/1d63a37c-ed30-f360-eb16-66119a9ddeb2/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/74/10/ee/mzi.gfdvoisj.aac.p.m4a"
+            },
+            {
+                "name": "這是愛(電影\"胡越的故事\"歌曲)",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/50/48/52/50485268-bd8a-f8ce-7d4e-56de0f9e8439/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/38/b6/4f/38b64fe8-9a1e-3bfa-b811-57b1542b339a/mzaf_6499938968831699321.plus.aac.p.m4a"
+            },
+            {
+                "name": "點指兵兵",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8a/18/34/8a183492-7159-3e7a-d8dd-6d9ce4ac710d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/7b/99/07/7b9907d4-fcb4-56c6-a745-96d0f10fcb19/mzaf_4062667453239884222.plus.aac.p.m4a"
+            },
+            {
+                "name": "今天的天氣好嗎",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/1d/63/a3/1d63a37c-ed30-f360-eb16-66119a9ddeb2/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/0f/ab/fc/mzi.vgwprrsd.aac.p.m4a"
+            }
+        ],
         "pid": 89
     },
     {
@@ -756,7 +1395,33 @@
         "duration": 60,
         "start": "20:40",
         "end": "21:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "暮沉武德殿",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/59/84/fd/5984fd74-a0f9-c264-80fb-0b6f79a21763/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/40/40/16/40401677-f0df-8b4a-8224-609e97ba87a4/mzaf_4334072397522153983.plus.aac.p.m4a"
+            },
+            {
+                "name": "皇軍",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/59/84/fd/5984fd74-a0f9-c264-80fb-0b6f79a21763/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/86/6d/ab/866dab04-4c64-42db-f74f-2fa7f7ba4f5e/mzaf_4533335649571165999.plus.aac.p.m4a"
+            },
+            {
+                "name": "皇軍",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/a7/71/05/a7710572-91b3-211f-3afc-af0378523cf1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f0/22/5a/f0225a8f-850f-f5c5-e42d-86bc8e41676f/mzaf_464053171345258699.plus.aac.p.m4a"
+            },
+            {
+                "name": "烏牛欄大護法 (望天版) [feat. 何韻詩]",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/7c/6f/a7/7c6fa712-8854-014c-9210-912576597e6e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b1/99/af/b199afec-b9a3-bc9f-2012-8463d31788b9/mzaf_16358073348057590942.plus.aac.p.m4a"
+            },
+            {
+                "name": "烏牛欄大護法",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/34/94/1e/34941e8b-cfae-e97d-e15b-49d1633e9d8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/80/ad/3b/80ad3b89-19b5-6d25-33c7-ef3fbe1256d9/mzaf_2796337945806261430.plus.aac.p.m4a"
+            }
+        ],
         "pid": 96
     },
     {
@@ -770,7 +1435,28 @@
         "duration": 40,
         "start": "21:00",
         "end": "21:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "我還年輕 我還年輕",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/65/8b/ef/658befcc-85da-fd6d-6993-d67f0f74ad9d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e8/4d/78/e84d7870-0c8f-4a4b-86d1-b96dfbb1a4df/mzaf_6745120757229309027.plus.aac.p.m4a"
+            },
+            {
+                "name": "穩定生活多美好 三年五年高普考",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/65/8b/ef/658befcc-85da-fd6d-6993-d67f0f74ad9d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/26/82/7e/26827ef3-5c3b-3dbe-2085-40ba227f7859/mzaf_4500179638726923631.plus.aac.p.m4a"
+            },
+            {
+                "name": "那些失眠的夜與難以忘懷的事",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/d3/84/f7/d384f76e-b65a-6386-67f9-eaad33b11465/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/26/95/e8/2695e8d2-1421-711a-0b7e-3377e1164877/mzaf_7592186892497222802.plus.aac.p.m4a"
+            },
+            {
+                "name": "安九",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/eb/66/50/eb6650ba-2036-86af-2d75-2f7f822ea8b3/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/da/39/3c/da393cd3-2a41-f560-b9da-3fb7a1ff0c48/mzaf_10368823034772438839.plus.aac.p.m4a"
+            }
+        ],
         "pid": 104
     },
     {
@@ -812,7 +1498,23 @@
         "duration": 40,
         "start": "11:40",
         "end": "12:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "明潭終戰",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d0/70/90/d0709027-7386-3969-d7bd-86f226d85593/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/85/60/89/85608914-582c-fc4f-62e6-64962347db62/mzaf_129896560202007130.plus.aac.p.m4a"
+            },
+            {
+                "name": "落雨賦",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d0/70/90/d0709027-7386-3969-d7bd-86f226d85593/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/46/c3/11/46c31178-fc29-7ee2-50c3-06e3a6b6113a/mzaf_1835532807664769418.plus.aac.p.m4a"
+            },
+            {
+                "name": "反芻",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/22/7d/54/227d54a4-a5cf-b096-de3b-85f87aa409a9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/38/83/60/38836036-a153-4985-5a47-0bc65f5a6ed7/mzaf_4784524145790613193.plus.aac.p.m4a"
+            }
+        ],
         "pid": 65
     },
     {
@@ -826,7 +1528,28 @@
         "duration": 40,
         "start": "12:00",
         "end": "12:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "水銀少年",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0f/45/32/0f453246-d66b-f4e4-f693-eef7e972898c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/77/86/7b/77867b3b-1541-e448-7797-89154e5c9cf5/mzaf_8165255175467917679.plus.aac.p.m4a"
+            },
+            {
+                "name": "宇宙美景",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0f/45/32/0f453246-d66b-f4e4-f693-eef7e972898c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/eb/a3/c8/eba3c80f-8989-0434-553f-e40b75cf76c0/mzaf_7794101228458747272.plus.aac.p.m4a"
+            },
+            {
+                "name": "耳朵宇宙先鋒隊",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0f/45/32/0f453246-d66b-f4e4-f693-eef7e972898c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/84/df/10/84df1013-a670-8cd4-c61e-af5e913069ce/mzaf_1545073030465267525.plus.aac.p.m4a"
+            },
+            {
+                "name": "塑膠Boy",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0f/45/32/0f453246-d66b-f4e4-f693-eef7e972898c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/29/30/39/293039d4-992b-e92d-8225-c2495544edad/mzaf_4587451904482977858.plus.aac.p.m4a"
+            }
+        ],
         "pid": 36
     },
     {
@@ -847,14 +1570,14 @@
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music49/v4/55/b5/4b/55b54be3-8163-4382-f6bb-7f1cd432f21f/mzaf_5612743626404128178.plus.aac.p.m4a"
             },
             {
-                "name": "街仔路雨落袂停 (feat. 陳嫺靜)",
-                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/94/82/0d/94820dd9-5702-37b6-7418-328ec4d0d09a/source/100x100bb.jpg",
-                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/8c/45/ec/8c45ec25-cee7-08e5-5dac-24edd241f9f9/mzaf_7799650255830212991.plus.aac.p.m4a"
-            },
-            {
                 "name": "人生很難",
                 "img": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/85/b6/5f/85b65f94-2fdd-948c-415d-fa6a8e632047/source/100x100bb.jpg",
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/e4/8e/1ee48e65-7bdb-8d58-1914-8a7c5608bfd9/mzaf_6139805462913279652.plus.aac.p.m4a"
+            },
+            {
+                "name": "街仔路雨落袂停 (feat. 陳嫺靜)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/94/82/0d/94820dd9-5702-37b6-7418-328ec4d0d09a/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/8c/45/ec/8c45ec25-cee7-08e5-5dac-24edd241f9f9/mzaf_7799650255830212991.plus.aac.p.m4a"
             },
             {
                 "name": "玉仔的心",
@@ -902,14 +1625,14 @@
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/42/7d/55/427d55df-7953-7691-06c0-337079162a77/mzaf_795614385331157968.plus.aac.p.m4a"
             },
             {
-                "name": "就算我放棄了世界",
-                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
-                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/41/57/73/415773d9-8d7f-f1ef-9192-388e339c0ee7/mzaf_15411450540914358642.plus.aac.p.m4a"
-            },
-            {
                 "name": "Our Pop Song (feat. 盧凱彤)",
                 "img": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/09/46/46/094646f7-c74a-0c40-e8f8-b576b59b6353/source/100x100bb.jpg",
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/d1/b8/07/d1b8073d-b860-a219-f6a2-43fff4eeafc1/mzaf_1114033095224704868.plus.aac.p.m4a"
+            },
+            {
+                "name": "就算我放棄了世界",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/41/57/73/415773d9-8d7f-f1ef-9192-388e339c0ee7/mzaf_15411450540914358642.plus.aac.p.m4a"
             },
             {
                 "name": "去海邊",
@@ -917,19 +1640,14 @@
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/58/04/b7/5804b723-9bb1-aabc-cce2-3ad0041f51e0/mzaf_5298511043982574866.plus.aac.p.m4a"
             },
             {
-                "name": "591",
-                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
-                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/28/60/48/286048ef-6125-e212-9ecc-fed2942b7729/mzaf_2629685356549802654.plus.aac.p.m4a"
-            },
-            {
                 "name": "雲端漫舞",
                 "img": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/09/46/46/094646f7-c74a-0c40-e8f8-b576b59b6353/source/100x100bb.jpg",
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/77/b2/11/77b2116b-8eea-0405-b95d-4974642ff79e/mzaf_260548729566036939.plus.aac.p.m4a"
             },
             {
-                "name": "街仔路雨落袂停 (feat. 陳嫺靜)",
+                "name": "591",
                 "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
-                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d6/8a/a3/d68aa3b1-93a8-efd9-5156-aea23eb321e6/mzaf_9986063414746655992.plus.aac.p.m4a"
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/28/60/48/286048ef-6125-e212-9ecc-fed2942b7729/mzaf_2629685356549802654.plus.aac.p.m4a"
             },
             {
                 "name": "太空垃圾之死",
@@ -947,14 +1665,14 @@
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/12/8b/5d/128b5de5-e898-cf21-7ecf-4d052b26322a/mzaf_8415663089080661418.plus.aac.p.m4a"
             },
             {
+                "name": "街仔路雨落袂停 (feat. 陳嫺靜)",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d6/8a/a3/d68aa3b1-93a8-efd9-5156-aea23eb321e6/mzaf_9986063414746655992.plus.aac.p.m4a"
+            },
+            {
                 "name": "輕輕觸碰",
                 "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/dd/af/e1/ddafe1c2-41dd-9d75-78f2-d3d2ace51f9d/mzaf_9294950929831587059.plus.aac.p.m4a"
-            },
-            {
-                "name": "玉仔的心",
-                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
-                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/d1/cf/db/d1cfdbc4-0870-13f5-873e-553f666cc2a6/mzaf_3590375020108693836.plus.aac.p.m4a"
             },
             {
                 "name": "Beautiful Song",
@@ -975,6 +1693,11 @@
                 "name": "Sayonara",
                 "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/85/67/40/85674088-7725-afee-d659-3092634737a8/source/100x100bb.jpg",
                 "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/95/50/8b/95508bff-3aeb-2cff-a15a-eaefe71e1107/mzaf_6608907575904684937.plus.aac.p.m4a"
+            },
+            {
+                "name": "玉仔的心",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/02/d9/0002d9a7-18bc-86ff-a4a6-929552f426e1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/d1/cf/db/d1cfdbc4-0870-13f5-873e-553f666cc2a6/mzaf_3590375020108693836.plus.aac.p.m4a"
             },
             {
                 "name": "千千萬萬",
@@ -1082,7 +1805,33 @@
         "duration": 40,
         "start": "13:00",
         "end": "13:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "月娘",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/38/48/9d/38489d7f-b417-6698-5549-3306ffdb8867/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/37/18/43/37184386-fa58-f076-cd6e-0628cafb41b9/mzaf_5217995299196568691.plus.aac.p.m4a"
+            },
+            {
+                "name": "異鄉男兒",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/c9/2e/7f/c92e7f10-155a-8567-6aed-46dfca05f6c9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/de/c7/c9/dec7c93f-49c8-c219-fa36-69d89b387813/mzaf_7025085134117940374.plus.aac.p.m4a"
+            },
+            {
+                "name": "來奇與柯比",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/c9/2e/7f/c92e7f10-155a-8567-6aed-46dfca05f6c9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/14/6f/c6/146fc6da-389f-7d41-dcb4-e949a460acbf/mzaf_1567438356859420917.plus.aac.p.m4a"
+            },
+            {
+                "name": "樹仔下",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/c9/2e/7f/c92e7f10-155a-8567-6aed-46dfca05f6c9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/6a/01/a0/6a01a096-e6cd-9caa-fc7d-66a8c09531c4/mzaf_5702965725281856962.plus.aac.p.m4a"
+            },
+            {
+                "name": "半眠",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/38/48/9d/38489d7f-b417-6698-5549-3306ffdb8867/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/13/34/af/1334aff2-5183-909f-8498-eed25b54791d/mzaf_784930086887599447.plus.aac.p.m4a"
+            }
+        ],
         "pid": 38
     },
     {
@@ -1096,7 +1845,43 @@
         "duration": 60,
         "start": "13:20",
         "end": "14:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "工商服務 (東榮牌大聲喉全頻道行動電話 / 愛兮教育禮盒)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/ef/0d/cd/ef0dcd0a-13e2-40bd-0b2f-60cf77154119/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/a0/0b/87/a00b8720-d493-8bdb-da9b-98c7cbca2110/mzaf_7603097933094317000.plus.aac.p.m4a"
+            },
+            {
+                "name": "英語天地",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/8a/9a/c8/8a9ac8a7-3ea7-c044-944a-7091b1ba4492/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/02/cb/2c/02cb2c67-81ea-712b-d263-190b783aec72/mzaf_3346253905164877309.plus.aac.p.m4a"
+            },
+            {
+                "name": "工商服務: 青春還少丸 / 鏘也福氣項鍊 / 東榮牌出氣垃圾桶",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/8a/9a/c8/8a9ac8a7-3ea7-c044-944a-7091b1ba4492/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/a7/ac/8e/a7ac8ed0-b7d4-9db4-0e59-ffc43e1a084f/mzaf_7828374879149416723.plus.aac.p.m4a"
+            },
+            {
+                "name": "工商服務 (西方極樂世界蓮花座 / 東榮牌健康促進器 / 公益廣告)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/ef/0d/cd/ef0dcd0a-13e2-40bd-0b2f-60cf77154119/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/4b/17/86/4b17865b-bddb-bf0a-0fcd-2fea872da1fd/mzaf_8113059214553567281.plus.aac.p.m4a"
+            },
+            {
+                "name": "新聞插播 (選舉新聞特別報導.氣象報導)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/e9/5c/7d/e95c7da5-4fd8-bd0b-2eae-3cab1b3c199c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/44/e7/89/44e789d9-fb7c-fdc2-efd5-d11c94f2f144/mzaf_8380261961654677082.plus.aac.p.m4a"
+            },
+            {
+                "name": "新聞插播 (崗山仔 ,大港埔, 林竹竿消息.氣象報導)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/e9/5c/7d/e95c7da5-4fd8-bd0b-2eae-3cab1b3c199c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/da/db/eb/dadbeb7f-c5e6-7025-44cf-fd4bc93b207d/mzaf_6660852780080683706.plus.aac.p.m4a"
+            },
+            {
+                "name": "新聞插播 (高雄, 崗山仔, 橋頭消息)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music5/v4/e9/5c/7d/e95c7da5-4fd8-bd0b-2eae-3cab1b3c199c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/df/f7/42/dff7425d-f22a-cd93-8610-0e3d06a17e3b/mzaf_8384746242453888389.plus.aac.p.m4a"
+            }
+        ],
         "pid": 76
     },
     {
@@ -1124,7 +1909,28 @@
         "duration": 40,
         "start": "13:40",
         "end": "14:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "打開太陽",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/53/a4/db/53a4db8b-1b23-d5c0-82ce-f18e27ced846/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/fb/05/5f/fb055f60-ed67-c4a2-a093-be3e3a951419/mzaf_6797314136519913504.plus.aac.p.m4a"
+            },
+            {
+                "name": "關閉太陽",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/d3/84/c8/d384c86c-0492-b271-f795-3b367aab2a7f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/93/db/be93dbb7-35ee-5f61-1607-f8833af6b4a8/mzaf_2927932394650579824.plus.aac.p.m4a"
+            },
+            {
+                "name": "跳舞",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/53/a4/db/53a4db8b-1b23-d5c0-82ce-f18e27ced846/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/e4/c8/1d/e4c81dd1-deea-000f-b5e6-b6d418e8108e/mzaf_508303424476452593.plus.aac.p.m4a"
+            },
+            {
+                "name": "上山",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/02/a7/07/02a7075f-c050-e11c-4ef4-d2266ef44f73/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/82/7f/42/827f4214-ed05-a250-92c5-5d219dadb139/mzaf_7747462887153714194.plus.aac.p.m4a"
+            }
+        ],
         "pid": 56
     },
     {
@@ -1138,7 +1944,38 @@
         "duration": 40,
         "start": "14:00",
         "end": "14:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Puzzle",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/c6/f4/93/c6f49390-0cd2-0dd8-38c3-6750497b1eaf/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/53/b7/a1/53b7a103-984b-c5b9-3724-34a6a1fd1c20/mzaf_7933588232517298308.plus.aac.p.m4a"
+            },
+            {
+                "name": "はたらきもんスター",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/c6/f4/93/c6f49390-0cd2-0dd8-38c3-6750497b1eaf/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/77/e8/44/77e844cc-7105-7a24-7dff-a663ca013ebc/mzaf_1181309333174956419.plus.aac.p.m4a"
+            },
+            {
+                "name": "FEEL IT",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/c6/f4/93/c6f49390-0cd2-0dd8-38c3-6750497b1eaf/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/3a/c5/50/3ac550dc-521e-2abf-a63a-c8b23ee9f6a7/mzaf_6941902316658265689.plus.aac.p.m4a"
+            },
+            {
+                "name": "アイニデアッタ",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/c6/f4/93/c6f49390-0cd2-0dd8-38c3-6750497b1eaf/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/5e/e0/42/5ee0423b-1dc7-b337-b8c5-5c198a79e9c7/mzaf_5456847882407558746.plus.aac.p.m4a"
+            },
+            {
+                "name": "やさしすぎて",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/c6/f4/93/c6f49390-0cd2-0dd8-38c3-6750497b1eaf/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/fb/02/fa/fb02fadf-56b2-335f-037c-decb9e805d77/mzaf_190209162879110320.plus.aac.p.m4a"
+            },
+            {
+                "name": "Sky High",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/c6/f4/93/c6f49390-0cd2-0dd8-38c3-6750497b1eaf/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/28/49/20/284920d7-a871-0a19-3317-3b261252614e/mzaf_2906213916941432397.plus.aac.p.m4a"
+            }
+        ],
         "pid": 62
     },
     {
@@ -1166,7 +2003,38 @@
         "duration": 40,
         "start": "14:20",
         "end": "15:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Dreaming",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/48/77/d3/4877d363-8106-1853-f0de-5fe50bee95cd/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d6/90/b8/d690b857-0a40-5e2f-c7de-2b5757696b91/mzaf_1185580338952111470.plus.aac.p.m4a"
+            },
+            {
+                "name": "My Problem",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music111/v4/a4/d7/01/a4d701a9-7ef0-4e27-8284-a4b59ccba5d6/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/33/3a/be/333abeb5-40a4-631d-cf68-74800083a39f/mzaf_5838625771272868872.plus.aac.p.m4a"
+            },
+            {
+                "name": "To Be Wise",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music1/v4/bc/e4/99/bce4996f-685b-cabd-5178-f469ace8be8b/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/8e/1b/ba/8e1bba0e-3bdd-021f-6123-edfe6a3ffaaf/mzaf_2296550549746271638.plus.aac.p.m4a"
+            },
+            {
+                "name": "Christmas, It's Not a Biggie",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/64/1a/36/641a369f-7ebc-1dd1-0ecd-2e0ba84fc0b4/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/77/92/68/77926816-7a5e-cd24-69cf-543464376b40/mzaf_9124700482827137110.plus.aac.p.m4a"
+            },
+            {
+                "name": "Do You Wanna Dance",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/48/77/d3/4877d363-8106-1853-f0de-5fe50bee95cd/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/a7/0d/2e/a70d2e22-bdcc-7526-e035-a43500cb3974/mzaf_1751956219276718210.plus.aac.p.m4a"
+            },
+            {
+                "name": "Old Town",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/a3/0c/90/a30c9036-ca7c-657c-e7e7-4e991b164058/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/ad/7c/d0/ad7cd049-9cf4-9b13-b362-0769a8e60092/mzaf_1466992251775662247.plus.aac.p.m4a"
+            }
+        ],
         "pid": 39
     },
     {
@@ -1180,7 +2048,28 @@
         "duration": 40,
         "start": "14:40",
         "end": "15:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "開店歌",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/2c/05/b6/2c05b6e1-2816-6c09-4517-e6420591f94d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f3/7f/04/f37f042a-795c-0a5f-82db-e284fd939538/mzaf_816976834532120690.plus.aac.p.m4a"
+            },
+            {
+                "name": "山頭",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a0/26/07/a0260785-ebaa-94e2-8cfa-0e854db261a0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/cd/90/9f/cd909f28-4a30-0a04-6c27-493d851a2481/mzaf_12008829829155937676.plus.aac.p.m4a"
+            },
+            {
+                "name": "青春之歌",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a0/26/07/a0260785-ebaa-94e2-8cfa-0e854db261a0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/2d/de/0c/2dde0c9d-91ab-43bb-24f0-dee0f478d412/mzaf_936185915785431740.plus.aac.p.m4a"
+            },
+            {
+                "name": "夢遊少女",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a0/26/07/a0260785-ebaa-94e2-8cfa-0e854db261a0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/a4/cb/0e/a4cb0ebc-2d6a-f8fa-877c-0cc25ab4fdbb/mzaf_5327711833408762538.plus.aac.p.m4a"
+            }
+        ],
         "pid": 46
     },
     {
@@ -1194,7 +2083,53 @@
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "直到我遇見了你",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/20/c7/f4/20c7f499-d0be-4f31-0e18-cc8b0fd87140/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/3a/f8/fc/3af8fc6c-7bb5-778e-a919-7addb4087b9b/mzaf_5329811553182434997.plus.aac.p.m4a"
+            },
+            {
+                "name": "把音量轉小",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/71/6f/e9/716fe98d-64e1-b89a-bf69-fa8a10a013eb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/4e/42/57/4e425777-4b50-daae-6ba6-29019288cd52/mzaf_101922578337565223.plus.aac.p.m4a"
+            },
+            {
+                "name": "喜歡",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/71/6f/e9/716fe98d-64e1-b89a-bf69-fa8a10a013eb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/db/95/65/db956501-08a8-8c5c-e917-4e7084a02adc/mzaf_6050165726314209681.plus.aac.p.m4a"
+            },
+            {
+                "name": "難過到這邊就好",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/03/aa/a6/03aaa618-e315-1d64-4e22-1c85374c6bcb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/1b/6d/38/1b6d38a4-0d0c-fa33-1631-44ac3ed0b75c/mzaf_2171284197884814187.plus.aac.p.m4a"
+            },
+            {
+                "name": "吃什麼",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/71/6f/e9/716fe98d-64e1-b89a-bf69-fa8a10a013eb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/96/ac/43/96ac430d-3579-8c12-b3b3-2ea8ee1c843a/mzaf_165657641851998696.plus.aac.p.m4a"
+            },
+            {
+                "name": "難過到這邊就好",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/52/fc/07/52fc0791-a8f1-2d99-3bde-9f34f0ea5f42/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/2a/d4/c9/2ad4c93f-6f02-0b1c-35f0-b2ea49e9330b/mzaf_8632196751264947198.plus.aac.p.m4a"
+            },
+            {
+                "name": "誰",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/71/6f/e9/716fe98d-64e1-b89a-bf69-fa8a10a013eb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/43/0c/8a/430c8a8f-a638-6861-34ff-d296bea7361a/mzaf_193998436527134863.plus.aac.p.m4a"
+            },
+            {
+                "name": "出來玩(電視劇《20之後》插曲)",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/b6/93/c3/b693c3fe-eb58-fdbb-3bea-48fe95d36f34/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/bc/38/ce/bc38ce82-255e-acea-5e97-3fbcd928fb44/mzaf_1058076665884680692.plus.aac.p.m4a"
+            },
+            {
+                "name": "出來玩",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/03/aa/a6/03aaa618-e315-1d64-4e22-1c85374c6bcb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/15/e7/83/15e783ee-5f6a-e70b-9bbf-e7a914be95ce/mzaf_4318288963776193558.plus.aac.p.m4a"
+            }
+        ],
         "pid": 57
     },
     {
@@ -1208,7 +2143,28 @@
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "台十七",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/89/82/07/898207fe-73e2-c6da-1630-275020837e1c/mzaf_8881778584170460924.plus.aac.p.m4a"
+            },
+            {
+                "name": "深海的你",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/33/3a/99/333a99b0-74c1-8b41-d4f7-8b1ace44b9c1/mzaf_6973732167379616038.plus.aac.p.m4a"
+            },
+            {
+                "name": "無題",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/31/d6/f9/31d6f9f4-69b5-3eff-572d-619a6d832896/mzaf_9111282760105291764.plus.aac.p.m4a"
+            },
+            {
+                "name": "我們苦難的蘋果班",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/1a/78/3f/1a783fad-56cc-3aec-0acf-653e4f33f94c/mzaf_1292972251422104233.plus.aac.p.m4a"
+            }
+        ],
         "pid": 41
     },
     {
@@ -1236,7 +2192,48 @@
         "duration": 40,
         "start": "15:00",
         "end": "15:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "尋找山神",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/72/61/83/726183a8-4544-b68a-3541-86d434f42d19/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/7b/f6/db/7bf6db7c-6140-9d7e-0d61-d76849fb91fe/mzaf_1559871160029466168.plus.aac.p.m4a"
+            },
+            {
+                "name": "英魂厲鬼",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/72/61/83/726183a8-4544-b68a-3541-86d434f42d19/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/86/31/e1/8631e10e-9e04-ec6c-7315-ce61b8f812bf/mzaf_8861864579502710616.plus.aac.p.m4a"
+            },
+            {
+                "name": "加里山假期",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/72/61/83/726183a8-4544-b68a-3541-86d434f42d19/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/5c/2d/0d/5c2d0d58-03b5-d140-e442-514b3d10d451/mzaf_2045468654911602950.plus.aac.p.m4a"
+            },
+            {
+                "name": "北上巴士",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/72/61/83/726183a8-4544-b68a-3541-86d434f42d19/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/5e/b4/8a/5eb48aca-21dd-85e2-9a68-22b2b4dba0cd/mzaf_7288700458695492155.plus.aac.p.m4a"
+            },
+            {
+                "name": "月光純潔的晚上",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b4/63/33/b4633379-c54e-10ed-d31f-70ba614f8fd7/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a0/ae/6a/a0ae6a8a-3a34-2751-3828-e1c28e72ecae/mzaf_7439985204467884999.plus.aac.p.m4a"
+            },
+            {
+                "name": "人類空虛簡史",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b4/63/33/b4633379-c54e-10ed-d31f-70ba614f8fd7/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/af/0e/20/af0e20b8-3974-91ec-d1c6-d74ecd6957ac/mzaf_6305561101555225851.plus.aac.p.m4a"
+            },
+            {
+                "name": "那那",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/6e/93/ad/6e93adc6-64ca-2c3b-13e5-8fdcdccb9d55/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/26/3b/32/263b32da-81a5-2c25-4797-396af4df9817/mzaf_1977384839612008262.plus.aac.p.m4a"
+            },
+            {
+                "name": "自由的風",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/72/61/83/726183a8-4544-b68a-3541-86d434f42d19/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/37/43/fb/3743fbd0-806b-310a-aaa1-d40a0bd9164f/mzaf_2223955172820171969.plus.aac.p.m4a"
+            }
+        ],
         "pid": 77
     },
     {
@@ -1250,7 +2247,13 @@
         "duration": 60,
         "start": "15:00",
         "end": "16:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Imperial Proudness",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ad/bd/c2/adbdc22c-51ec-ce69-94e5-819109742812/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e5/14/5a/e5145a10-8dee-ac41-3024-32343d42d7e0/mzaf_1440051557674863373.plus.aac.p.m4a"
+            }
+        ],
         "pid": 73
     },
     {
@@ -1264,7 +2267,43 @@
         "duration": 40,
         "start": "15:20",
         "end": "16:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Sister Song",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/75/67/2b/75672bc4-c31c-7ef2-d74b-e94f4ad536e8/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/b6/86/70/b686700f-ff52-e350-1700-8d0c04c48ccf/mzaf_16852109964540635577.plus.aac.p.m4a"
+            },
+            {
+                "name": "Baby",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/b4/85/6f/b4856f46-39f2-16ed-a562-8beff5e6612d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/21/42/56214261-d74e-4e22-e705-a607307c01f8/mzaf_5391987654265628650.plus.aac.p.m4a"
+            },
+            {
+                "name": "Roseville Girls",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/01/cd/3b/01cd3b9d-c0c7-4712-1171-03ac3bdf413c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/05/22/b9/0522b9de-bcd4-d976-4e61-70ff21cb34fd/mzaf_1671929557740276083.plus.aac.p.m4a"
+            },
+            {
+                "name": "Afterglow",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/9f/ec/e0/9fece081-956a-c463-13c4-4e2238a7a120/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/26/1a/8a/261a8ab0-a97f-78d0-48dc-9e1cc37d82e8/mzaf_2823506305093525837.plus.aac.p.m4a"
+            },
+            {
+                "name": "Be Yourself",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/e4/03/85/e40385a5-ef00-9a07-53f0-223e524d36a2/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/cd/cf/4f/cdcf4f50-beec-e2e0-9ab3-786758291c33/mzaf_4458637697412054358.plus.aac.p.m4a"
+            },
+            {
+                "name": "Ahead (feat. Mount Sinai)",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/97/ad/a2/97ada203-c0b6-3350-aa87-15656265ebfa/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/11/c7/93/11c7934d-b20b-cf12-5da8-5a75851025ef/mzaf_14709039173283835481.plus.aac.p.m4a"
+            },
+            {
+                "name": "Soul Mate ~和風 Japanese Version~",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/44/96/1c/44961cbe-1e95-b645-672c-0939388bd1d6/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/23/00/07/230007b7-aa7a-2720-57cd-9a4b810d2fdc/mzaf_2332748811450677276.plus.aac.p.m4a"
+            }
+        ],
         "pid": 63
     },
     {
@@ -1278,7 +2317,23 @@
         "duration": 40,
         "start": "15:40",
         "end": "16:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "L.O.T",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d5/2e/e7/d52ee728-4ec8-4c9a-253b-8a6e8d760a17/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/e0/b5/b4/e0b5b468-0979-a15e-25b4-b5dfe9c81215/mzaf_10418929676773260182.plus.aac.p.m4a"
+            },
+            {
+                "name": "假期 (feat. 菅原慎一 & 凌元耕)",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/d2/0a/ce/d20acee5-cbf3-d6b4-f5a8-5539ffb47a1e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/9e/7e/5b/9e7e5b4d-34ba-e49e-f6ff-2e4f895c97d4/mzaf_5895520604191956439.plus.aac.p.m4a"
+            },
+            {
+                "name": "獵人遊戲",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d5/2e/e7/d52ee728-4ec8-4c9a-253b-8a6e8d760a17/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/63/97/36/63973694-4aae-d785-25d5-6d5c5731283e/mzaf_10826674995271213314.plus.aac.p.m4a"
+            }
+        ],
         "pid": 68
     },
     {
@@ -1292,7 +2347,58 @@
         "duration": 40,
         "start": "15:40",
         "end": "16:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "空虛的愛",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/77/a7/02/77a702a3-677c-727b-3fab-2ef9e4c480d9/mzaf_6933736126949359688.plus.aac.p.m4a"
+            },
+            {
+                "name": "等待男孩",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/55/a1/de55a1fb-2f23-4498-6368-a996ebe5e749/mzaf_1255680490708636491.plus.aac.p.m4a"
+            },
+            {
+                "name": "當被世界遺棄",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a5/14/a6/a514a6ee-d44a-f00c-cf10-606a7b18b278/mzaf_5820871289362312676.plus.aac.p.m4a"
+            },
+            {
+                "name": "再見",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1b/2f/1f/1b2f1fcd-1718-2a6e-b58f-e4185dca4da9/mzaf_1596685019649598180.plus.aac.p.m4a"
+            },
+            {
+                "name": "趴踢爽",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/40/08/bf400821-f018-6b55-889b-9b39e9bb694c/mzaf_3449900108722581736.plus.aac.p.m4a"
+            },
+            {
+                "name": "時間",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f0/de/06/f0de0648-8604-03f2-265e-47f12e6a2275/mzaf_7104469640100070027.plus.aac.p.m4a"
+            },
+            {
+                "name": "想通了以後",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/42/99/92/42999224-5a98-1fcb-6bab-ad643288f3b5/mzaf_2635502030806678730.plus.aac.p.m4a"
+            },
+            {
+                "name": "看無路",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d3/fa/52/d3fa5254-9044-e17f-c04d-b363a9b6c4bd/mzaf_6529616850929695711.plus.aac.p.m4a"
+            },
+            {
+                "name": "雨",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f5/34/a3/f534a317-402c-069a-45fb-ea5e4a4b9efa/mzaf_10521138105865801.plus.aac.p.m4a"
+            },
+            {
+                "name": "廢話",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/1c/bc/ec1cbc42-c2a4-e84a-58a4-c21f4c8f9d90/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/db/56/3edb56ec-fcb1-5d07-ebb3-05c24e93111a/mzaf_8948248174338080110.plus.aac.p.m4a"
+            }
+        ],
         "pid": 51
     },
     {
@@ -1334,7 +2440,38 @@
         "duration": 40,
         "start": "16:20",
         "end": "17:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "自動導航 (feat. 李權哲 & 方Q)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/e9/07/e7/e907e751-e0e1-53d6-22db-976131936961/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/bc/32/03/bc3203a4-6fea-3035-f885-e95f02657b46/mzaf_8814345659489385894.plus.aac.p.m4a"
+            },
+            {
+                "name": "魚",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/2e/a2/14/2ea214d8-eb87-b031-1c54-5b43522b4b44/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/a0/b9/8b/a0b98b41-323e-94c3-c98e-905fd9dbf34e/mzaf_4704569842243641099.plus.aac.p.m4a"
+            },
+            {
+                "name": "在花園中",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/2e/a2/14/2ea214d8-eb87-b031-1c54-5b43522b4b44/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/d3/7f/42/d37f42dd-9199-f294-5763-c9dcfa64c7f0/mzaf_4531376484900190259.plus.aac.p.m4a"
+            },
+            {
+                "name": "平行宇宙",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/2e/a2/14/2ea214d8-eb87-b031-1c54-5b43522b4b44/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/b9/db/b3/b9dbb37b-eeee-16d3-5457-651efb4deb27/mzaf_4671352651424172344.plus.aac.p.m4a"
+            },
+            {
+                "name": "不讓你",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music111/v4/eb/d8/65/ebd86558-ec4f-28e4-8177-808d06d823b2/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/d0/60/fb/d060fbad-59b5-494d-cb00-76af6616b4b3/mzaf_243412583849767124.plus.aac.p.m4a"
+            },
+            {
+                "name": "超過",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/2e/a2/14/2ea214d8-eb87-b031-1c54-5b43522b4b44/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/75/13/f0/7513f024-88cc-30cc-591a-ec443ae52d84/mzaf_5068625896941306055.plus.aac.p.m4a"
+            }
+        ],
         "pid": 58
     },
     {
@@ -1362,7 +2499,28 @@
         "duration": 40,
         "start": "16:20",
         "end": "17:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Burgundy Red",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/51/c5/93/51c59311-b2c2-9357-da5c-d4648a3c7375/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/98/a1/ab/98a1abe5-7e69-e8f3-5b8c-7afe45aa297d/mzaf_1124141084486864769.plus.aac.p.m4a"
+            },
+            {
+                "name": "Welcome To",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/a6/6d/69/a66d69d7-5c6a-2114-dc4e-f3597591a519/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/79/e0/d1/79e0d15a-36ea-b05f-617f-2c06000eea8c/mzaf_8013390649562137027.plus.aac.p.m4a"
+            },
+            {
+                "name": "My Jinji",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/51/c5/93/51c59311-b2c2-9357-da5c-d4648a3c7375/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/eb/5e/d1/eb5ed1b2-1769-a0a7-0c36-a5eaef7d5873/mzaf_5406090926964072883.plus.aac.p.m4a"
+            },
+            {
+                "name": "Summum Bonum",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7c/ea/14/7cea1437-f7d4-9bb9-c274-4921c96d1932/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/8c/b0/1b/8cb01be5-0244-9d9e-c969-2ed8e19ea3ef/mzaf_8702185520137972548.plus.aac.p.m4a"
+            }
+        ],
         "pid": 42
     },
     {
@@ -1390,7 +2548,13 @@
         "duration": 60,
         "start": "17:00",
         "end": "18:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "春風偷偷講",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/49/09/71/49097112-3544-31c6-58cd-817182a540ff/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/3a/d1/c6/3ad1c60a-7405-fc7d-7960-2b77f354d66b/mzaf_4127530109171528980.plus.aac.p.m4a"
+            }
+        ],
         "pid": 74
     },
     {
@@ -1404,7 +2568,13 @@
         "duration": 60,
         "start": "17:00",
         "end": "18:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Always Tonight",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/2c/fb/50/2cfb503c-7c0f-51bc-4f5f-2918aa8c3323/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/b4/f9/72/b4f9721b-ac0f-a9de-96b8-9c689fdf7594/mzaf_4689431968650266729.plus.aac.p.m4a"
+            }
+        ],
         "pid": 81
     },
     {
@@ -1418,7 +2588,28 @@
         "duration": 40,
         "start": "17:00",
         "end": "17:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Waraou (Re-Arrange Ver.)",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/a3/30/55/a3305588-55ac-ae1c-2af2-28867d7d67cd/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/bb/88/af/bb88afee-67a0-7358-0184-bb2289c4b523/mzaf_7662889226831907940.plus.aac.p.m4a"
+            },
+            {
+                "name": "Mitainakoto",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/53/38/8e/53388e5e-219a-103a-f87d-1040ec1fb80c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/bb/2e/03/bb2e033b-7aca-d75a-a713-aaf070effd78/mzaf_2616497764268256116.plus.aac.p.m4a"
+            },
+            {
+                "name": "Doudemo Yokunaru",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/a3/30/55/a3305588-55ac-ae1c-2af2-28867d7d67cd/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/44/95/d1/4495d137-f032-ea2a-4ebf-927d6921a971/mzaf_5549623047257652220.plus.aac.p.m4a"
+            },
+            {
+                "name": "Revolver",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/a3/30/55/a3305588-55ac-ae1c-2af2-28867d7d67cd/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f0/c6/a1/f0c6a12a-8b00-27db-7b5c-a060ab57f794/mzaf_2919985148543823939.plus.aac.p.m4a"
+            }
+        ],
         "pid": 52
     },
     {
@@ -1432,7 +2623,23 @@
         "duration": 40,
         "start": "17:00",
         "end": "17:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "乎恁的歌",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/fd/be/77/fdbe77c9-8139-27be-0caa-aa2f2b79e190/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/40/d0/7f/40d07f7d-4869-6cd6-4332-1e113adf611d/mzaf_4592195093259787523.plus.aac.p.m4a"
+            },
+            {
+                "name": "純情夢",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/fd/be/77/fdbe77c9-8139-27be-0caa-aa2f2b79e190/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/c9/85/3e/c9853e80-2db7-f200-7a43-c841fe948e82/mzaf_3852408719082708251.plus.aac.p.m4a"
+            },
+            {
+                "name": "半醒",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/fd/be/77/fdbe77c9-8139-27be-0caa-aa2f2b79e190/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/7a/30/41/7a30417f-4970-3221-7c1e-16aeb2ca518c/mzaf_1157320562798961993.plus.aac.p.m4a"
+            }
+        ],
         "pid": 69
     },
     {
@@ -1446,7 +2653,23 @@
         "duration": 40,
         "start": "17:20",
         "end": "18:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "擱淺的人",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/ad/ed/14aded7b-b84d-2e31-173e-2e50aeaa01c0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c7/97/50/c7975068-c0c7-6769-ba5f-bd0da2a8120d/mzaf_7442991422931836689.plus.aac.p.m4a"
+            },
+            {
+                "name": "在你死後才想起曾經答應陪你去散步",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/ad/ed/14aded7b-b84d-2e31-173e-2e50aeaa01c0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/b1/13/ba/b113badc-4e2a-c173-c432-7a6ec000b994/mzaf_3990049612381494628.plus.aac.p.m4a"
+            },
+            {
+                "name": "Intro / 溫暖而綿長的, 餘燼",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/ad/ed/14aded7b-b84d-2e31-173e-2e50aeaa01c0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/f7/68/3ff768c8-a4c4-7199-5bf5-5894fcfe25a1/mzaf_6501291253313606479.plus.aac.p.m4a"
+            }
+        ],
         "pid": 48
     },
     {
@@ -1460,7 +2683,28 @@
         "duration": 40,
         "start": "17:40",
         "end": "18:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Live & Life",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/90/25/e6/9025e658-be24-c89a-4085-a638dd4319ae/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/92/06/c7/9206c785-d625-66b0-444d-a54b9a2a4973/mzaf_7575376699589986917.plus.aac.p.m4a"
+            },
+            {
+                "name": "言不由衷",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/90/25/e6/9025e658-be24-c89a-4085-a638dd4319ae/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e7/5f/48/e75f4805-8373-f124-be03-d946ff1bee7c/mzaf_269417835157238627.plus.aac.p.m4a"
+            },
+            {
+                "name": "再見過去",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/90/25/e6/9025e658-be24-c89a-4085-a638dd4319ae/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/99/55/3a/99553ade-59a2-92df-c73f-b33e0708dd07/mzaf_5855153915788784871.plus.aac.p.m4a"
+            },
+            {
+                "name": "雄雄想起伊來",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/90/25/e6/9025e658-be24-c89a-4085-a638dd4319ae/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f3/17/6c/f3176c6a-572c-ed08-14c4-a77747ab632d/mzaf_3758695046074151666.plus.aac.p.m4a"
+            }
+        ],
         "pid": 59
     },
     {
@@ -1516,7 +2760,28 @@
         "duration": 40,
         "start": "18:20",
         "end": "19:00",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "島",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/6c/80/f1/6c80f18b-11f8-a55d-8397-248fd389a9a6/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d0/c8/b7/d0c8b788-5832-7d13-e9cc-9a47dcec0c08/mzaf_6289219339942609159.plus.aac.p.m4a"
+            },
+            {
+                "name": "城市潛水",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/72/75/92/727592f9-47cb-dc71-cf8f-7948d55b7011/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/c3/98/5f/c3985fba-f19b-6cf8-fa06-8aa3947bae83/mzaf_7343918473616856882.plus.aac.p.m4a"
+            },
+            {
+                "name": "手捧一杯酒",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/e7/1e/d0/e71ed080-2c9f-e488-2145-a87abb3c877e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7d/a9/b2/7da9b22f-164b-07e7-32b1-601526ddd3fc/mzaf_318609301167970711.plus.aac.p.m4a"
+            },
+            {
+                "name": "今夜的種種可能",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/2a/20/242a20d2-ae4d-a46f-f2ff-1199c1c7d4e8/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3f/5c/e0/3f5ce007-1e71-9268-f08a-dad9e70be79e/mzaf_17945983065442425797.plus.aac.p.m4a"
+            }
+        ],
         "pid": 70
     },
     {
@@ -1530,7 +2795,48 @@
         "duration": 40,
         "start": "18:40",
         "end": "19:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Intro",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/84/ae/13/84ae1317-a31e-c054-9cef-1b5cd5828382/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/53/29/8f/53298f9f-b48c-42b5-9f12-4f30f7d9c045/mzaf_6783542785421327367.plus.aac.p.m4a"
+            },
+            {
+                "name": "Access Denied",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/84/ae/13/84ae1317-a31e-c054-9cef-1b5cd5828382/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/f5/c3/0b/f5c30b22-47e6-f13f-a728-cdc9db7b546e/mzaf_786027219849902462.plus.aac.p.m4a"
+            },
+            {
+                "name": "Knuckle Up (Acapella)",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/84/ae/13/84ae1317-a31e-c054-9cef-1b5cd5828382/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/93/a4/d3/93a4d310-4c59-c316-a5e6-1d3cc32cca82/mzaf_9183864203378690946.plus.aac.p.m4a"
+            },
+            {
+                "name": "Knuckle Up (Street)",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/84/ae/13/84ae1317-a31e-c054-9cef-1b5cd5828382/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/4d/6e/57/4d6e5784-5b14-f40f-78a4-97811cb3c5c3/mzaf_1799375612164575255.plus.aac.p.m4a"
+            },
+            {
+                "name": "Do It Tonight (Radio)",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/84/ae/13/84ae1317-a31e-c054-9cef-1b5cd5828382/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/0e/6f/84/0e6f84da-1fb0-8841-a146-dbdbaa3c8011/mzaf_7954442716646315922.plus.aac.p.m4a"
+            },
+            {
+                "name": "Do It Tonight (Instrumental)",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/84/ae/13/84ae1317-a31e-c054-9cef-1b5cd5828382/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/94/30/b1/9430b131-da98-8273-93a8-86229354193a/mzaf_897672736036078305.plus.aac.p.m4a"
+            },
+            {
+                "name": "Knuckle Up (Radio)",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/84/ae/13/84ae1317-a31e-c054-9cef-1b5cd5828382/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/10/fc/c6/10fcc655-432d-5f27-2657-098e6a3c5493/mzaf_7287694387768289460.plus.aac.p.m4a"
+            },
+            {
+                "name": "The March",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/8c/1e/64/8c1e6481-31e5-a159-eff3-6fb5c89eacac/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/eb/dc/47/mzm.jbwhetvt.aac.p.m4a"
+            }
+        ],
         "pid": 49
     },
     {
@@ -1544,7 +2850,33 @@
         "duration": 40,
         "start": "19:00",
         "end": "19:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "妳是不是我編出的一個謊?",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/7a/c5/457ac56c-0f2c-2cd0-ed66-60f1bb5adb40/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/60/90/7d/60907ddf-74b0-2e5a-aef3-953a62c41292/mzaf_5574697846586615606.plus.aac.p.m4a"
+            },
+            {
+                "name": "也許我見不到你了",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d5/78/0b/d5780b7d-34f8-163d-0cfd-885339f17842/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/68/2b/c5/682bc596-ae1b-c1e4-1de3-68e81b8c94e9/mzaf_4992849763137393823.plus.aac.p.m4a"
+            },
+            {
+                "name": "下一步絕望",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/7a/c5/457ac56c-0f2c-2cd0-ed66-60f1bb5adb40/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/89/31/b0/8931b020-550c-25e6-5a23-b45ebf0b08a7/mzaf_11367799034777598649.plus.aac.p.m4a"
+            },
+            {
+                "name": "遜到簡直是個藝術品",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/7a/c5/457ac56c-0f2c-2cd0-ed66-60f1bb5adb40/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/3d/2a/f5/3d2af5e8-829d-9b44-4a34-9e7f30e10c71/mzaf_6943952605352536474.plus.aac.p.m4a"
+            },
+            {
+                "name": "台北流浪指南",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/7a/c5/457ac56c-0f2c-2cd0-ed66-60f1bb5adb40/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/82/87/68/82876890-feba-9623-b329-64869fbb5e4a/mzaf_4308613901215421325.plus.aac.p.m4a"
+            }
+        ],
         "pid": 60
     },
     {
@@ -1586,7 +2918,28 @@
         "duration": 40,
         "start": "19:40",
         "end": "20:20",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "我多麼想成為你的鹿",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music18/v4/63/8e/fe/638efe83-d6ee-619a-145b-bbd23d4c6f75/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview60/v4/2b/d8/68/2bd86814-5c17-388d-2bcf-d5c1059e89bc/mzaf_7314072763128065226.plus.aac.p.m4a"
+            },
+            {
+                "name": "果陀",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music18/v4/63/8e/fe/638efe83-d6ee-619a-145b-bbd23d4c6f75/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/22/36/1c/22361c4b-1449-5bf0-f9d1-b70354717375/mzaf_4663979854277247464.plus.aac.p.m4a"
+            },
+            {
+                "name": "微光",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music20/v4/f6/b1/d0/f6b1d0b7-2c6c-e4b5-dbc5-965f0e9c418e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview60/v4/14/1f/df/141fdf13-5c8f-152d-6b05-80bff2525a98/mzaf_4973257704426829912.plus.aac.p.m4a"
+            },
+            {
+                "name": "海王星",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music30/v4/d9/fa/57/d9fa57f7-d8b9-1a1e-9eed-a07eee4dfd76/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/ac/95/14/ac9514c2-8cac-b2a3-6cf9-6fcc7b6398d4/mzaf_857843730494825320.plus.aac.p.m4a"
+            }
+        ],
         "pid": 54
     },
     {
@@ -1600,7 +2953,28 @@
         "duration": 40,
         "start": "20:00",
         "end": "20:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "Fire",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/7c/51/e0/7c51e00d-9800-d55c-96df-98fac3cffa71/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b0/8a/a2/b08aa249-c831-7942-0990-d6f15ba4a7da/mzaf_8995417049844848897.plus.aac.p.m4a"
+            },
+            {
+                "name": "P R I D E",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/ce/42/2dce42fe-d203-83a3-4b88-cee9e23fd4e0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/df/89/e4/df89e4f6-3772-b730-b51a-06a731edfccb/mzaf_4169622797832597775.plus.aac.p.m4a"
+            },
+            {
+                "name": "DISCO",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/25/de/a7/25dea719-fe1f-e7fb-3fbe-c13f716d042c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/11/8d/88/118d880d-9a3f-ac64-5df3-592411dca28b/mzaf_7864406771472201773.plus.aac.p.m4a"
+            },
+            {
+                "name": "Bl",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/2d/ce/42/2dce42fe-d203-83a3-4b88-cee9e23fd4e0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/52/f9/3a/52f93a80-fca1-2526-e38c-748a86799d78/mzaf_3607400383300553337.plus.aac.p.m4a"
+            }
+        ],
         "pid": 50
     },
     {
@@ -1614,7 +2988,28 @@
         "duration": 60,
         "start": "20:40",
         "end": "21:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "晚安台灣",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/2b/b8/8a/2bb88afd-d8b9-a5bc-9ed8-ef2a2dae7ac8/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/2c/c3/ab/2cc3abfb-27c1-903a-7d6d-4065bf2153ec/mzaf_207500713172062831.plus.aac.p.m4a"
+            },
+            {
+                "name": "島嶼天光",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/39/39/91/393991f6-8a3e-a490-0a43-f27ddb1707cb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/37/9a/78/379a7838-fa9c-dda5-3fb4-1211b5221b24/mzaf_4535288448955014637.plus.aac.p.m4a"
+            },
+            {
+                "name": "曾經瘋狂",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/73/76/9c/73769cf6-d76c-9948-eea7-45fbc39a31fe/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/47/1d/65/471d65cf-bc5f-3c31-b90e-2b13b0adb7c6/mzaf_2893745360267905265.plus.aac.p.m4a"
+            },
+            {
+                "name": "長途夜車",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music111/v4/cf/3d/56/cf3d569c-539c-fe52-030d-1498beb5ef99/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/48/45/2f/48452ffc-2034-106e-843e-bce89f18c913/mzaf_989435094044399415.plus.aac.p.m4a"
+            }
+        ],
         "pid": 45
     },
     {
@@ -1628,7 +3023,28 @@
         "duration": 40,
         "start": "21:00",
         "end": "21:40",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "捲菸",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1b/88/9e/1b889e85-820a-f2d7-eab5-3f13231217b9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/a0/ae/10/a0ae10d8-cc80-b634-ed4b-6005671b4a5b/mzaf_7668997264660554257.plus.aac.p.m4a"
+            },
+            {
+                "name": "擋一根",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/23/bf/81/23bf81b3-e020-5e6d-4647-4b528f8935ee/mzaf_8997801649136554300.plus.aac.p.m4a"
+            },
+            {
+                "name": "我要你愛",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/b2/fa/31/b2fa31fd-914a-d791-c235-7af758db97b4/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/38/37/92/3837925c-2b27-3541-ed42-67c620691410/mzaf_15560172892053819618.plus.aac.p.m4a"
+            },
+            {
+                "name": "小老婆",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c9/cf/c6/c9cfc62a-60e5-6722-9db3-85ee754b3b0c/mzaf_7874367451354390298.plus.aac.p.m4a"
+            }
+        ],
         "pid": 55
     }
 ]
